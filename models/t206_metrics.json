@@ -1,0 +1,5 @@
+{
+  "status": "skipped_no_ultralytics",
+  "note": "Run: pip install ultralytics; then retrigger T-206",
+  "target_mAP50": 0.88
+}

@@ -1,0 +1,5 @@
+{
+  "model": "LSTM",
+  "val_mae": 0.2144,
+  "epochs": 10
+}

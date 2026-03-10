@@ -27,8 +27,9 @@ JSON_FILE    = os.path.join(OUTPUT_DIR, "findings.json")
 MD_FILE      = os.path.join(OUTPUT_DIR, "findings.md")
 LOG_FILE     = os.path.join(OUTPUT_DIR, "poller.log")
 
-POLL_INTERVAL_MINUTES = 2   # How often to poll
-RESULTS_PER_QUERY     = 5   # Papers fetched per query per cycle
+POLL_INTERVAL_MINUTES = 5   # Increased to 5 mins to stay under rate limits while collecting data
+RESULTS_PER_QUERY     = 20  # Increased to 20 to get more "bulk" when we do get through
+GLOBAL_429_COOLDOWN   = 60  # Sleep 60s if we hit a hard rate limit
 
 # Search queries — covers all regions and farming categories
 SEARCH_QUERIES = [
@@ -103,11 +104,11 @@ def fetch_semantic_scholar(query: str, limit: int = 5, retries: int = 3) -> list
     }
     for attempt in range(retries):
         try:
-            time.sleep(1.5 * (attempt + 1))  # Backoff: 1.5s, 3s, 4.5s
+            time.sleep(3.0 * (attempt + 1))  # Increased base sleep to 3s
             resp = requests.get(url, params=params, timeout=15)
             if resp.status_code == 429:
-                wait = 10 * (attempt + 1)
-                log(f"SemanticScholar rate-limited. Waiting {wait}s before retry...", "WARN")
+                wait = 60 * (attempt + 1) # Much longer wait
+                log(f"SemanticScholar rate-limited. Global cooldown {wait}s...", "WARN")
                 time.sleep(wait)
                 continue
             resp.raise_for_status()
@@ -262,7 +263,7 @@ def run_poll():
                     db["papers"][pid] = paper
                     new_count += 1
                     log(f"  + NEW: [{paper['year']}] {paper['title'][:70]}...", "OK")
-            time.sleep(1.2)  # Rate-limit compliance (SS + OpenAlex)
+            time.sleep(3.0)  # Increased inter-query sleep to 3s to stay under the radar
 
     save_db(db)
     generate_markdown(db)

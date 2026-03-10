@@ -1,0 +1,25 @@
+{
+  "model": "RandomForest",
+  "accuracy": 0.144,
+  "features": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall"
+  ],
+  "classes": [
+    "Bajra",
+    "Cotton",
+    "Maize",
+    "Rice",
+    "Soybean",
+    "Sugarcane",
+    "Tomato",
+    "Wheat"
+  ],
+  "n_samples_train": 4000,
+  "n_estimators": 50
+}

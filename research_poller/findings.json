@@ -899,10 +899,70 @@
       "url": "https://doi.org/10.1017/s1479262126100549",
       "query": "crop disease pest management global",
       "fetched_at": "2026-03-10T17:52:22.588342+00:00"
+    },
+    "2c7bebcab79f1256af9b9e7fe27c4db7229a7d62": {
+      "source": "SemanticScholar",
+      "title": "Using silvopastoral systems for the mitigation of greenhouse gas emissions from livestock in the Colombian Amazon",
+      "year": 2023,
+      "abstract": "Silvopastoral systems (SPS) are strategic in neutralizing greenhouse gases (GHG) emissions in livestock production systems, particularly in the tropics. This research assessed the mitigation potential of SPS on the carbon footprint (CFP) neutralizing in one integrated livestock farm of cow-calf and pig production system in the Colombian Amazon. Annual carbon accumulation rate (ACAR) in MgCO2e ha−1y−1, was evaluated on living above-ground biomass including trees and shrubs > 2 cm DBH and pasture, and leaf litter and below-ground biomass including coarse and fine roots, soil organic carbon 0–10 ",
+      "authors": "Henry Mavisoy, Adrian Rolando Riascos Vallejos, Juan Pablo Narváez-Herrera, A. Sánchez",
+      "venue": "Agroforestry Systems",
+      "doi": "10.1007/s10457-023-00912-5",
+      "url": "https://www.semanticscholar.org/paper/d85e8d33a23058c37e7a8caa3064971fc8baabea",
+      "query": "livestock greenhouse gas mitigation silvopastoral",
+      "fetched_at": "2026-03-10T17:54:52.493028+00:00"
+    },
+    "aab7eb1b318750542977b5fd65a9a80dc06550ca": {
+      "source": "SemanticScholar",
+      "title": "Reducing deforestation and improving livestock productivity: greenhouse gas mitigation potential of silvopastoral systems in Caquetá",
+      "year": 2019,
+      "abstract": "Colombia's agriculture, forestry and other land use sector accounts for nearly half of its total greenhouse gas (GHG) emissions. The importance of smallholder deforestation is comparatively high in relation to its regional counterparts, and livestock agriculture represents the largest driver of primary forest depletion. Silvopastoral systems (SPSs) are presented as agroecological solutions that synergistically enhance livestock productivity, improve local farmers’ livelihoods and hold the potential to reduce pressure on forest conversion. The department of Caquetá represents Colombia’s most im",
+      "authors": "D. Landholm, P. Pradhan, Peter Wegmann, Miguel Antonio Romero Sánchez",
+      "venue": "Environmental Research Letters",
+      "doi": "10.1088/1748-9326/ab3db6",
+      "url": "https://www.semanticscholar.org/paper/c1cc614abce96d7ff6bfc0adeb25fcc534d9f0fb",
+      "query": "livestock greenhouse gas mitigation silvopastoral",
+      "fetched_at": "2026-03-10T17:54:52.493028+00:00"
+    },
+    "e16d4e06741629cfc95b694d31308b144be1d2c2": {
+      "source": "SemanticScholar",
+      "title": "Silvopastoral systems in Latin America: mitigation opportunities for men and women livestock producers",
+      "year": 2015,
+      "abstract": "No abstract available.",
+      "authors": "T. Gumucio, M. Benard, M. Clavijo, M. C. Hernández",
+      "venue": "",
+      "doi": null,
+      "url": "https://www.semanticscholar.org/paper/106ec918fd97022b769ccfb4977fd671c586db58",
+      "query": "livestock greenhouse gas mitigation silvopastoral",
+      "fetched_at": "2026-03-10T17:54:52.493028+00:00"
+    },
+    "98777b0baf38e7a2ece9bff21cd906da2fd39ef3": {
+      "source": "SemanticScholar",
+      "title": "Assessing the impact of Samanea tubulosa trees on methane emissions and its potential as a feed supplement for ruminants in silvopastoral systems",
+      "year": 2025,
+      "abstract": "Silvopastoral systems (SPS) have been recognized for their multiple benefits, including animal welfare, performance, greenhouse gas mitigation, forage quality, and overall ecosystem services. However, the availability of native tree components for SPS is limited, leading to the prevalent use of exotic species. This study aimed to investigate the potential of the native leguminous tree, Samanea tubulosa, in SPS for sustainable livestock production. Chemical-bromatological analysis of S. tubulosa fruits revealed a high crude protein content and non-structural carbohydrates (NSC). An in vivo assa",
+      "authors": "Simón Pérez‐Márquez, V. Ovani, V. E. Meira, Alexandre de Azevedo Olival",
+      "venue": "Agroforestry Systems",
+      "doi": "10.1007/s10457-025-01231-7",
+      "url": "https://www.semanticscholar.org/paper/3af24cc442c032837c7b2baa8c640d9089527532",
+      "query": "livestock greenhouse gas mitigation silvopastoral",
+      "fetched_at": "2026-03-10T17:54:52.493028+00:00"
+    },
+    "db7ba73a72c73ede85044158a0e1b30548192764": {
+      "source": "SemanticScholar",
+      "title": "Beyond Carbon Credits: Integrating Silvopastoral Systems into REDD+ Activities for Article 6 of the Paris Agreement",
+      "year": 2026,
+      "abstract": "In the context of climate change and greenhouse gas emissions, the forestry sector holds significant potential to contribute to global mitigation efforts. One of the primary drivers of deforestation is land expansion for livestock production. However, both sectors are closely linked to issues of food security and food sovereignty, with the livestock sector playing a crucial role in ensuring food availability. Integrating these two sectors through silvopastoral systems offers a promising solution that supports forest conservation while simultaneously addressing the global food crisis. Among the",
+      "authors": "Eska Nugrahaeningtyas, Jiyeon Chun, Minkyung Song, Y. S. Prasojo",
+      "venue": "Forests",
+      "doi": "10.3390/f17010070",
+      "url": "https://www.semanticscholar.org/paper/aa006de95c949f5db9b8b2ccc7e547fcbcbe2ca9",
+      "query": "livestock greenhouse gas mitigation silvopastoral",
+      "fetched_at": "2026-03-10T17:54:52.493028+00:00"
     }
   },
   "meta": {
-    "last_updated": "2026-03-10T17:52:22.939526+00:00",
-    "total": 75
+    "last_updated": "2026-03-10T17:55:20.718196+00:00",
+    "total": 80
   }
 }

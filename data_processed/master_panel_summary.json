@@ -1,0 +1,26 @@
+{
+  "total_rows": 8,
+  "rag_chunks": 2,
+  "columns": [
+    "state_name",
+    "district_name",
+    "crop_year",
+    "season",
+    "crop",
+    "area",
+    "production",
+    "yield",
+    "data_source",
+    "date",
+    "state",
+    "market",
+    "commodity",
+    "min_price",
+    "max_price",
+    "modal_price"
+  ],
+  "sources": {
+    "AGMARKNET": 6,
+    "APY": 2
+  }
+}
