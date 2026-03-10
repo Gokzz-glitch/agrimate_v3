@@ -1,6 +1,6 @@
 # 🌾 AGRIMATE — Live Farming Research Findings
 
-> **Last Updated:** `2026-03-10T19:34:26.970613+00:00`  |  **Total Papers:** `552`
+> **Last Updated:** `2026-03-10T20:44:20.797350+00:00`  |  **Total Papers:** `748`
 
 ---
 
@@ -2771,6 +2771,2118 @@
 
 ---
 
+### 📄 Continuous biochar amendment to achieve long-term CH4 mitigation in paddy fields under water-saving irrigation: a 5-year experiment
+- **Authors:** Yu Jin Han, Peng Chen, Zhongxue Zhang, Xiaoyuan Yan
+- **Year:** 2026  |  **Venue:** Biochar  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s42773-026-00578-z](https://doi.org/10.1007/s42773-026-00578-z)
+
+> No abstract available.
+
+---
+
+### 📄 Legume intercropping and phosphorus management enhance the productivity and profitability of winter maize in calcareous soil
+- **Authors:** Chandravanshi Morajdhwaj, Kumar Mukesh, Biswajit Pramanick, Nanda Gangadhar
+- **Year:** 2026  |  **Venue:** Plant Science Today  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.14719/pst.12933](https://doi.org/10.14719/pst.12933)
+
+> Winter maize exhibits an extended growth duration. Due to this longer growth period, it requires greater nutrient inputs, particularly phosphorus (P). However, in calcareous soils, a substantial portion of applied P becomes fixed due to reactions with calcium and magnesium, forming insoluble calcium-phosphate complexes. Additionally, the low soil temperature during the winter season further decreases phosphorus mobility and diffusion in the rhizosphere, thereby reducing its availability for plant uptake. Winter maize is sown in October–November and shows limited growth until mid-February, offe
+
+---
+
+### 📄 Conservation Practices for Climate-Driven Drought Adaptation Under Smallholder Farming Systems in Southern Mozambique: A Systematic Review
+- **Authors:** Aires Adriano Mavulula, Prof. Tesfay Araya, Luís Artur, Jone Lucas Medja Ussalu
+- **Year:** 2026  |  **Venue:** Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/su18052525](https://doi.org/10.3390/su18052525)
+
+> Climate-driven droughts pose major threats to rainfed farming worldwide. To address these impacts, smart agricultural approaches focusing on conservation practices (CPs) have been widely recommended by institutions such as the Food and Agriculture Organization of the United Nations (FAO), the World Food Programme (WFP), and the International Fund for Agricultural Development (IFAD), among others. This systematic review synthesizes evidence on CPs for climate-driven drought adaptation and the barriers to their adoption in southern Mozambique, where drought is predominant. Following Preferred Re
+
+---
+
+### 📄 Barriers and opportunities to smallholder goat enterprise in Botswana
+- **Authors:** Lovemore C. Gwiriri, Honest Machekano, Andrew S. Cooke, Casper Nyamukondiwa
+- **Year:** 2026  |  **Venue:** Food Security  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s12571-026-01648-7](https://doi.org/10.1007/s12571-026-01648-7)
+
+> Smallholder households across rural sub-Saharan Africa often rely on goats to support their livelihoods, food security, and financial security, and as a risk mitigation strategy. Across the region, goat health and performance outcomes vary greatly, and it is often difficult to quantify the impact of the animal health-nutrition nexus on livelihood outcomes. Two socio-economic surveys were conducted to this end in Botswana. Firstly, a general cross-sectional survey of 787 rural households to assess the correlation between food and/or financial security and livestock practices. Secondly, a more n
+
+---
+
+### 📄 Determination of natural uranium and thorium levels in environmental matrices surrounding uranium mining sites via ICP-MS
+- **Authors:** Joel Augusto Moura Porto, Lander de Jesus Alves, Hector Hugo Silva Medrado, Josilene da Silva Rocha
+- **Year:** 2026  |  **Venue:** Journal of Radioanalytical and Nuclear Chemistry  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s10967-026-10785-4](https://doi.org/10.1007/s10967-026-10785-4)
+
+> Abstract This study quantified natural uranium and thorium concentrations in environmental matrices surrounding a uranium mining area in Brazil and evaluated the distribution of uranium and thorium radionuclides in ores, waters, and soils from the Cachoeira and Engenho mines. Distinct geochemical signatures were observed between the mines, with lower uranium-to-thorium ratios at Engenho. While thorium levels in ores were lower than commonly reported, elevated concentrations in aqueous samples suggest strong geological and hydrological controls. Agricultural soils showed moderately enhanced tho
+
+---
+
+### 📄 Sustainable Valorization of Plant-Derived Agri-Food Side-Streams Through Fungal Biorefinery: Supporting Bioeconomy Strategy
+- **Authors:** Luziana Hoxha, Mohammad J. Taherzadeh
+- **Year:** 2026  |  **Venue:** Current Pollution Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s40726-026-00399-5](https://doi.org/10.1007/s40726-026-00399-5)
+
+> The rapid expansion of agricultural and agri-food production has generated substantial volumes of byproducts and side-streams rich in organic matter. Despite their potential, these residues remain largely underutilized, contributing to environmental pressures and constraining the economic sustainability of food systems. Filamentous fungi, with a long history of assimilating agri-food side-streams (AFS), offer a promising solution by enabling the conversion of organic-rich side-streams into nutrient-dense fungal biomass suitable for novel food and feed applications. This review synthesizes rece
+
+---
+
+### 📄 Growth and Biomass Responses of Cotton to Nitrogen and Molybdenum Applied via Seed, Foliar, and Soil Pathways
+- **Authors:** Suat Cun, Zemzem Fırat, Erdal Sakïn, İbrahim Halil Yanardağ
+- **Year:** 2026  |  **Venue:** Journal of soil science and plant nutrition  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s42729-026-03134-7](https://doi.org/10.1007/s42729-026-03134-7)
+
+> This study aimed to evaluate the effects of different molybdenum (Mo) doses and nitrogen (N) levels, applied using various application methods, on the physiological, morphological, and biochemical responses of cotton plants, as well as on soil biochemical properties. Mo (25 and 50 µg kg⁻¹) was applied as seed coating, foliar spraying, and soil drenching, and each Mo dose was combined with two N levels (15 and 30 kg ha⁻¹). Plant growth parameters, stomatal conductance, SPAD values, leaf N content, and biomass were measured. Soil pH, EC, and enzyme activities (catalase, urease, and dehydrogenase
+
+---
+
+### 📄 Availability and spatial distribution of crop and forest biomass residues for biochar production in Kenya
+- **Authors:** Timothy Namaswa, David F. R. P. Burslem, Jo Smith, Waheed Afzal
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-42350-0](https://doi.org/10.1038/s41598-026-42350-0)
+
+> Uptake of biochar for fuel briquetting and soil amendment is constrained in sub-Saharan Africa by inadequate knowledge of the quantity and distribution of feedstocks. This study assessed the quantities and spatial distribution of crop and forest residues available for biochar production in Kenya based on productivity data from 2021 and 2022. The residues were quantified using residue product ratios, surplus available factors and economically viable factors. Kenya produces (0.5-2.4) × 10<sup>7</sup> Mg y<sup>-1</sup> of crop residues and (1.48-1.8) × 10<sup>5</sup> Mg y<sup>-1</sup> of forest r
+
+---
+
+### 📄 Influence of socio-technical networks on the diversity of cacao agroforestry systems in northeastern Pará, Brazil.
+- **Authors:** Lucie Dubois Aubecq, Émilie Coudel, Bénédicte Rhoné, Lívia Navegantes-Alves
+- **Year:** 2026  |  **Venue:** Novos Cadernos NAEA  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.18542/ncn.v28i3.19222](https://doi.org/10.18542/ncn.v28i3.19222)
+
+> This article analyses the diversity of cacao agroforestry systems (CAFS) by examining the socio-technical networks associated with environmental restoration and cacao cultivation in the municipalities of Tomé-Açu and Irituia, in northeastern Pará. Fieldwork was carried out through semi-structured interviews with smallholder farmers, enabling the development of an empirical typology of CAFS. Three types of CAFS were identified: Group 1, characterised as “market-oriented CAFS”; Group 2, as “food sovereignty CAFS”; and Group 3, as “syntropic CAFS”. They are part of two main networks: an instituti
+
+---
+
+### 📄 Green Marketing in Agricultural Production in Azerbaijan
+- **Authors:** Farid Siyavush Oglu Mehdiyev, Vusal Yaqub Oglu Alifov, Sabina İsmail Gizi Hajiyeva, E. Mahmudov
+- **Year:** 2026  |  **Venue:** International Journal of Accounting and Economics Studies  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.14419/e98rfr96](https://doi.org/10.14419/e98rfr96)
+
+> This review article examines the evolving interaction of green marketing issues and the ‎agricultural sector of Azerbaijan, which attempts to modernize its agricultural sector, ‎including agri-food systems, but with compliance to global standards of sustainability. This ‎paper presents a systematic review of scholarly articles, policy reports, and cases in order to ‎explore the reality of the green marketing situation in Azerbaijani agriculture and reveal the ‎issues of barriers, enablers, and gaps. It is grounded on applicable theoretical frameworks such ‎as stakeholder theory, environmental 
+
+---
+
+### 📄 On Repeat? The Logic of Agricultural Modernization, the Choices of Tanzanian Small‐Scale Farmers, and Implications for the Second Green Revolution
+- **Authors:** Daniel Tobin, Lizah Makombore, Travis Reynolds, Leland Glenna
+- **Year:** 2026  |  **Venue:** Rural Sociology  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1111/ruso.70033](https://doi.org/10.1111/ruso.70033)
+
+> ABSTRACT The Alliance for a Green Revolution in Africa (AGRA) is the latest in a series of initiatives aimed at modernizing small‐scale farming to address food insecurity and poverty, yet AGRA has fallen short of its goals. This study explores whether these shortcomings might stem from flawed assumptions in AGRA's theory of change—assumptions long embedded in top‐down agricultural modernization efforts. We situate AGRA within broader debates on the agrarian question, especially the Chayanov–Lenin debate, and draw historical parallels with United States agricultural industrialization, the Green
+
+---
+
+### 📄 Optimizing NPS fertilizer application to enhance productivity of maize–bean intercropping on Ferralsols
+- **Authors:** Riziki Moses Nassary, Boniface H. J. Massawe, Eliakira Kisetu Nassary
+- **Year:** 2026  |  **Venue:** Journal of the Saudi Society of Agricultural Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44447-026-00139-7](https://doi.org/10.1007/s44447-026-00139-7)
+
+> Abstract Maize ( Zea mays L.) and common bean ( Phaseolus vulgaris L.) are major food crops that support smallholder farming systems, yet productivity remains low on Ferralsols due to nutrient limitations and low input use. Ferralsols are characterized by acidity, low cation exchange capacity, and limited availability of nitrogen, phosphorus, and sulphur, which constrains crop growth and yield. This study evaluated the effects of NPS (12–45–5, Zn 0.2%) fertilizer on growth, yield, and nutrient use efficiency of maize–bean intercropping on Ferralsols in the Eastern Agro-ecological Zone of Tanza
+
+---
+
+### 📄 Assessing the Effects of Rainfall Variability on Household Food Security: A Case Study of Small-Scale Farmers in Mungule Village - Chibombo District
+- **Authors:** Mirriam Nyambe, Keresia Taranhike
+- **Year:** 2026  |  **Venue:** International Journal of Advanced Multidisciplinary Research and Studies  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.62225/2583049x.2026.6.1.5824](https://doi.org/10.62225/2583049x.2026.6.1.5824)
+
+> This study examines the implications of rainfall variability for household food security in Mungule Village, Chibombo District, with particular emphasis on smallholder farmers whose livelihoods are predominantly dependent on rain-fed agricultural systems. In Zambia, agricultural productivity and crop yields are strongly influenced by the spatial and temporal distribution of rainfall, making farming communities especially vulnerable to climatic fluctuations. Within this context, the paper analyses long-term rainfall variability and its relationship with agricultural production in Chibombo Distr
+
+---
+
+### 📄 Thirty years of nitrogen dynamics in European agri-food systems: a territorial metabolic perspective
+- **Authors:** Ludovic Harter, Rasmus Einarsson, Jean‐Christophe Lata, Julia Le Noë
+- **Year:** 2026  |  **Venue:** Environmental Research Letters  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1088/1748-9326/ae452e](https://doi.org/10.1088/1748-9326/ae452e)
+
+> Abstract European agri-food systems face the dual challenge of reducing their environmental footprint, particularly nitrogen losses, while meeting the demands for both food and non-food biomass. Because future responses will have to build on the legacy of past trajectories, addressing this challenge requires a sound, fine-grained understanding of those trajectories. In the present study, we address this challenge by compiling a dataset (1990–2019) quantifying nitrogen flows across the agri-food systems of 120 European territories. Using this dataset, we apply the generalized representation of 
+
+---
+
+### 📄 Exploring the use of pesticides from &lt;i&gt;Nicotiana tabacum&lt;/i&gt; and &lt;i&gt;Capsicum annuum&lt;/i&gt; for fall armyworm control in maize plantations
+- **Authors:** Eric Tuyambaze, Fabien Rizinjirabake, Odile Manaturikumwe, Olive Nyirarukundo
+- **Year:** 2026  |  **Venue:** Rwanda Journal of Engineering Science Technology and Environment  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.4314/rjeste.v7i2.12](https://doi.org/10.4314/rjeste.v7i2.12)
+
+> This study examines the utilization of Nicotiana tabacum and Capsicum annuum as bioresources for the development of sustainable, organic pesticides aimed at controlling maize caterpillars. Conducted across Gatsata, Nyamata, and Byimana, the research evaluates the efficacy of plant extracts in reducing fall armyworm populations. Nicotiana tabacum leaves and Capsicum annuum fruit extract were prepared, steeped in water, strained, and refrigerated. Extracts were diluted into low, medium, and high concentrations to test the pesticidal effects on maize caterpillars. These extracts were applied to m
+
+---
+
+### 📄 Empirical Comparison of Sustainability Evaluation Frameworks Applied to Agri-Food Systems
+- **Authors:** Pablo Rituay, Marilú Mestanza, Carlos Aldea, Jonathan Alberto Campos Trigoso
+- **Year:** 2026  |  **Venue:** Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/su18041803](https://doi.org/10.3390/su18041803)
+
+> This study aims to provide an empirical, decision-oriented comparison of four widely used sustainability assessment frameworks applied to agri-food systems (LCA, MESMIS, SAFA, and RISE). Using a Scopus-based search (2000–2025), we compiled a purposively balanced corpus of 89 empirical applications and coded each study with a standard rubric spanning normative, systemic, and procedural dimensions. Dimension indices were constructed using polychoric PCA (first component) and rescaled to 0–1, and a global index was computed as the mean of the three dimensions. Within the constructed corpus, MESMI
+
+---
+
+### 📄 Assessing the Resilience of Regenerative Agricultural Systems to Climate Change: A Scenario-Based Systemic Analysis Framework
+- **Authors:** Ana-Maria Nicolau, Augustin Semenescu, Petruţa Petcu
+- **Year:** 2026  |  **Venue:** Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriculture16030374](https://doi.org/10.3390/agriculture16030374)
+
+> Regenerative agriculture (RA) offers a critical pathway for climate change mitigation and adaptation, yet its implementation is often hindered by conceptual ambiguity and a lack of standardized assessment frameworks. This study employs a comparative systemic analysis, integrated with a Failure Mode and Effects Analysis (FMEA) framework, to evaluate the resilience of medium-sized RA farms (50–200 ha)—a segment representing the professional backbone of European agriculture—under varying infrastructural and policy conditions. By synthesizing recent standardized metrics from the global literature,
+
+---
+
+### 📄 Safely poisoned: ontological politics of Eu’s pesticide regulation
+- **Authors:** Saana Hokkanen
+- **Year:** 2026  |  **Venue:** Agriculture and Human Values  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s10460-026-10858-w](https://doi.org/10.1007/s10460-026-10858-w)
+
+> Synthetic pesticides and their widespread use in agricultural production is a key part of the materiality of modernity, and a systemic tool for how industrial agriculture re-organizes multispecies life. This article furthers existing research investigating the ontological politics of environmental governance and the global agrochemical complex, drawing linkages between pesticides and the historical expansion of modernity as a way of world-making within the context of Europe. By utilizing a critical policy analysis as a method, the article examines EU policy documents as ontological and politic
+
+---
+
+### 📄 Precision Farming with Smart Sensors: Current State, Challenges and Future Outlook
+- **Authors:** Bonface O. Manono, Boniface Mwami, Sylvester Mutavi, Faith Mwende Nzilu
+- **Year:** 2026  |  **Venue:** Sensors  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/s26030882](https://doi.org/10.3390/s26030882)
+
+> The agricultural sector, a vital industry for human survival and a primary source of food and raw materials, faces increasing pressure due to global population growth and environmental strains. Productivity, efficiency, and sustainability constraints are preventing traditional farming methods from adequately meeting the growing demand for food. Precision farming has emerged as a transformative paradigm to address these issues. It integrates advanced technologies to improve decision making, optimize yield, and conserve resources. This approach leverages technologies such as wireless sensor netw
+
+---
+
+### 📄 When the university meets the grassroots: participatory action research and just transitions in agriculture
+- **Authors:** Ana Fochesatto, Erin B. Lowe, A. Rissman
+- **Year:** 2026  |  **Venue:** Agriculture and Human Values  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s10460-025-10805-1](https://doi.org/10.1007/s10460-025-10805-1)
+
+> Confronting the deep-rooted social inequities and environmental harm in animal agriculture research demands approaches that link Just Transitions (JT) with Participatory Action Research (PAR). We present a case study from the Midwest, USA, drawing on an ongoing participatory action research project, started in 2020, where we conducted semi-structured interviews with 128 participants and three participatory workshops with farmers, non-profit leaders, and community organizers. Adapting established PAR methods, we integrated community organizing tools such as one-on-one relational meetings and in
+
+---
+
+### 📄 Social movements are transformative agents for biodiversity conservation
+- **Authors:** Mariana Walter, Arnim Scheidel, Clara Vadez, Daniela Del Bene
+- **Year:** 2026  |  **Venue:** Proceedings of the National Academy of Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1073/pnas.2513327123](https://doi.org/10.1073/pnas.2513327123)
+
+> Civil society has long been a catalyst for social change by reshaping structures, influencing values, and challenging power dynamics; however, its role in driving transformative change for biodiversity remains underexplored. To address this gap, we analyze 2,801 socio-environmental mobilizations documented in the Environmental Justice Atlas (EJAtlas). These mobilizations produce diverse outcomes that reveal distinct spatial, temporal, and sectoral patterns and proactively and reactively respond to environmental impacts across the globe. Notably, about 40% of these mobilizations occur within th
+
+---
+
+### 📄 Tecnologias sociais e a agroecologia: facilitando a adoção de práticas sustentáveis no Ceará
+- **Authors:** Nágila Batista Coelho, Maria Jardenes de Matos, Denes Dantas Vieira, Alineaurea Florentino Silva
+- **Year:** 2026  |  **Venue:** Contribuciones a las Ciencias Sociales  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.55905/revconv.19n.1-224](https://doi.org/10.55905/revconv.19n.1-224)
+
+> A discussão da transição agroecológica é um processo que visa a transformação dos sistemas agrícolas convencionais em sistemas mais sustentáveis e ecologicamente equilibrados. Nesse contexto, as tecnologias sociais emergem como ferramentas essenciais para facilitar essa transição, promovendo práticas agrícolas sustentáveis em comunidades rurais. Este trabalho busca, portanto, analisar a utilização das tecnologias sociais de acesso à água em comunidades do território do Cariri cearense, como estratégia para a transição agroecológica, tendo o método LUME como instrumento guia para análises dos r
+
+---
+
+### 📄 Towards dual-stress-tolerant rice crop: unraveling the physiological and molecular basis of salinity and drought tolerance
+- **Authors:** Gideon Sadikiel Mmbando, Joseph Innocent Massawe
+- **Year:** 2026  |  **Venue:** Discover Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44279-026-00542-2](https://doi.org/10.1007/s44279-026-00542-2)
+
+> Drought and salinity are two major abiotic stresses that reduce rice productivity. Rice plants respond mechanistically to drought stress by making osmotic adjustments, such as the accumulation of proline and sugars, and by closing their stomata to reduce transpiration. Deep penetration is avoided through root architecture adaptation, while antioxidant systems produced by both stresses reduce oxidative stress caused by reactive oxygen species (ROS). Salinity tolerance is achieved through ion homeostasis, which excludes or compartmentalises toxic sodium (Na⁺) and chloride (Cl⁻) ions within the p
+
+---
+
+### 📄 Productivity and food security status of agroforestry farming households in Oyo State, Nigeria
+- **Authors:** F. C. Olatoye, Y. U. Oladimeji, S. A. Sanni, A. Abdulkadir
+- **Year:** 2026  |  **Venue:** Discover Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44279-026-00531-5](https://doi.org/10.1007/s44279-026-00531-5)
+
+> This study examined the contribution of agroforestry practices to crop productivity and household food security among farming households in Oyo State, Nigeria. Specifically, it assessed the determinants of technical efficiency and the effect of different agroforestry systems on food security outcomes. Data were collected from 346 agroforestry farming households through a multi-stage (four-stage) sampling technique across four agricultural zones of the state. The Cobb–Douglas stochastic frontier production model was employed to estimate farmers’ technical efficiency, defined as the ability of a
+
+---
+
+### 📄 Communication as the primary driver of IoT-based smart farming adoption: the mediating role of innovation perception and the supporting function of institutional mechanism
+- **Authors:** Sumardjo, Adi Firmansyah, Leonard Dharmawan, Cecep Darmawan
+- **Year:** 2026  |  **Venue:** Frontiers in Communication  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fcomm.2026.1752567](https://doi.org/10.3389/fcomm.2026.1752567)
+
+> Communication and innovation perception play interconnected roles in shaping farmers’ adoption of IoT-based smart farming technologies. This study examines how communication strategies and institutional support influence innovation perception and adoption behavior among smallholder farmers. By positioning communication as a central explanatory mechanism, the analysis explores how information is interpreted, trusted, and translated into sustained technology use. A quantitative approach using PLS-SEM was applied to survey data collected from 200 farmers in West Java, Indonesia. The results indic
+
+---
+
+### 📄 Pesticide use and alternative pest control strategies in Liberia: a comparative analysis of staple and market-oriented crop farmers
+- **Authors:** Mesay Gurmu Yami, Ibukun James Olaoye, Ranjana Bhattacharjee, Elohor Mercy Diebiru-Ojo
+- **Year:** 2026  |  **Venue:** Frontiers in Sustainable Food Systems  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fsufs.2026.1603653](https://doi.org/10.3389/fsufs.2026.1603653)
+
+> Introduction Given the rising concern for food safety and environmental sustainability of agricultural intensification in the Global South, we examined drivers of pesticide use and Integrated Pest Management (IPM) in Liberia. Methods We draw on a unique dataset combining 336 cocoa, 320 coffee, and 291 cassava farmers with evidence from 72 midstream value chain actors, including buyers, aggregators, and processors, to capture both farm-level decision-making and downstream market incentives. Using econometric choice models, we analyze how household, farm, and institutional factors shape pest man
+
+---
+
+### 📄 Data-driven Innovation in Agriculture: A Critical Imperative for Food and Nutrition Security in sub-Saharan Africa
+- **Authors:** IB Oluwatayo
+- **Year:** 2026  |  **Venue:** African Journal of Food Agriculture Nutrition and Development  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.18697/ajfand.149.26060](https://doi.org/10.18697/ajfand.149.26060)
+
+> Sub-Saharan Africa (SSA) faces persistent challenges in achieving sustainable agricultural production and food and nutrition security. Traditional farming methods, climate change, poor infrastructure, obsolete technology, declining resources, and limited access to finance and markets, are factors exacerbating these problems. Meanwhile, availability of reliable and accurate data is crucial for efficient resource allocation and management in critical sectors of developing countries, including agriculture. In countries where resources are scarce, efficient resource use will not only reduce waste 
+
+---
+
+### 📄 Green pathways to carbon neutrality: evidence from South Asian economies
+- **Authors:** Aneesa Bibi, Imran Khan, Muhammad Shahzad, Mohd Ziaur Rehman
+- **Year:** 2026  |  **Venue:** Carbon Research  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44246-025-00243-3](https://doi.org/10.1007/s44246-025-00243-3)
+
+> Abstract Comprising eight nations and over one-fifth of the world’s population, the South Asian Association for Regional Cooperation (SAARC) is an important bloc. Its green-economy transition relies on coordinated efforts by national and local governments, private firms, community groups, and international agencies, and is supported by renewable-energy incentives, carbon-pricing mechanisms, sustainable land-use policies, and green-finance initiatives. This study aims to identify effective strategies and policy recommendations that support economic sustainability and carbon neutrality in the SA
+
+---
+
+### 📄 Are Alternative Crops Needed for Future Sustainable Food Production?
+- **Authors:** J. M. Lenné, David M. Wood
+- **Year:** 2026  |  **Venue:** Plants  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/plants15050804](https://doi.org/10.3390/plants15050804)
+
+> The momentum to reduce global reliance on a few staple food crops has been growing in recent years, partly fuelled by a belief that the situation is precarious and the world is at risk of a major food crisis. In this context, the perspective paper poses the overarching question: “Are alternative crops needed for future sustainable food production?” In responding to the question, it critically analyses the following: the risk of reliance on a few staple food crops; the importance of widely grown, preferred crops that are not considered global staple food crops; the confusion surrounding the ter
+
+---
+
+### 📄 Do pastoral and agro-pastoral perceptions align with observed climate extremes? Evidence from the Koh-e-Suleiman Range, Pakistan
+- **Authors:** Waqar-Ul-Hassan Tareen, Eva Schlecht
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-41100-6](https://doi.org/10.1038/s41598-026-41100-6)
+
+> No abstract available.
+
+---
+
+### 📄 Socioeconomic determinants of household climate adaptation in Pabna municipality, Bangladesh
+- **Authors:** A. H. M. Monzurul Mamun
+- **Year:** 2026  |  **Venue:** Discover Environment  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44274-026-00634-2](https://doi.org/10.1007/s44274-026-00634-2)
+
+> This study examines how socioeconomic factors shape household-level climate adaptation in Pabna Municipality, Bangladesh. Using a structured survey of 130 formal households, complemented by climatic trend analysis (1980–2024), this study assesses awareness, perceived impacts, and adaptation practices using the Respondent Awareness Index (RAI), Problem Confrontation Index (PCI), and Adaptation Strategy Index (ASI). Respondents showed the highest awareness of rising summertime temperatures (RAI = 310), and 45.4% of households achieved an adaptation score of 6 or higher. Energy-efficient technolo
+
+---
+
+### 📄 Farmers’ Attitudes Toward Mechanisms and Practices of Climate Change Adaptation in Egypt and Iraq: A Comparative Field Study
+- **Authors:** Tamer Gamal Ibrahim Mansour, Salah S. Abd El-Ghani, Hashim Saeed Murad
+- **Year:** 2026  |  **Venue:** Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/su18052502](https://doi.org/10.3390/su18052502)
+
+> Climate change represents a serious challenge to agricultural sustainability in arid and semi-arid regions, where farmers increasingly face drought, temperature fluctuations, and resource scarcity. This study aims to assess and compare farmers’ attitudes in Egypt and Iraq toward climate change adaptation mechanisms and to identify the main barriers that limit the effective adoption of adaptive practices. A descriptive–analytical and comparative field approach was applied, and primary data were collected using a structured questionnaire administered to 342 farmers in Egypt and 157 farmers in Ir
+
+---
+
+### 📄 Endophytic bacteria isolated from the medicinal plant kratom (Mitragyna speciosa): Morphological, biochemical, and molecular characteristics, and their potential use as plant growth promoters
+- **Authors:** Suliasih Suliasih, Sri Widawati, Yadi Suryadi, DN Susilowati
+- **Year:** 2026  |  **Venue:** Scientia Agropecuaria  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.17268/sci.agropecu.2026.026](https://doi.org/10.17268/sci.agropecu.2026.026)
+
+> Endophytic bacteria live within and colonize plant tissues, forming symbiotic interactions that often enhance host growth, health, and stress tolerance without causing harm. This study aimed to isolate endophytic bacterial strains from the medicinal plant ‘kratom’ (Mitragyna speciosa), characterize their biological functions by analyzing morphological, biochemical, and molecular properties, and evaluate their plant growth-promoting potential. The research followed standard procedures for isolating and analyzing the production of plant growth-promoting compounds, including indole-3-acetic acid,
+
+---
+
+### 📄 Prediction of nutritional impact of the mango sector in Côte d’Ivoire: past, present and future
+- **Authors:** Aurélie Bechoff, Mary Nkongho Tanyitiku, Jean-Mathias Konan KOFFI, Yardjouma Silué
+- **Year:** 2026  |  **Venue:** Food Security  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s12571-026-01657-6](https://doi.org/10.1007/s12571-026-01657-6)
+
+> Mango is an important tropical fruit, rich in essential micronutrients. In Côte d’Ivoire, the harvested fruit is either exported to international and regional markets, processed, or remains on the local market. Nutritional flows across value chains and their resulting nutritional impact are poorly understood. The purpose of this study was to estimate the past, present, and future nutritional impact of the mango value chain in Côte d’Ivoire. We adapted the NUTRI-P-LOSS methodology that predicts nutritional postharvest losses across crop value chains, to assess nutritional flows in the mango val
+
+---
+
+### 📄 Unprotected Land Ownership Rights in Corporate Land Acquisition
+- **Authors:** Lego Karjoko, Nabila Rahma Safitri, Ravi Danendra
+- **Year:** 2026  |  **Venue:** Contrarius  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.53955/contrarius.v2i1.261](https://doi.org/10.53955/contrarius.v2i1.261)
+
+> Land ownership conflicts in Indonesia frequently emerge in plantation regions when local communities cultivate land in fact while corporations assert formal legal control over the same land. This situation generates agrarian disputes that expose structural tensions between the formal land certification regime and long-established patterns of community land use. This study examines the philosophical orientation underlying judicial reasoning in adjudicating disputes concerning Land Use Rights held by PT Perkebunan Nusantara Persero and evaluates the degree of legal protection granted to communit
+
+---
+
+### 📄 Beyond State Recognition of Customary Forests: Initiating Agrarian Reform in Indigenous Peoples
+- **Authors:** Eko Cahyono, Zulkarnain, Endriatmo Soetarto, Soeryo Adiwibowo
+- **Year:** 2026  |  **Venue:** Jurnal Pemikiran Sosiologi  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.22146/jps.v12i2.112143](https://doi.org/10.22146/jps.v12i2.112143)
+
+> This article examines the socio-political dynamics of agrarian issues surrounding the recognition of customary forests in Kasepuhan Karang, Lebak Regency, Banten. The recognition of customary forests is interpreted by indigenous peoples as a political victory. The political policy of recognition provides opportunities for indigenous peoples to reclaim their customary lands that have been subjected to agrarian colonialism, although this is limited to the recognition of customary forest areas. The data presented is based on the author's periodic research, which was intensive during 2018 and 2019
+
+---
+
+### 📄 Youth involvement and their Barriers to Tilapia Farming in Central Malawi
+- **Authors:** K Masina, K Simfukwe, R Mvula, MM Limuwa
+- **Year:** 2026  |  **Venue:** African Journal of Food Agriculture Nutrition and Development  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.18697/ajfand.149.26220](https://doi.org/10.18697/ajfand.149.26220)
+
+> Despite the growing importance of aquaculture in enhancing food security and livelihoods in Malawi, youth participation in the sector remains alarmingly low. This study explored the barriers limiting youth engagement in tilapia farming. Using a multi-stage sampling technique, data was collected between January and February 2022 from 102 respondents across Dowa and Mchinji districts in Central Malawi comprising both tilapia farming participating and non-participating youths. A mixed methods approach was employed, combining descriptive statistics, Garrett ranking, thematic analysis, and Probit r
+
+---
+
+### 📄 Correction: Socio-economic status and challenges of indigenous sheep production in poorly resourced Southern African development communities, pathway towards poverty alleviation and food security: a review
+- **Authors:** Frontiers Production Office
+- **Year:** 2026  |  **Venue:** Frontiers in Animal Science  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fanim.2026.1809005](https://doi.org/10.3389/fanim.2026.1809005)
+
+> natural-resources (accessed July 17, 2025)". It should be "Moosa, M. 2025. Climate crisis drives SADC food insecurity. Available at: https://gga.org/climate-crisis-drives-sadc-food-insecurity (Accessed 24 August 2025)". The in-text citation(s) have been corrected.The reference for FAO, 2025 was erroneously written as "Domestic Animal Diversity Information System (DAD-IS) Food and agriculture organization of the united nations. Available online at: https://www.fao.org/dad-is/en/ (Accessed July 24, 2024)". It should be "FAO. (2025). Domestic Animal Diversity Information System (DAD-IS). Availabl
+
+---
+
+### 📄 Identifying time-lag effects of temperature and precipitation on vegetation growth variation in the lower Yellow River of east China
+- **Authors:** Xinying Lü, Xiao Yan, Yifang DUAN, Nianci Duan
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-41853-0](https://doi.org/10.1038/s41598-026-41853-0)
+
+> Addressing the backdrop of global climatic changes and focusing on how vegetation reacts to these shifts,this article acting a imperative significant.This article investigates the administrative jurisdictions in the eastern of lower of the Yellow River.It selects MODIS NDVI remote sensing data spanning from 2001 to 2021 and employs different analysis methods including simple correlation, partial correlation, and multiple regression to quantitatively assess the response of NDVI during the vegetation growth season to climate variations, analyzing it on a grid by grid basis within the research re
+
+---
+
+### 📄 High reliability professionals and networks in pastoral areas of northern Kenya and southern Ethiopia: a new approach to development?
+- **Authors:** Rahma Hassan, Ian Scoones, Elizabeth Stites, Jackson Wachira
+- **Year:** 2026  |  **Venue:** Pastoralism Research Policy and Practice  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/past.2026.15665](https://doi.org/10.3389/past.2026.15665)
+
+> Seeing pastoralism as a “critical infrastructure” consisting of networks of “high-reliability professionals” has the potential to support and sustain resilient pastoral livelihoods. In this article, we examine cases from northern Kenya and southern Ethiopia where reliability is generated through deliberating on early warning systems; gaining access to grazing and water resources; creating fodder reserves; managing complex value chains and market exchanges; providing small-scale credit and generating peace and security. We argue that approaches that focus on local practices, relationships, proc
+
+---
+
+### 📄 Combating soil salinity with native grasses: From Global Challenge to Adaptive Mechanisms and Phytoremediation Solutions
+- **Authors:** Ali Kamal, Muhammad Sajid Aqeel Ahmad, Wasifa Rani, Maryam Hameed
+- **Year:** 2026  |  **Venue:** International Journal of Applied and Experimental Biology  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.56612/ijaaeb.v5i2.227](https://doi.org/10.56612/ijaaeb.v5i2.227)
+
+> Abiotic stresses like salinity, drought, and extreme temperatures, are the common factors that inhibit the growth of plants. They act against the optimum environmental conditions, posing a threat to global food security with the loss of crop yields in large proportions. One of these is soil and water salinity which is one of the most dominant ecological constraints. This problem is experienced in large portions of the cultivated and irrigated farmland across the globe and also leads to significant agricultural and economic loss. Salinity causes osmotic and ionic stress in plants that results i
+
+---
+
+### 📄 The Genomic Landscape of Cattle: Domestication, Dispersal, and Adaptive Evolution
+- **Authors:** Yiduan Liu, Wenbin Dao, Ruixia Gao, Xinyang Fan
+- **Year:** 2026  |  **Venue:** Animals  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/ani16050776](https://doi.org/10.3390/ani16050776)
+
+> Domestic cattle represent one of the most significant evolutionary successes in the history of human–animal mutualism. This review synthesizes evidence from paleogenomics and modern population genetics, particularly recent pangenome analyses, to reconstruct the comprehensive evolutionary trajectory of cattle. We outline the two domestication events: the emergence of taurine cattle (Bos taurus) in the Fertile Crescent (~10,500 years ago) and zebu cattle (Bos indicus) in the Indus Valley (~8000 years ago). Following domestication, cattle dispersed globally alongside human migration, resulting in
+
+---
+
+### 📄 Surviving the Storms: How Climate Change Is Starving Malawi, Madagascar, Mozambique and Zimbabwe: An ARDL Modelling
+- **Authors:** Sydney Nkhoma, Mwayi Mambosasa, Victor Limbe, Steven Dunga
+- **Year:** 2026  |  **Venue:** World  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/world7030033](https://doi.org/10.3390/world7030033)
+
+> This research examined the long-run effect of climate change on food security in Malawi, Madagascar, Mozambique and Zimbabwe using the Autoregressive Distributed Lag (ARDL) model. The study used nine variables for quantitative analysis using data for the four countries from the World Bank spanning from 2000 to 2023, using two models. The results were validated using the pooled mean group (PMG) estimator. The results from model 1 show that environmental temperature, fertiliser consumption, credit access, age dependency ratio, urbanisation and land size significantly affect the percentage of cro
+
+---
+
+### 📄 A Risky and Potentially Costly Future: Implications of Climate-Induced Changes in Groundwater and Flooding for Coastal Dairy Farming in New Zealand
+- **Authors:** Paula Holland, Zoe Qu, Z. Etheridge, Christo Rautenbach
+- **Year:** 2026  |  **Venue:** Land  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/land15020341](https://doi.org/10.3390/land15020341)
+
+> Climate change poses significant risks to New Zealand’s coastal agriculture through both slow-onset hazards (e.g., gradual sea level-induced groundwater rise) and sudden-onset hazards (e.g., increasing frequency and severity of storms). These physical changes threaten the productivity and economic viability of coastal farms. However, few studies assess their combined economic impacts in a manner that supports land-use planning. This paper presents a conceptual framework to examine the implications of interacting slow- and sudden-onset climate hazards for New Zealand dairy farms, informed by re
+
+---
+
+### 📄 Trend analysis of meteorological data and community perception of climate change in Southern Ethiopia
+- **Authors:** Nigussie Boko Gole, Birhanu Kebede Kuris, Dessalegn Obsi Gemeda
+- **Year:** 2026  |  **Venue:** Discover Environment  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44274-026-00569-8](https://doi.org/10.1007/s44274-026-00569-8)
+
+> No abstract available.
+
+---
+
+### 📄 Unraveling the plant growth promotion potential of Pseudomonas species isolated from the rhizosphere of Lotus creticus grown in the Mediterranean coastal regions of Morocco
+- **Authors:** Imane Achkouk, Anas El Yemlahi, Ouiam Elgaliou, amin laglaoui.
+- **Year:** 2026  |  **Venue:** Unknown Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5194/egusphere-2026-298](https://doi.org/10.5194/egusphere-2026-298)
+
+> Abstract. Rhizosphere-associated bacteria play a key role in improving plant performance in saline and nutrient-poor soils. In this study, the plant growth-promoting potential of rhizobacteria isolated from the rhizosphere of Lotus creticus naturally growing in Mediterranean coastal regions of northwestern Morocco was evaluated. Out of 30 isolates, five bacterial strains R125, P79, R8, R150, and R15 were selected based on their plant growth-promoting rhizobacteria (PGPR) traits. These strains were identified through 16S rRNA gene sequencing as Pseudomonas protegens, Pseudomonas sesami, Pseudom
+
+---
+
+### 📄 Population Changes and Industrial Development of Bactrian Camel in China: A Review
+- **Authors:** Ren Mu, Yanchao Bian, Hang Yu, Shaoping Guo
+- **Year:** 2026  |  **Venue:** Indian Journal of Animal Research  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.18805/ijar.bf-2087](https://doi.org/10.18805/ijar.bf-2087)
+
+> The Bactrian camel is an ecologically friendly domestic animal native to the desert regions of Southern Eastern Europe, West Asia, Southern South Asia, Central Asia and Northern East Asia. It has played a vital role in both Chinese history and livestock production. Currently, the total population of Bactrian camels in China is relatively small compared to other livestock, but they are widely distributed and critically important to their ecological environment. This paper compiles and analyzes historical data on Chinese Bactrian camels over the past 30 years, along with relevant policies. It re
+
+---
+
+### 📄 GloWE-8D: a global long-term 8-day wind erosion dataset from 1982 to 2020
+- **Authors:** Hanbing Zhang, Jian Peng, Jianquan Dong, Zhiwei Yang
+- **Year:** 2026  |  **Venue:** Unknown Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5194/essd-2026-66](https://doi.org/10.5194/essd-2026-66)
+
+> Abstract. Wind erosion constitutes a critical driver of global land degradation and dust emission, posing persistent threats to ecological security, agricultural production, and human health. Although regional-scale wind erosion assessments exist, there remains a lack of long-term, high spatiotemporal resolution, and publicly available global-scale wind erosion datasets, which has constrained a deeper understanding of its dynamic processes and driving mechanisms. Based on the Revised Wind Erosion Equation (RWEQ), this study constructed a global wind erosion dataset from 1982 to 2020 with an 8-
+
+---
+
+### 📄 Drying out for restoration: a landscape‐scale, experimental approach to artificial water point closure in an Australian semiarid woodland
+- **Authors:** K. Callister, David Wells, Martin Westbrooke, Singarayer Florentine
+- **Year:** 2026  |  **Venue:** Restoration Ecology  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1111/rec.70349](https://doi.org/10.1111/rec.70349)
+
+> Abstract Introduction A key barrier when restoring arid ex‐grazing land is the presence of artificial watering points (AWPs). Even after the cessation of domestic livestock grazing, AWPs support high numbers of wild herbivores and sustain high grazing pressure, suppressing plant species establishment. One approach to reducing total grazing pressure is to decommission AWPs; however, it is unclear how this impacts vegetation and groundcover recovery, or the efficacy of different closure methods. Objectives This study aimed to assess the impact of AWP closure methods on vegetation and groundcover
+
+---
+
+### 📄 Soil and ruminant gut microbiomes in diverse pasture systems and regenerative agriculture: a review
+- **Authors:** Upulika Jayaneththi, Paramsothy Jeyakumar, NW Sneddon, Lucy Burkitt
+- **Year:** 2026  |  **Venue:** Biology and Fertility of Soils  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s00374-026-01981-1](https://doi.org/10.1007/s00374-026-01981-1)
+
+> Abstract Pasture systems strongly influence microbiome diversity in both soils and grazing ruminants, and their interactions through interconnected microbial exchange pathways. In temperate regions, grazed pasture systems are predominantly composed of perennial ryegrass-white clover, representing standard systems under contemporary management. However, sustainable alternatives such as regenerative agriculture, which emphasise diverse pasture species, are gaining attention. Diverse pastures, due to their varied root structures and nutritional composition, exert more pronounced effects on soil a
+
+---
+
+### 📄 Sustainable Livestock Farming in Chile: Challenges and Opportunities
+- **Authors:** Rodrigo Morales, Malena Martínez, M Andrades Rodriguez, Ignacio Beltrán
+- **Year:** 2026  |  **Venue:** Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/su18031626](https://doi.org/10.3390/su18031626)
+
+> Chile’s livestock industry faces growing demands for emissions reduction, animal welfare, and value creation, while continuing to play a key role in rural food security and pasture-based production systems. In light of Chile’s varied agroclimatic conditions, a diminishing national herd, and shifting market signals, such as alternative proteins and distinctive meat products, this narrative review explores four complementary transition pathways: sustainable intensification, organic and agroecological systems, heritage livestock, and regenerative practices. We map the structural challenges, inclu
+
+---
+
+### 📄 Optimizing Diversified Crop Rotation Strategies Under Temperature and Precipitation Change Scenarios in a Typical Agro-Pastoral Ecotone Using the APSIM Model
+- **Authors:** Sijia Wang, Junli Jin, Yue Li, Shanshan Lv
+- **Year:** 2026  |  **Venue:** Agronomy  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agronomy16030381](https://doi.org/10.3390/agronomy16030381)
+
+> Future climate change poses unprecedented challenges to agricultural production worldwide. Therefore, designing region-specific rotation patterns is crucial for achieving synergies among multiple objectives, including agricultural productivity and ecological conservation. Based on a long-term field experiment in the Northern Agro-pastoral Ecotone of China, we calibrated and validated the Agricultural Production Systems Simulator (APSIM) and simulated rotation patterns involving four representative crops under eight climate scenarios, including warming, extreme precipitation, and combined tempe
+
+---
+
+### 📄 Dynamique spatio-temporelle de l’occupation du sol dans le Nord-Est du Sénégal : de l’analyse diachronique à une modélisation prospective
+- **Authors:** Awa Amadou Sall, Elhadji Faye, Mehdi Saqalli
+- **Year:** 2026  |  **Venue:** Revue d’élevage et de médecine vétérinaire des pays tropicaux  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.19182/remvt.37698](https://doi.org/10.19182/remvt.37698)
+
+> Contexte : Le Nord-Est du Sénégal est une région emblématique de l’élevage pastoral extensif reposant sur la transhumance, au sein de laquelle les éleveurs se déplacent à la recherche de pâturages. Objectif : Cette étude analyse la dynamique spatio-temporelle de l’occupation du sol dans le Nord-Est du Sénégal durant la période 2000-2024, avec une perspective de projection à l’horizon 2050. Méthodes : L’analyse mobilise trois approches complémentaires : la télédétection multi-temporelle, des enquêtes de terrain et une modélisation prospective. Les dynamiques observées sont étudiées à partir de 
+
+---
+
+### 📄 Why do landslides occur in Kenya, and what can be done to mitigate their occurrences?
+- **Authors:** Elizabeth Tabitha Njeri Kinyeru, Mark N. Harris, Janis Jansz
+- **Year:** 2026  |  **Venue:** Natural Hazards  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s11069-025-07938-1](https://doi.org/10.1007/s11069-025-07938-1)
+
+> Abstract Landslides occurrences in Kenya impact both urban and rural areas leading to significant environmental and socioeconomic challenges. This study investigates the multifaceted causes of landslides, focusing on human activities, slope dynamics, earthquakes, and precipitation. Data was collected through satellite imagery analysis, geological assessments and by reviewing published literature. The study divulges noteworthy findings regarding the impact of earthquakes on landslide occurrences, accentuating the seismic susceptibility of specific Kenyan regions. Additionally, the study explore
+
+---
+
+### 📄 Not your average dairy farmer: Clustering dairy farmers of Western Canada and Ontario based on management practices and well-being
+- **Authors:** H. Tambadou, A. Le Heiget, B. Zwick, Gabriel Machado Dallago
+- **Year:** 2026  |  **Venue:** Journal of Dairy Science  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3168/jds.2025-27820](https://doi.org/10.3168/jds.2025-27820)
+
+> A wide array of operational and management practices characterizes the dairy farming landscape in Canada. This heterogeneity poses challenges in understanding the full range of dairy farming systems, which can lead to incomplete representations and less effective interventions aimed at improving the well-being of dairy farmers. This study aimed to holistically explore the relationship between dairy farmers' well-being and farm management practices. A multiple factorial analysis was used to group dairy farmers based on various factors, including demographic characteristics, mental and physical 
+
+---
+
+### 📄 Factors Affecting Smallholders’ Perception of Climate Change in Eritrea
+- **Authors:** T Kidane, Edward Lahiff, Trevor Donnellan, S. Crosse
+- **Year:** 2026  |  **Venue:** Environmental Management  |  **Source:** `OpenAlex`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s00267-026-02383-7](https://doi.org/10.1007/s00267-026-02383-7)
+
+> No abstract available.
+
+---
+
+### 📄 Enzymatic-Driven Responses of Soil Fertility and Crop Yields to Different Long-Term Organic Substitution Regimes Under Wheat–Maize Rotation
+- **Authors:** Daijia Fan, Rong Jiang, Daping Song, Wentao Xue
+- **Year:** 2026  |  **Venue:** Agronomy  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agronomy16050588](https://doi.org/10.3390/agronomy16050588)
+
+> Long-term excessive chemical fertilization threatens the sustainability of wheat–maize rotation systems in the North China Plain. Organic substitution is a promising alternative to sustain crop productivity and soil health, yet its underlying mechanisms require clarification. This study investigated the effects of six fertilization treatments (unfertilized [CK], chemical nitrogen [N] alone at 180 kg N ha−1 season−1 [NPK], chemical N 25% substituted by chicken manure per season [NPKM], full manure substitution per season [CM], chemical N 25% substituted by straw return under no tillage per seas
+
+---
+
+### 📄 Environmental, social and governance impacts of beef production systems: an integrated literature review
+- **Authors:** Priyambada Joshi, Ayon Chakraborty, Sukhbir Sandhu, Lee Recht
+- **Year:** 2026  |  **Venue:** Journal of Industrial Ecology  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44498-026-00011-5](https://doi.org/10.1007/s44498-026-00011-5)
+
+> Abstract Beef production systems have been evolving for more than a millennium with a primary focus on increasing efficiency. Recently, environmental, social and governance (ESG) concerns have become another key focus due to societal, consumer and regulatory pressures. We identify the temporal evolution of various beef production systems. Using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we assessed the ESG impacts of eight systems across five domains: natural capital; social capital; human capital; produced capital; and governance. This analysis
+
+---
+
+### 📄 Assessing compost-biochar synergy for boosting carbon sequestration and local katokkon chili agronomic performance for promoting low-emission, climate-adapted farming systems
+- **Authors:** Tandu Ramba, Burhanuddin Rasyid, Kaimuddin Kaimuddin, Diyah Sri Utami
+- **Year:** 2026  |  **Venue:** Journal of Ecological Engineering  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.12911/22998993/214886](https://doi.org/10.12911/22998993/214886)
+
+> The Katokkon chili, an important Toraja cash crop, is increasingly threatened by climate change, necessitating climate-resilient soil management strategies.This study assessed the synergy of biochar and compost in enhancing soil carbon sequestration and improving katokkon chili performance within low-emission farming systems.A farmer-led field experiment was conducted in Ullin Rembon Village in 2024 involving 12 farmers cultivating 150 m plots.A split-plot design was applied, with two genotypes -L1 (Limbong) and L2 (Leatung), as main plots and six compost-biochar ratios (R0-R5) as subplots, re
+
+---
+
+### 📄 The Impact of Climate Change on Nitrogen Migration and Transformation in Inland Water Bodies: A Bibliometric Landscape Analysis
+- **Authors:** Danhua Wang, Cancan Jiang, Xu Wang, Huijuan Feng
+- **Year:** 2026  |  **Venue:** Water  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/w18050646](https://doi.org/10.3390/w18050646)
+
+> Based on a bibliometric analysis of 2680 publications (1962–2024), this study elucidates the knowledge structure and intellectual evolution of research on climate change-driven nitrogen migration and transformation in inland waters, a critical issue for water security and global climate stability. The field has experienced accelerated growth since 2016, led by the United States and China. Analysis reveals a research framework centered on climate change, nitrogen, and water quality, interconnected with processes like eutrophication and denitrification. The intellectual focus has evolved from ea
+
+---
+
+### 📄 Ensemble Agroecosystem Modeling Enhances Predictions of Crop Yields and Soil Carbon Across the United States
+- **Authors:** Sagar Gautam, Chang Gyo Jung, Umakant Mishra, Rattan Lal
+- **Year:** 2026  |  **Venue:** Unknown Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5194/egusphere-2026-1094](https://doi.org/10.5194/egusphere-2026-1094)
+
+> Abstract. Accurately estimating crop yields and soil organic carbon (SOC) dynamics is essential for agricultural planning, carbon accounting, and sustainable land management. However, process-based agroecosystem models often produce divergent estimates due to variations in model structure, parameterization, and underlying assumptions. In this study, we developed a multi-model ensemble framework that integrates three widely used process-based models-Daily Century (DAYCENT), DeNitrification DeComposition (DNDC), and Ecosystem model (ECOSYS)-to simulate crop yields and SOC stock changes (0–30 cm)
+
+---
+
+### 📄 Impact of CO&lt;sub&gt;2&lt;/sub&gt; Leakage from GeologicalStorage on the Eco-environment: RhizosphereMicroenvironment of Soybean Case
+- **Authors:** Lua Xue, Junjie Ma, Lin Li, Haofan Wang
+- **Year:** 2026  |  **Venue:** Polish Journal of Environmental Studies  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.15244/pjoes/214279](https://doi.org/10.15244/pjoes/214279)
+
+> No abstract available.
+
+---
+
+### 📄 Optimizing Spinacia oleracea production through organic fertilizers use in the lower Gangetic plain, West Bengal
+- **Authors:** Sunita Kar, A. Arunachalam, Sovan Debnath, M. Kiranmai Reddy
+- **Year:** 2026  |  **Venue:** Discover Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44279-025-00418-x](https://doi.org/10.1007/s44279-025-00418-x)
+
+> The study evaluated the influence of organic manures and biofertilizers on the growth and yield of spinach (Spinach oleracea), with an emphasis on waste recycling, sustainable agricultural technologies, and carbon farming for zero emissions. Nine treatments, comprising various combinations of organic manures and biofertilizers, were tested using a randomized block design. Key growth and yield parameters, plant height, number of leaves, root length, and leaf area, ultimately achieved the highest yield (4.06t/ha), which significantly exceeded yields from chemical fertilizer (3.03t/ha) and the un
+
+---
+
+### 📄 Effects of Partial Substitution of Chemical Fertilizers with Organic Fertilizers on Aggregate Stability and Organic Carbon Content in Sandy Soil
+- **Authors:** Shuai Li, Junfeng Zhao, Yang Chen, Mingshou Fan
+- **Year:** 2026  |  **Venue:** Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriculture16050625](https://doi.org/10.3390/agriculture16050625)
+
+> Soil aggregates and organic carbon are core elements in efforts to improve soil fertility, and this role is particularly pronounced in sandy soils of northwestern China. Based on a four-year consecutive field positioning experiment, this study investigated the effects of organic fertilizer application on soil aggregate stability and SOC sequestration capacity. It evaluated the impacts of different organic fertilizer substitution ratios—no fertilizer (Ctrl), 100% chemical fertilizer (T0), 30% organic fertilizer substitution (T1), 60% organic fertilizer substitution (T2), and 100% organic fertil
+
+---
+
+### 📄 Organic Farming for Sustainable Agriculture: A Review
+- **Authors:** Chandra Shekhar Tiwari, Sameer Bagchi
+- **Year:** 2026  |  **Venue:** INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.55041/ijsrem57348](https://doi.org/10.55041/ijsrem57348)
+
+> Abstract - Agriculture and farming have a long history. Agriculture is the main economic structure for many developed and developing countries. The agriculture sector faces multiple challenges in meeting the growing food demand of an ever-increasing population. Conventional farming is one of the most widely practiced approaches due to its affordability and accessibility, but it is associated with various drawbacks. A resilient and sustainable agriculture system is required to face different environmental challenges. Sustainable agriculture includes different eco-friendly farming techniques tha
+
+---
+
+### 📄 From Land Use to Soil Functions: Insights from Contrasting Farming Systems
+- **Authors:** Manoj Kaushal, Frederick Baijukya, Yared Birhane Kidane, Carlo Fadda
+- **Year:** 2026  |  **Venue:** Agronomy  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agronomy16050587](https://doi.org/10.3390/agronomy16050587)
+
+> Soil degradation remains a major challenge in sub-Saharan Africa, particularly within smallholder farming systems characterized by low-input agriculture and unsustainable land use practices. Sustainable agriculture production requires a good understanding of soil characteristics across diverse farming contexts. This study assessed soil health and microbial diversity across three contrasting systems: long-term fallow (aggregated farm A), high-input (aggregated farm B), and conventional smallholder (non-aggregated farm C) farms experiencing declining productivity. Soil samples collected from the
+
+---
+
+### 📄 Nature-based solutions for climate and health: mapping synergies and trade-offs
+- **Authors:** Nady Mahmoud, Mohamed Kamar, Ana Maria Perez Arredondo, Philipo Mtweve
+- **Year:** 2026  |  **Venue:** One Ecosystem  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3897/oneeco.11.e164014](https://doi.org/10.3897/oneeco.11.e164014)
+
+> Nature-based solutions (NbS) are considered a promising approach to addressing the climate-health nexus by mitigating and adapting to climate change impacts. They also serve as a bridging concept that delivers multiple benefits for climate, biodiversity and human well-being, including health. However, evidence on how NbS affect people’s health and well-being remains scattered and has not been systematically reviewed. In this study, we explore synergies and trade-offs associated with NbS in the context of climate change and public health, based on a literature review. To explore the specific me
+
+---
+
+### 📄 Studying plant responses to micro- and nanoplastics: a review of experimental design and analytical methods
+- **Authors:** Hongshu Pu, Andreas Seifert
+- **Year:** 2026  |  **Venue:** Microplastics and Nanoplastics  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1186/s43591-026-00182-9](https://doi.org/10.1186/s43591-026-00182-9)
+
+> With increasing concern regarding microplastic and nanoplastic pollution, growing attention has been directed toward their potential impacts on ecosystems and plant health. However, while most existing reviews focus on toxicological effects, structured discussions regarding experimental design remain limited in areas such as substrate selection and environmental parameter control. This review evaluates current progress by identifying prevalent polymer types like polystyrene (PS) and polyethylene (PE), common particle sizes (notably 10 $$\mu \textrm{m}$$ to 100 $$\mu \textrm{m}$$ ), and represe
+
+---
+
+### 📄 Woody encroachment on agricultural land – environmental drivers and carbon stock assessment: A case of Lithuania
+- **Authors:** Edita Abalikštienė, Vilma Šalkauskienė
+- **Year:** 2026  |  **Venue:** Journal of Ecological Engineering  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.12911/22998993/214608](https://doi.org/10.12911/22998993/214608)
+
+> No abstract available.
+
+---
+
+### 📄 Integrating water management and organic amendments to enhance shallot yield and irrigation water productivity
+- **Authors:** Kamelia Dwi Jayanti, Ongko Cahyono, Komariah Komariah, Mujiyo Mujiyo
+- **Year:** 2026  |  **Venue:** Journal of Ecological Engineering  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.12911/22998993/214754](https://doi.org/10.12911/22998993/214754)
+
+> This study evaluated the effects of watering regime and fertilizer composition on shallot (Allium cepa L. var.aggregatum) growth, yield, soil physical properties, and irrigation water productivity (IWP) under sandy loam conditions.A split-plot design was used, with watering as the main factor and fertilizer as the subplot.The watering treatments were: W1 -watering up to field capacity during both vegetative and generative phases; W2 -watering up to field capacity in the vegetative phase and up to allowable depletion in the generative phase; and W3 -watering up to allowable depletion in the veg
+
+---
+
+### 📄 Harnessing the potential of manufactured zeolites for a sustainable circular economy
+- **Authors:** Zainab Mahdi, Ali El Hanandeh, Chris Pratt, Niloofar Ordou
+- **Year:** 2026  |  **Venue:** Journal of Ecological Engineering  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.12911/22998993/211815](https://doi.org/10.12911/22998993/211815)
+
+> Manufactured zeolites are widely recognized for their high purity, cation exchange capacity, molecular sieve structure, and environmental stability, enabling applications across diverse industries.Unlike existing studies that primarily investigate the material properties or interdisciplinary applications of manufactured zeolites, this work uniquely positions them within a circular economy (CE) framework.This study pioneers the concept of zeolite synthesis from waste-derived feedstocks as a direct driver of CE, linking this transformation to concrete pathways for achieving multiple UN sustainab
+
+---
+
+### 📄 Nitrogen Management in Crop–Soil–Environment Systems: Pathways Toward Sustainable and Climate-Resilient Agriculture
+- **Authors:** Szilvia Veres, Nevien Elhawat, Zed Rengel, Tarek Alshaal
+- **Year:** 2026  |  **Venue:** International Journal of Molecular Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/ijms27052477](https://doi.org/10.3390/ijms27052477)
+
+> Abiotic stresses including drought, salinity, heat, cold, and heavy metal toxicity severely constrain plant productivity worldwide. Nitrogen (N), beyond its fundamental nutritional role, has emerged as a central regulator of plant stress responses through its involvement in metabolic reprogramming, osmotic adjustment, antioxidant defense, and hormonal signaling. This review synthesizes current advances in understanding how nitrogen availability and form influence plant tolerance to major abiotic stresses. Particular emphasis is placed on nitrogen-mediated modulation of reactive oxygen species 
+
+---
+
+### 📄 Harnessing Antioxidants for Abiotic Stress Management: Mechanistic Insights and Prospects for Sustainable Agriculture
+- **Authors:** Fasih Ullah Haider, Tianhao Liu, Hao‐Sen Li, Babar Shahzad
+- **Year:** 2026  |  **Venue:** Antioxidants  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/antiox15030337](https://doi.org/10.3390/antiox15030337)
+
+> Abiotic stresses disrupt redox homeostasis and reduce crop productivity. Antioxidant networks support resilience by limiting excess reactive oxygen species (ROS) and maintaining redox signalling for stress perception, gene expression, and metabolic reprogramming. We summarize advances (2000–2025) in ROS generation, detoxification mechanisms, and signalling across organelles, including chloroplasts, mitochondria, peroxisomes, and the apoplast. This includes compartmentalized enzymes—superoxide dismutase (SOD), catalase (CAT), ascorbate peroxidase (APX), glutathione peroxidase (GPX), and glutath
+
+---
+
+### 📄 The impact of rural gentrification on input use efficiency in agriculture: prospects for sustainable rural development in Poland
+- **Authors:** Bazyli Czyżewski, Jakub Staniszewski, Łukasz Kryszak, Aleksander Grzelak
+- **Year:** 2026  |  **Venue:** Economics and Environment  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.34659/eis.2026.96.1.1038](https://doi.org/10.34659/eis.2026.96.1.1038)
+
+> Gentrification occurs when capital flows into rural areas through various channels, changing land use. At the beginning of this process, the potential income capitalised in farmland prices becomes detached from the current net return, creating a rent gap. The rent gap in the context of the Common Agricultural Policy (CAP) can lead to different land use scenarios that affect the sustainable development of rural areas in a number of ways. In effect, farmers can: increase the efficiency of input use; dispose of low-productivity assets and allow new capital to flow in; accept inefficient input use
+
+---
+
+### 📄 Pitaya as a New Alternative Crop for Iberian Peninsula: Cultural Practices
+- **Authors:** Ana Rita Trindade, Pedro Matias, Vander Rocha Lacerda, Maribela Pestana
+- **Year:** 2026  |  **Venue:** Plants  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/plants15050807](https://doi.org/10.3390/plants15050807)
+
+> Pitaya (Selenicereus spp.) cultivation has expanded in the Iberian Peninsula in recent years, driven mainly by increasing demand from the European market and by the crop’s good adaptability to Mediterranean conditions. However, the successful consolidation of this crop requires the adoption of cultural practices adapted to regional edaphoclimatic conditions and production systems. The present review aims to synthesise and critically analyse the scientific literature on pitaya cultural practices, integrating information from major producing regions worldwide and from Mediterranean environments,
+
+---
+
+### 📄 Contrasting effects of biochar and compost on greenhouse gas emissions and the global warming potential of semi-arid cropping systems
+- **Authors:** Piumi Madhuwanthi, Rajan Ghimire, Sundar Sapkota, Shannon Norris-Parish
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-42554-4](https://doi.org/10.1038/s41598-026-42554-4)
+
+> Agroecosystems in arid and semi-arid regions face growing risks of climate extremes and soil degradation. The addition of exogenous carbon can restore degraded soils by adding soil organic carbon, but its effects on greenhouse gas (GHG) emissions and global warming mitigation remain elusive. This study evaluated emissions of three major GHGs-nitrous oxide (N<sub>2</sub>O), carbon dioxide (CO<sub>2</sub>), and methane (CH<sub>4</sub>)-following soil amendment with biochar, compost, and a biochar + compost (BC) mixture. Biochar application reduced cumulative N<sub>2</sub>O-N and CH<sub>4</sub>-C
+
+---
+
+### 📄 Almacenes de carbono aéreo y en suelos en sistemas agroforestales, pastizal y bosque mesófilo de montaña en Veracruz, México
+- **Authors:** Saulo Acevedo Cruz, Eduardo Valdés Velarde, Juan Ángel Tinoco Rueda, Eunice Martínez Hueto
+- **Year:** 2026  |  **Venue:** Revista Mexicana de Ciencias Pecuarias  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.22319/rmcp.v17i1.6886](https://doi.org/10.22319/rmcp.v17i1.6886)
+
+> Los sistemas agroforestales son una opción viable para mitigar el cambio climático al fomentar el almacén de carbono (C) en la biomasa y el suelo. El objetivo de la presente investigación fue comparar el almacenamiento de C en sistemas silvopastoriles (SSP), bancos de forraje (BF), potreros convencionales (PC), sistemas agroforestales de café (SAC) y bosque mesófilo de montaña (BMM) en el centro de Veracruz, México. La cuantificación de carbono se realizó mediante ecuaciones alométricas para el reservorio árboles y arbustos, y de colecta y procesamiento de muestras para los reservorios herbáce
+
+---
+
+### 📄 Evaluating Biomass Energy Potential with Multi-Criteria Decision Methods: Insights for Policy Makers
+- **Authors:** Betül Mutlu, Bahar Özyörük
+- **Year:** 2026  |  **Venue:** Engineering Perspective  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.64808/engineeringperspective.1789924](https://doi.org/10.64808/engineeringperspective.1789924)
+
+> The global shift towards renewable and sustainable energy has accelerated in recent years due to the depletion of fossil fuels and their detrimental effects on the environment. Despite their environmental advantages, renewable energy technologies often require substantial investment, and the optimal siting of energy conversion facilities remains a critical challenge, particularly in ensuring cost-efficiency and environmental compatibility. Biomass-based electricity production is a key contributor to sustainable energy transitions. This study develops a reliable decision-support framework for d
+
+---
+
+### 📄 Biocultural Productive Landscapes in the Andean–Amazon: Carbon, Biodiversity, and Livelihoods in Market-Linked Traditional Systems
+- **Authors:** Bolier Torres, Cristhian Tipán-Torres, Héctor Reyes, Aracely Tapia
+- **Year:** 2026  |  **Venue:** Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/su18052451](https://doi.org/10.3390/su18052451)
+
+> Tree-based production systems embedded within Amazonian biocultural landscapes remain systematically undervalued in global climate, biodiversity, and development policy frameworks. This study assessed tree diversity, structural attributes, and carbon stocks across traditional cacao-based Amazonian agroforestry systems (Chakra), tree-rich silvopastoral systems, and old-growth forests in the Andean–Amazon transition zone of Ecuador. Based on 28 sampling plots (DBH ≥ 10 cm), old-growth forests stored the highest aboveground carbon stocks, while agroforestry and silvopastoral systems retained appr
+
+---
+
+### 📄 Co-designing a research agenda for UK agroforestry using a multi-actor approach
+- **Authors:** Amelia S. C. Hood, Rosy Scholes, Erika Degani, Tom Staton
+- **Year:** 2026  |  **Venue:** Agronomy for Sustainable Development  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s13593-026-01089-8](https://doi.org/10.1007/s13593-026-01089-8)
+
+> No abstract available.
+
+---
+
+### 📄 Protein Sources for Ruminant Feed: A Systematic Review of Nutritional Value and Sustainability
+- **Authors:** Michael Jesús López-Herrera, Manuel Delgado-Pertíñez, Sara Muñoz-Vallés
+- **Year:** 2026  |  **Venue:** Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriculture16050537](https://doi.org/10.3390/agriculture16050537)
+
+> Global demand for animal protein necessitates sustainable alternatives to soybean meal (SBM). This systematic review evaluated 177 peer-reviewed articles (2002–2023) across 12 categories to analyse the nutritional value of alternative protein sources for ruminant diets and to assess the associated environmental trade-offs. This was achieved through a targeted review, synthesising data from Life Cycle Assessments (LCAs) to create a multi-criteria matrix for ranking sustainability profiles. Results indicate that microalgae, insects, and single-cell proteins exhibit crude protein levels comparabl
+
+---
+
+### 📄 Diversity of Cultivable Soil Fungal Taxa Across a Land-Use Gradient in the Andes–Amazon Transition Zone: Insights from Agroecological Systems
+- **Authors:** Armando Sterling, Karla V. Arboleda-Gasca, Yerson D. Suárez-Córdoba, Ginna Patricia Velasco-Anacona
+- **Year:** 2026  |  **Venue:** Diversity  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/d18030138](https://doi.org/10.3390/d18030138)
+
+> Land-use change strongly affects soil microbiota, yet the role of agroecological systems in shaping soil fungal communities remains poorly understood in tropical soils. We evaluated the diversity, trophic modes, community composition, and co-occurrence networks of culturable soil fungal taxa across a land-use gradient in the Colombian Andes–Amazon transition zone. Agroecological systems—including improved pasture (IP), cacao and copoazu agroforestry systems (CaAS and CoAS), secondary forest with agroforestry enrichment (SFAE), and a moriche palm swamp ecosystem (MPSE)—were compared with domina
+
+---
+
+### 📄 Enhancing ecosystem services to mitigate agro-environmental pressures: integrating participatory mapping and land suitability analysis for crop-livestock mixed farming and agroforestry systems
+- **Authors:** Alberto Mantino, Sara Burbi, Martina Re, Matteo Finocchi
+- **Year:** 2026  |  **Venue:** Agroforestry Systems  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s10457-026-01461-3](https://doi.org/10.1007/s10457-026-01461-3)
+
+> Abstract Stakeholders from six European pilot sites engaged in participatory mapping and land suitability assessments to co-design climate-smart strategies for sustainable land management. The mixed methodology applied combined GIS based landscape vulnerability analysis, stakeholder knowledge, and assessments of ecosystem services. Key phases included preliminary assessment of environmental pressures, participatory SWOT analysis, and collaborative mapping exercises to identify suitable mixed farming (MF) and agroforestry (AF) practices. This approach empowered local communities, enhanced knowl
+
+---
+
+### 📄 Energy Use, Costs and Economic Resilience of EU Agriculture: The Role and Potential of CAP Eco-Schemes in Reducing Energy Intensity
+- **Authors:** Sergiusz Pimenow, Olena Pimenowa, Maksym W. Sitnicki, Oksana Tulai
+- **Year:** 2026  |  **Venue:** Energies  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/en19041016](https://doi.org/10.3390/en19041016)
+
+> Agriculture in the European Union is a large energy user, dependent on fossil fuels and energy-intensive inputs. Farm incomes are vulnerable to volatile energy prices and climate risks, which threaten their economic resilience. The reformed Common Agricultural Policy (CAP) introduces eco-schemes as a central instrument that may reduce energy intensity and dependence on fossil-based resources. This review examines how CAP instruments—and eco-schemes in particular—are analyzed as drivers of farm energy use, energy intensity, and economic resilience. It maps the literature within a three-pillar f
+
+---
+
+### 📄 Private-sector engagement in greenhouse gas mitigation in Africa’s ruminant livestock value chains: a perspective based on illustrative examples
+- **Authors:** Adam M. Komarek, Mariana C. Rufino, Val Snow, John M. Dixon
+- **Year:** 2026  |  **Venue:** npj Sustainable Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s44264-026-00124-1](https://doi.org/10.1038/s44264-026-00124-1)
+
+> Abstract This study presents a perspective on how partnerships engaging private-sector actors could support greenhouse gas mitigation in African ruminant livestock value chains. Through using value chain governance theory and illustrative examples, we highlight potential contributions of these partnerships rather than demonstrate realised mitigation effectiveness. Using illustrative examples from beef cattle grazing, intensive dairy, and mohair fibre from several countries (South Africa, Kenya, Tanzania and Rwanda), we described partnership design. Across these illustrative examples, partnersh
+
+---
+
+### 📄 Biophysical and temporal Drivers outweigh management in tropical agroforestry soil carbon sequestration
+- **Authors:** damien Beillouin, Cloe Verstrate, Rémi Cardinael, Ulysse Chabroux
+- **Year:** 2026  |  **Venue:** Unknown Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.64898/2026.02.06.704434](https://doi.org/10.64898/2026.02.06.704434)
+
+> Abstract Agroforestry is a cornerstone of Natural Climate Solutions, yet the hierarchical importance of its soil organic carbon (SOC) drivers remains poorly resolved across heterogeneous tropical landscapes. Current global assessments predominantly rely on categorical system typologies that mask the continuous influence of biophysical drivers, leaving the reliability of mitigation estimates unclear. Here, we synthesize 643 observations from 54 field studies in Latin America and the Caribbean to decouple the determinants of SOC sequestration using a machine-learning framework. We show that base
+
+---
+
+### 📄 Drought, grazing routes and resource use by small-ruminant pastoralists in Montesinho, northeastern Portugal
+- **Authors:** A.C. Oliveira, José Castro, Isa Aleixo‐Pais, Vitor Henrique Mistro Seripieri
+- **Year:** 2026  |  **Venue:** Pastoralism Research Policy and Practice  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/past.2026.15757](https://doi.org/10.3389/past.2026.15757)
+
+> Climate projections for the Mediterranean area indicate a rise in temperature and an increase in drought frequency, which directly impact water availability and consequently, ecosystems. In the protected area of Montesinho in northeast Portugal, sheep and goat pastoralism characterizes the landscape and plays an important socio-economic role. However, like in many regions of the globe, this historical activity is becoming increasingly unsustainable due to shifting climatic conditions. To understand the impact of climate change on water availability in the park and its consequences for small ru
+
+---
+
+### 📄 Estimation of enteric methane emissions in dairy cows under grazing a silvopastoral system and a grass monoculture in the Colombian Amazonian foothills
+- **Authors:** Juan Pablo Narváez-Herrera, Joaquín Angulo Arizala, Wilson Andrés Barragán-Hernández, Liliana Mahecha-Ledesma
+- **Year:** 2026  |  **Venue:** PLoS ONE  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1371/journal.pone.0337719](https://doi.org/10.1371/journal.pone.0337719)
+
+> Mitigating enteric methane in the humid tropics, particularly in the Colombian Amazonian foothills, remains challenging due to limited field-based data under real grazing conditions. This study evaluated the performance of a laser methane detector (LMD) as a non-invasive alternative to traditional techniques, providing the first field-based validation of this approach in Amazonian grazing systems. Two contrasting production systems were compared: a silvopastoral system (SPS) with trees and shrubs, and a grass monoculture (traditional pasture, TP). A crossover design (two groups of five cows) w
+
+---
+
+### 📄 Post-intervention Analysis: Tree Species Diversity and Biomass Production in Agroforestry Systems Under Project Intervention and No-intervention Areas in Eastern Rwanda
+- **Authors:** Jean Sebasore, FestusManiriho Sebasore, Jean Nduwamungu, Elias Nelly Bapfakurera
+- **Year:** 2026  |  **Venue:** American Journal of Agriculture and Forestry  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.11648/j.ajaf.20261401.12](https://doi.org/10.11648/j.ajaf.20261401.12)
+
+> Agroforestry is widely promoted as an ecosystem-based adaptation strategy to enhance climate resilience, restore degraded landscapes, and support smallholder livelihoods. However, empirical evidence on how project-supported agroforestry interventions influence tree species composition, stocking density, and biomass accumulation remains limited. This study assessed tree and shrub diversity, stocking density, and aboveground biomass across different agroforestry practices in Kayonza District, Eastern Rwanda, comparing project intervention sites supported by the LDCF II Ecosystem-based Adaptation
+
+---
+
+### 📄 Role of cultivation intensity in shaping the net carbon footprint of Mediterranean cow-calf systems
+- **Authors:** Mondina Francesca Lunesu, Maria Francesca Caratzu, Sara Sechi, Giuseppe Pulina
+- **Year:** 2026  |  **Venue:** Frontiers in Animal Science  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fanim.2025.1748147](https://doi.org/10.3389/fanim.2025.1748147)
+
+> This study aimed to estimate the net carbon footprint (Net CFP) of Mediterranean cow–calf systems and to assess the role of cultivation intensity in shaping environmental performance. Eighteen beef farms adopting a cow–calf grazing system with an open productive cycle were considered. Farms were selected according to cultivation rate (CR) and classified as high (high-CR; &amp;gt;15% of cultivated land) or low (low-CR;&amp;lt;15% of cultivated land). Data were collected through farmer interviews using a cradle-to-farm-gate approach, in accordance with ISO 14040:2006 and ISO 14044:2006 standards
+
+---
+
+### 📄 Cattle production drives agricultural energy intensity and greenhouse gas emissions in Latin America and the Caribbean
+- **Authors:** Daniela Mejía, John Jairo Junca Paredes, Stefan Burkart
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-025-34950-z](https://doi.org/10.1038/s41598-025-34950-z)
+
+> This study investigates how cattle production, energy intensity in agriculture, and environmental degradation (cattle-related CO<sub>2eq</sub> emissions) interact in Latin America and the Caribbean (LAC). Using Vector Autoregressive (VAR) and Panel VAR models on data from 12 countries between 2000 and 2018, the results show that cattle production Granger-causes both energy intensity and CO<sub>2eq</sub> emissions, and that energy intensity itself Granger-causes CO<sub>2eq</sub> emissions, indicating a clear, unidirectional causal chain. Impulse-response functions suggest that shocks to cattle 
+
+---
+
+### 📄 Integrating agronomy into the framework of Sustainable Development Goals: a review
+- **Authors:** Dwaram Mrudula, Murugesan Mohana Keerthi
+- **Year:** 2026  |  **Venue:** Frontiers in Sustainable Food Systems  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fsufs.2025.1709154](https://doi.org/10.3389/fsufs.2025.1709154)
+
+> Agronomy plays a foundational role in advancing the United Nations Sustainable Development Goals (SDGs) by providing effective solutions to some of the most critical problems facing the world today, including hunger, poverty, global warming, and natural resource degradation. Agronomic practices directly support several SDGs viz . Zero Hunger (SDG 2), Clean Water and Sanitation (SDG 6), Affordable and Clean Energy (SDG 7), Climate Action (SDG 13), and Life on Land (SDG 15) through improved crop productivity, greater resource use efficiency, and enhanced environmental sustainability. Precision f
+
+---
+
+### 📄 A systematic review of the economic impact of artificial intelligence on agricultural productivity, sustainability, and rural livelihoods
+- **Authors:** Adewale Isaac Olutumise
+- **Year:** 2026  |  **Venue:** Discover Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44279-026-00510-w](https://doi.org/10.1007/s44279-026-00510-w)
+
+> As agriculture confronts climate change, land degradation, labour scarcity, and food insecurity, the application of Artificial Intelligence (AI) has emerged as a critical strategy to enhance productivity, sustainability, and rural resilience. This study explores how AI-powered digital agriculture transforms agricultural economics in developing contexts, with a particular focus on Sub-Saharan Africa. Using a structured literature review and thematic synthesis, we analyzed over 60 peer-reviewed articles and institutional reports published between 2020 and 2025. The analysis was organized around 
+
+---
+
+### 📄 Enhanced forest monitoring through mapping with integrated seasonal canopy and spectral reflectance features
+- **Authors:** Byungwoo Chang, Wontaek Lim, Dongwook W. Ko, Wanmo Kang
+- **Year:** 2026  |  **Venue:** Frontiers in Forests and Global Change  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/ffgc.2026.1768700](https://doi.org/10.3389/ffgc.2026.1768700)
+
+> Forest mapping is essential for sustainable forest management and climate adaptation, enabling the assessment of forest composition and condition to prevent degradation. This study developed a U-Net-based deep learning framework for forest type classification using Sentinel-2 MSI satellite imagery and vegetation indices that capture seasonal canopy properties. A two-step approach was adopted, first delineating forested areas and then classifying forest types into needleleaf, broadleaf, and mixed forests. The forest area classification model achieved an overall accuracy of 0.958 (Kappa = 0.916)
+
+---
+
+### 📄 Smart Solutions for Livestock Management and Health Monitoring
+- **Authors:** 
+- **Year:** 2026  |  **Venue:** Pakistan Veterinary Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.29261/pakvetj/2026.020](https://doi.org/10.29261/pakvetj/2026.020)
+
+> No abstract available.
+
+---
+
+### 📄 Producing Nutritious and Aromatic Mangoes under Climatic Change Challenges and Solutions
+- **Authors:** 
+- **Year:** 2026  |  **Venue:** Trends in Animal and Plant Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.62324/taps/2026.008](https://doi.org/10.62324/taps/2026.008)
+
+> No abstract available.
+
+---
+
+### 📄 The Evolution of Weather-Based Deep Learning in Smart Irrigation: A Systematic Review of Sustainable Approaches and Perspectives
+- **Authors:** Andri Ulus Rahayu Rahayu, Linawati Linawati, Nyoman Purta Satra, Ida Bagus Gede Manuaba
+- **Year:** 2026  |  **Venue:** Indonesian Journal of Electronics Electromedical Engineering and Medical Informatics  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.35882/ijeeemi.v8i1.285](https://doi.org/10.35882/ijeeemi.v8i1.285)
+
+> This paper presents a systematic literature review of 191 peer-reviewed studies that link short-term weather information with learning based forecasting and control in irrigation or related applications, focusing on 191 peer-reviewed studies published between January 2020 and early 2025, with four foundational studies published prior to 2020 included via backward citation tracking. The review follows a PRISMA-inspired protocol, with database searches in Scopus, IEEE Xplore, and Web of Science, clear inclusion and exclusion criteria, and structured data extraction on the application domain, sen
+
+---
+
+### 📄 Hyperspectral Images of Vine Leaves Treated with Antifungal Products
+- **Authors:** Ramón Sánchez, Carlos Rad, Carlos Estévez Cambra, Rocío Fernández Barros
+- **Year:** 2026  |  **Venue:** Data  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/data11030053](https://doi.org/10.3390/data11030053)
+
+> Hyperspectral imagery provides detailed insights for vineyard vegetation assessment, enabling improved pesticide management within precision agriculture. For this reason, the dataset presented here includes hyperspectral images acquired from grapevine leaves treated with two copper-based formulations: ZZ Cuprocol (containing 70% w/v copper oxychloride) and Cuprantol Duo (composed of 14% w/w copper oxychloride and 14% w/w copper hydroxide). In addition, a commonly used contact pesticide in both intensive and traditional viticulture, Folpet—free of copper but containing sulfur and chlorine—was a
+
+---
+
+### 📄 High resolution thermal and multispectral remote sensing for detecting devitalized trees in Monarch Butterfly Biosphere Reserve
+- **Authors:** Ramón Guadarrama-León, Cuauhtémoc Sáenz-Romero, Marcela Rosas-Chavoya, José Tulio Méndez-Montiel
+- **Year:** 2026  |  **Venue:** Forest Systems  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5424/fs/2025342-20940](https://doi.org/10.5424/fs/2025342-20940)
+
+> Aim of study: To identify different levels of devitalization in individuals of Abies religiosa (Kunth) Schltdl. &amp; Cham. (oyamel) in the core zone of the Monarch Butterfly Biosphere Reserve (MBBR), using multispectral and thermal information captured with drone. Area of study: The study area, comprising 26 ha, is located within the federal property of the MBBR. This area also belongs to the core zone of the Protected Natural Area. Material and methods: Overflights were conducted with drones equipped with multispectral and thermographic sensors in monitoring plots. Using high-resolution imag
+
+---
+
+### 📄 Traceability and Anti-Counterfeiting in Agri-Food Supply Chains: A Review of RFID, IoT, Blockchain, and AI Technologies
+- **Authors:** Mohamed Riad Sebti, Ultan McCarthy, Anastasia Ktenioudaki, M Russo
+- **Year:** 2026  |  **Venue:** Sensors  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/s26051685](https://doi.org/10.3390/s26051685)
+
+> By 2050, the global population is expected to reach approximately 10 billion, leading to a projected 50% increase in food demand relative to 2013 levels. If not adequately anticipated, this growing demand will place significant strain on agri-food systems worldwide, with disproportionate impacts on low- and middle-income countries. Moreover, current projections may underestimate the accelerating effects of climate change, political instability, and civil unrest, which continue to disrupt food production and distribution systems. In this context, technological advancements offer a promising pat
+
+---
+
+### 📄 Rice tiller number estimation based on an improved Swin-UNet model and multi-feature fusion
+- **Authors:** Xiao Liang, Junnuo Wu, Cheng Zhang, Lielie Qin
+- **Year:** 2026  |  **Venue:** Frontiers in Plant Science  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fpls.2025.1693548](https://doi.org/10.3389/fpls.2025.1693548)
+
+> Rice early tillering characteristics are key indicators for high-yield breeding, with tiller number and tillering rate as core parameters. High-throughput, temporal, and precise monitoring of tiller numbers via drone digital imagery provides quantitative support for tillering trait screening in breeding, serving as an important auxiliary tool for smart breeding. However, during the early tillering stage, complex backgrounds (e.g., water bodies, soil) and small, dense breeding plots pose challenges to high-throughput rice plant extraction and accurate tiller number estimation. To address this, 
+
+---
+
+### 📄 Indigenous Bradyrhizobium strains enhance nodulation and yield of early maturing soybean in Belgium
+- **Authors:** Margo Vermeersch, Paul Quataert, Chris Van Waes, Sofie Goormachtig
+- **Year:** 2026  |  **Venue:** Frontiers in Plant Science  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fpls.2026.1748102](https://doi.org/10.3389/fpls.2026.1748102)
+
+> The use of commercial inoculants in Northwestern European soybean cultivation often leads to inconsistent nodulation and yield performance. This study investigates four indigenous Bradyrhizobium strains isolated in Belgium, through a combination of controlled growth chamber experiments and multi-year, multi-location field trials. Results show that the indigenous strains can effectively nodulate early maturing soybean varieties (MG00-000) and significantly improve chlorophyll content and key agronomic traits, including shoot biomass, grain yield and protein content. While no significant differe
+
+---
+
+### 📄 Bibliometric analysis of plant breeding research in Africa
+- **Authors:** Israel Ogwuche Ogra, S. D. Joshua, Afolakemi Abibat Alimi, Oghogho Endurance Okpomor
+- **Year:** 2026  |  **Venue:** Discover Plants.  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44372-026-00513-3](https://doi.org/10.1007/s44372-026-00513-3)
+
+> Plant breeding involves the utilization of various techniques to develop superior crop varieties with desirable characteristics, including higher yield and improved quality, such as better taste, aroma, texture, and nutrient content, as well as resistance to biotic and abiotic stresses. A bibliometric analysis was conducted to assess the global status, focal points, and trends in plant breeding research in Africa over the past two decades. Using VOSviewer and the Bibliometrix R package, this study examined 1682 documents indexed in the Scopus database from 2000 to 2023. The findings revealed a
+
+---
+
+### 📄 AEDNet: Anisotropic Enhanced Dual-Branch Network for Infrared Small Target Detection
+- **Authors:** Zhiqi Zhang, Jiayu Zhao, Shenggu Yuan, Yueqin Zhu
+- **Year:** 2026  |  **Venue:** Remote Sensing  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/rs18050817](https://doi.org/10.3390/rs18050817)
+
+> Infrared small target detection (IRSTD) aims to extract weak small targets from complex backgrounds, and has significant practical application value in safety-critical fields such as traffic monitoring and maritime search and rescue. However, due to the inherently weak features of infrared small targets and the difficulty in effectively separating target from complex backgrounds, existing methods are prone to losing detail during the process. To aid this situation, this study proposes an anisotropic enhanced dual-branch network (AEDNet), including two core modules: the anisotropic dual-branch 
+
+---
+
+### 📄 Applications of Machine Learning and Deep Learning for Foliar Nutritional Deficiency: A Systematic Review
+- **Authors:** Cíntia Cristina Soares, Jamile Raquel Regazzo, Thiago Lima da Silva, Marcos Silva Tavares
+- **Year:** 2026  |  **Venue:** AgriEngineering  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriengineering8030101](https://doi.org/10.3390/agriengineering8030101)
+
+> The automatic detection of foliar nutritional deficiencies through computer vision represents a promising alternative within precision agriculture practices, reducing dependence on laboratory analyses and the subjectivity associated with visual inspection. This systematic review maps and compares the application of machine learning (ML) and deep learning (DL) techniques to nutritional diagnosis across different crops, highlighting methodological trends, barriers to model adoption under field conditions, and existing research gaps. Following the PRISMA guidelines (PRISMA-P and PRISMA-2020), sea
+
+---
+
+### 📄 A Deep Learning Framework for Real-Time Pothole Detection from Combined Drone Imagery and Custom Dataset Using Enhanced YOLOv8 and Custom Feature Extraction
+- **Authors:** Shiva Shankar Reddy, Midhunchakkaravarthy Janarthanan, Inam Ullah Khan, Kankanala Amrutha
+- **Year:** 2026  |  **Venue:** Mathematics  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/math14050898](https://doi.org/10.3390/math14050898)
+
+> Road safety depends heavily on the timely identification and repair of potholes; however, detecting potholes is challenging due to various lighting and weather conditions. This work presents an attention-enhanced object detection framework for aerial pothole detection design that relies on a pre-trained backbone, YOLOv8, and a custom feature-extraction network, the Feature Pyramid Network (FPN). An enhanced detection head is used to make the model aware of discriminative areas in space to get accurate localization of a pothole to overcome the major limitations of the standard YOLOv8 used in ae
+
+---
+
+### 📄 Identification of Cypress Bark Beetle-Infested Cypress Based on LiDAR and RGB Imagery
+- **Authors:** Ke Wu, Zhiqiang Li, Linpan Feng, Shali Shi
+- **Year:** 2026  |  **Venue:** Forests  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/f17030328](https://doi.org/10.3390/f17030328)
+
+> Forest pests and diseases are some of the major disturbances affecting the stability of forest ecosystems. Accurate identification of insect-infested trees is therefore crucial for assessing forest health and implementing precision forestry management. This study focuses on stand-level detection of cypress trees (Cupressus funebris Endl.) that were affected by the cypress bark beetle (Phloeosinus aubei Perris), and the framework enables individual tree segmentation, insect-infested tree detection, and stand infestation assessment. Firstly, individual trees were extracted from Light Detection a
+
+---
+
+### 📄 First Attempts to Control Forest Pests Using Multi-Rotor Unmanned Aerial Spraying Systems (UASSs) in Forest Ecosystems
+- **Authors:** Marius Paraschiv, Andrei Buzatu, Cosmin Paraschivoiu, Danut Chira
+- **Year:** 2026  |  **Venue:** Drones  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/drones10030181](https://doi.org/10.3390/drones10030181)
+
+> Large-scale forest pest management has traditionally relied on aerial spraying; however, increasing regulatory restrictions and environmental concerns have limited its application in many regions. Unmanned Aerial Spraying System (UASS) platforms for aerial spraying have developed intensively in the last decade for pesticide application in agricultural crops but remain scarcely explored within the forestry sector. This study evaluates the feasibility of UASS-based spraying platforms for forest pest control. We tested a multi-rotor agricultural UASS in two different forest conditions: broadleaf 
+
+---
+
+### 📄 Machine learning approaches for data-driven hydrocarbon bioaugmentation and phytoremediation: the role of multi-omics insights
+- **Authors:** Ugochukwu Chukwuma Okafor, Saeed M. Alghamdi, Lorna Anguilano, Yang Yang
+- **Year:** 2026  |  **Venue:** Frontiers in Microbiology  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fmicb.2026.1742848](https://doi.org/10.3389/fmicb.2026.1742848)
+
+> Hydrocarbon contamination, particularly with polycyclic aromatic hydrocarbons (PAHs), poses a significant environmental challenge due to its persistence and carcinogenic effects on ecosystems and human health globally. This review explores how ML algorithms can enhance the efficiency of bio-augmentation and phytoremediation through predictive modeling, real-time optimization of microbial consortia, and plant species selection. Traditional bioremediation methods, such as bioaugmentation and phytoremediation, are characterized by slow degradation rates and sub-optimal performance in complex, mul
+
+---
+
+### 📄 Diurnal and Phenological Modulation of Canopy Temperature in Wheat Breeding Under Mediterranean Conditions
+- **Authors:** Jesús Flores-Olave, Hamza-Ali Khan, Isadora Pérez, Josefa Pacheco
+- **Year:** 2026  |  **Venue:** Plants  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/plants15050797](https://doi.org/10.3390/plants15050797)
+
+> Canopy temperature (CT) is widely used to assess crop water and heat status, but it is often recorded at a single hour, implicitly treating CT as a stable trait. Here, we show that canopy cooling is a dynamic phenotype whose expression depends on time of day, phenological stage, and environment. First, we monitored 184 spring wheat (Triticum aestivum L.) genotypes in two Mediterranean environments (fully irrigated vs. rainfed, contrasting atmospheric demand) using UAV-based thermal imaging. CT was measured six times per day (10:30–17:30 h) at four reproductive stages (anthesis, milk-grain, mil
+
+---
+
+### 📄 Early Plant Development as a Systems-Level Trait: Integrating Omics, Artificial Intelligence, and Emerging Biotechnologies
+- **Authors:** Abdallah S. Al-Sawa’eer, Ali Al-Samydai, Lama Odeh, Fatima Haj Ahmad
+- **Year:** 2026  |  **Venue:** Plants  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/plants15050787](https://doi.org/10.3390/plants15050787)
+
+> Seed germination and early seedling development are critical determinants of crop establishment, stress tolerance, and yield stability, yet these stages remain insufficiently integrated into contemporary crop improvement strategies. Recent advances across genome editing, microbiome-assisted seed treatments, nanotechnology-enabled priming, and artificial intelligence-guided phenotyping have generated substantial but fragmented insights into early developmental regulation. This review synthesizes recent advances across early plant development research. It demonstrates that seemingly diverse tech
+
+---
+
+### 📄 Sensemaking in User-Driven Algorithm Auditing: A Case Study on Gender Bias in an Image Captioning Model
+- **Authors:** Behnoosh Mohammadzadeh, Jules Françoise, Michèle Gouiffès, Baptiste Caramiaux
+- **Year:** 2026  |  **Venue:** SPIRE - Sciences Po Institutional REpository  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1145/3772318.3790784](https://doi.org/10.1145/3772318.3790784)
+
+> International audience
+
+---
+
+### 📄 Smart Crop Advisory System
+- **Authors:** Ms.G.J.Kanade, M.R. Shaikh, Mr. Ranjit Pawar, Mr.Sani Bhagat
+- **Year:** 2026  |  **Venue:** Zenodo (CERN European Organization for Nuclear Research)  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5281/zenodo.18919232](https://doi.org/10.5281/zenodo.18919232)
+
+> Agriculture faces persistent challenges such as delayed crop disease identification, improper fertilizer usage, unsuitable crop selection, and unreliable yield estimation, which collectively reduce productivity and increase financial risk for farmers. To address these issues, this paper presents a Smart Farming Assistant, an intelligent decision-support system that integrates Machine Learning and Deep Learning techniques to enhance precision agriculture. The proposed system performs automated crop disease detection using Convolutional Neural Networks by analyzing leaf images, enabling early an
+
+---
+
+### 📄 Biochar–soil–tea nexus: a review of soil health, microbial interactions, and sustainable Camellia sinensis cultivation
+- **Authors:** Md Shafiqul Islam, Shangwen Xia
+- **Year:** 2026  |  **Venue:** Biochar  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s42773-026-00580-5](https://doi.org/10.1007/s42773-026-00580-5)
+
+> Abstract Tea ( Camellia sinensis ) cultivation, central to global agriculture and livelihoods, is increasingly challenged by soil degradation, heavy metal contamination, and climate stressors largely driven by intensive practices. Because tea agroecosystems typically occupy acidic, nutrient-poor soils, sustainable management is essential. Biochar, a carbon (C)-rich product of biomass pyrolysis, has emerged as a promising amendment to restore soil health, mitigate contaminants, and strengthen crop resilience. This review synthesizes recent advances on the biochar–soil–tea nexus across five dime
+
+---
+
+### 📄 Smart Crop Advisory System
+- **Authors:** Ms.G.J.Kanade, M.R. Shaikh, Mr. Ranjit Pawar, Mr.Sani Bhagat
+- **Year:** 2026  |  **Venue:** Zenodo (CERN European Organization for Nuclear Research)  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5281/zenodo.18919233](https://doi.org/10.5281/zenodo.18919233)
+
+> Agriculture faces persistent challenges such as delayed crop disease identification, improper fertilizer usage, unsuitable crop selection, and unreliable yield estimation, which collectively reduce productivity and increase financial risk for farmers. To address these issues, this paper presents a Smart Farming Assistant, an intelligent decision-support system that integrates Machine Learning and Deep Learning techniques to enhance precision agriculture. The proposed system performs automated crop disease detection using Convolutional Neural Networks by analyzing leaf images, enabling early an
+
+---
+
+### 📄 A Microservices-Based Solution with Hybrid Communication for Energy Management in Smart Grid Environments
+- **Authors:** Artur F. S. Veloso, José V. Reis, Ricardo A. L. Rabelo
+- **Year:** 2026  |  **Venue:** Sensors  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/s26051714](https://doi.org/10.3390/s26051714)
+
+> The increasing variability of residential demand, combined with the expansion of distributed generation and electric vehicles, has introduced new challenges to the stability of Smart Grids (SGs). Centralized management models lack the flexibility required to operate under these conditions, reinforcing the need for scalable and data-driven architectures. This study proposes an energy management solution based on microservices, supported by hybrid communication in Low Power Wide Area Networks (LPWAN), integrating Long Range Wide Area Network (LoRaWAN) and LoRaMESH to enhance connectivity, local 
+
+---
+
+### 📄 The contribution of artificial intelligence to achieving the united nations sustainable development goals
+- **Authors:** Walter Leal Filho, Tarek Ben Hassen, VITOR W.B. MARTINS, Skouloudis
+- **Year:** 2026  |  **Venue:** Environment Development and Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s10668-026-07415-0](https://doi.org/10.1007/s10668-026-07415-0)
+
+> The UN Summit of the Future (SoF), held in September 2024, adopted the “Pact for the Future” and its two annexes—the “Global Digital Compact” and the “Declaration on Future Generations”. These landmark outcomes aim to establish a unified global framework on critical issues, including peace and security, sustainable development, climate change, digital cooperation, the rights of youth and future generations, and the transformation of global governance. They also seek to accelerate progress toward achieving the UN Sustainable Development Goals (SDGs). As part of this acceleration process, there 
+
+---
+
+### 📄 Goals in Nutrition Science 2025–2030
+- **Authors:** Elliot M. Berry, Bárbara Ramalho Ladeira Cardoso, Sean B. Cash, Alejandro Cifuentes
+- **Year:** 2026  |  **Venue:** Frontiers in Nutrition  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fnut.2026.1784021](https://doi.org/10.3389/fnut.2026.1784021)
+
+> Already in its third edition, the Goals in Nutrition Science platform covers a five-year timeframe per volume, thus spanning 15 years from 2015 to 2030 ( 1 , 2 ). This period aligns with the Sustainable Development Goals, and, in practice, these 5-year updates do capture major shifts in the field. As the second quarter of the 21st century unfolds, it increasingly appears that much of the widely promoted food technology has not delivered or is not yet ready. Nutrition, food security, and sustainability are therefore best treated as inseparable challenges within complex, adaptive food systems, w
+
+---
+
+### 📄 The International Soil Radiocarbon Database (ISRaD) version 2: Synthesis, data gaps, and future directions of soil radiocarbon data
+- **Authors:** Sophie F. von Fromm, R. Scott Winton, Derrick Vaughn, J. Richard Bowen
+- **Year:** 2026  |  **Venue:** Unknown Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5194/essd-2025-753](https://doi.org/10.5194/essd-2025-753)
+
+> Abstract. Soil radiocarbon (14C) measurements are crucial for understanding soil carbon cycling over timescales ranging from years to millennia. However, the global synthesis and comparison of radiocarbon data has been limited due to the variety of measurement methodologies and data formats. The International Soil Radiocarbon Database (ISRaD) is an open-access, community-driven archive designed to compile soil radiocarbon data and facilitate large-scale research on soil carbon dynamics. Here, we present ISRaD version 2 (v2), which has grown significantly since its initial release in 2020. It n
+
+---
+
+### 📄 Precision Genome Editing for Smarter, Inclusive, and Nutritious Crops: Emerging Tools, Omics Integration, and Global Perspectives
+- **Authors:** 
+- **Year:** 2026  |  **Venue:** Trends in Animal and Plant Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.62324/taps/2026.006](https://doi.org/10.62324/taps/2026.006)
+
+> No abstract available.
+
+---
+
+### 📄 Molecular and Genomic Insights into Stress Resilience in Cotton (Gossypium spp.)
+- **Authors:** 
+- **Year:** 2026  |  **Venue:** Trends in Animal and Plant Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.62324/taps/2026.009](https://doi.org/10.62324/taps/2026.009)
+
+> No abstract available.
+
+---
+
+### 📄 Ferroptosis in cardiovascular diseases: molecular mechanisms and a novel therapeutic target
+- **Authors:** Suli Yu, Zhen Pang, Hong Fang, Chi Liu
+- **Year:** 2026  |  **Venue:** Molecular Biomedicine  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1186/s43556-026-00420-9](https://doi.org/10.1186/s43556-026-00420-9)
+
+> Ferroptosis, a regulated cell death modality driven by iron accumulation and lipid peroxidation, has emerged as a pivotal pathophysiological mechanism across a broad spectrum of cardiovascular diseases (CVDs), which remain the leading cause of global mortality. Although robust preclinical evidence indicates that modulation of ferroptosis attenuates myocardial and vascular injury, clinical translation is constrained by incomplete understanding of context-specific roles, the paucity of validated biomarkers, and the absence of targeted therapeutics with acceptable safety profiles. In this Review,
+
+---
+
+### 📄 Artificial Intelligence and Its Impact on Sustainable Development from An Industrial Perspective
+- **Authors:** Maryam Jawad Kadhim, Huda Lafta Majeed, Rasha Hani Salman
+- **Year:** 2026  |  **Venue:** International Journal of Computational and Electronic Aspects in Engineering  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.26706/ijceae.7.1.20260102](https://doi.org/10.26706/ijceae.7.1.20260102)
+
+> Artificial Intelligence (AI) has become a key driver of transformation across industrial sectors, significantly enhancing efficiency, production quality, cost reduction, and natural resource conservation. This study examines AI’s influence on sustainable industrial development by analyzing its role in improving environmental and operational performance while balancing economic, social, and ecological dimensions. A descriptive analytical approach was adopted, using both quantitative and qualitative data from multiple sources. A purposive sample of 50 specialists in AI and industrial development
+
+---
+
+### 📄 A comprehensive survey on imbalanced data learning
+- **Authors:** Xinyi Gao, Dongting Xie, Yihang Zhang, Zhengren Wang
+- **Year:** 2026  |  **Venue:** Frontiers of Computer Science  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s11704-025-50274-7](https://doi.org/10.1007/s11704-025-50274-7)
+
+> Abstract With the expansion of data availability, machine learning (ML) has achieved remarkable breakthroughs in both academia and industry. However, imbalanced data distributions are prevalent in various types of raw data and severely hinder the performance of ML by biasing the decision-making processes. To deepen the understanding of imbalanced data and facilitate the related research and applications, this survey systematically analyzes various real-world data formats and concludes existing researches for different data formats into four distinct categories: data re-balancing, feature repre
+
+---
+
+### 📄 The Development and Experimental Evaluation of a Non-Invasive Vein Visualization System Using a Near-Infrared Light Source and a Web Camera to Assist Medical Personnel in Radiology Contrast Administration and Venous Access
+- **Authors:** Suphalak Khamruang Marshall, Jongwat Cheewakul, Natee Ina, Thirawut Rojchanaumpawan
+- **Year:** 2026  |  **Venue:** Applied Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/app16052578](https://doi.org/10.3390/app16052578)
+
+> Injection-related errors remain a common clinical issue and can cause patient discomfort, hematoma formation, and procedural inefficiencies. The visualization of subcutaneous veins using near-infrared (NIR) imaging has gained attention as an effective approach to reducing such errors, as blood exhibits a higher absorption of NIR light than surrounding tissue. In this study, a low-cost, non-invasive vein visualization system is presented to support safer and more accurate venous access. The proposed system integrates an NIR illumination source and a modified webcam within a compact equipment en
+
+---
+
+### 📄 Smart wastewater management in hydro-technical systems using digital twin technology
+- **Authors:** Tariq Ahamed Ahanger, Zhanuzak Abdibayev, S.K. Sagnayeva, Ainur Zhumadillayeva
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-42626-5](https://doi.org/10.1038/s41598-026-42626-5)
+
+> Operational inefficiencies in wastewater management systems increasingly lead to treatment delays, hydraulic overloads, resource wastage, and contamination events. Digital Twin (DT) technology provides a systematic approach to addressing these challenges through continuous physical–virtual synchronization, predictive analytics, and scenario-based decision support. This study presents a DT-assisted, real-time monitoring and forecasting framework for wastewater infrastructure, integrating IoT-enabled sensing, EPANET–MATLAB based hydraulic simulation, hybrid ANFIS-driven predictive intelligence, 
+
+---
+
+### 📄 MeMoSA dataset: A multi-country collection of over 30,000 oral mucosa images with clinically labelled lesions
+- **Authors:** Sara Chew, Aliya Nabil, Wei Jie Sin, Davinna Satguna Rajah
+- **Year:** 2026  |  **Venue:** Scientific Data  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41597-026-06998-7](https://doi.org/10.1038/s41597-026-06998-7)
+
+> The rising incidence of oral cancer and associated poor prognosis, primarily due to delayed diagnosis, highlight the urgent need for artificial intelligence tools in clinical detection. However, efforts in this regard are hampered by the lack of large and ethnically heterogenous image datasets of oral lesions with clinically validated diagnoses. To address this gap, oral mucosa images captured with mobile device cameras were collected from cohorts spanning five countries. The images were systematically annotated with lesion type classifications as well as specific clinical diagnoses, then asse
+
+---
+
+### 📄 Ten Questions on Indoor Greening and Environmental Quality
+- **Authors:** NICOLA CARSLAW
+- **Year:** 2026  |  **Venue:** White Rose Research Online (University of Leeds, The University of Sheffield, University of York)  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://openalex.org/W7128880415](https://openalex.org/W7128880415)
+
+> No abstract available.
+
+---
+
+### 📄 Torrefaction of Biowastes for High-Performance Solid Biofuel Production: A Review
+- **Authors:** Corinna Schloderer, Sonil Nanda, Janusz A. Kozinski
+- **Year:** 2026  |  **Venue:** Energies  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/en19051380](https://doi.org/10.3390/en19051380)
+
+> To compete with fossil fuels, biofuels produced from renewable waste biomass must be cost-effective, adaptable to existing heat and power infrastructure, and possess desirable fuel properties and performance metrics matching those of fossil fuels, while having a much lower carbon footprint. However, handling and processing biowastes in thermochemical biorefineries is challenging owing to their high moisture content, low bulk density, poor grindability, low calorific value, and heterogeneous physicochemical properties. Torrefaction has emerged as an effective thermochemical technology for upgra
+
+---
+
+### 📄 Traditional and Innovative Managerial Adaptations in Dairy Supply Chains During COVID-19: A Comprehensive Review
+- **Authors:** Fachri Rizky Sitompul, Csaba Borbély
+- **Year:** 2026  |  **Venue:** Logistics  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/logistics10030058](https://doi.org/10.3390/logistics10030058)
+
+> Background: The COVID-19 pandemic disrupted global dairy supply chains and threatened business continuity from farms to retail outlets. There is limited understanding of how operational-level managerial decisions supported resilience in this perishable sector. Methods: This study applies a systematic literature review based on PRISMA 2020 guidelines. It analyses 21 peer-reviewed studies published between 2019 and 2025 across 19 countries. Results: The findings identify 8 primary supply chain challenges. Adaptive responses are classified into traditional and innovative managerial adaptations. T
+
+---
+
+### 📄 Balancing land use for conservation, agriculture, and renewable energy
+- **Authors:** Cameryn Brock, Patrick R. Roehrdanz, Tim Beringer, Rebecca Chaplin-Kramer
+- **Year:** 2026  |  **Venue:** Nature Communications  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41467-026-69952-6](https://doi.org/10.1038/s41467-026-69952-6)
+
+> Growing demand for food coupled with climate commitments to reduce emissions will result in more land development for agriculture and renewable energy. Simultaneously, conserving land for biodiversity and nature's contributions to people (NCP) is imperative for achieving international climate, sustainable development, and biodiversity goals. Meeting these interconnected objectives requires efficient land allocation across sectors. Here, we present a flexible, multiple-objective framework for strategically allocating land to mitigate threats to biodiversity and NCP under climate change while su
+
+---
+
+### 📄 TIJUCA MASSIF, ITS FORESTS, AND THE SOCIAL METABOLISM OF THE CITY OF RIO DE JANEIRO, BRAZIL, FROM THE NINETEENTH TO THE EARLY TWENTIETH CENTURY
+- **Authors:** Gabriel Paes da Silva Sales, Rejan R. Guedes‐Bruni
+- **Year:** 2026  |  **Venue:** Mercator  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.4215/rm2026.e25001](https://doi.org/10.4215/rm2026.e25001)
+
+> The landscape of Rio de Janeiro, characterized by its unique geomorphology and the diversity of its forests and ecosystems, illustrates the historical processes that shaped the city's formation.This study aims to explore the role of the Tijuca Massif, particularly the Tijuca Forest, in the urban expansion of Rio de Janeiro in the nineteenth and twentieth centuries, identifying the key factors that influenced land use and transformation within the nature-society-city dynamic that continues to resonate today.The insights in this article are based on a qualitative approach, which includes the ana
+
+---
+
+### 📄 Data-driven optimization for modern urban logistics and transportation: modeling framework and applications
+- **Authors:** Haitao Li
+- **Year:** 2026  |  **Venue:** Urban Lifeline  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44285-025-00060-5](https://doi.org/10.1007/s44285-025-00060-5)
+
+> Abstract The rapid advancement of new technologies and the widespread availability of data have enabled new business paradigms in urban logistics and transportation. Although optimization theories and algorithms are well-established, a persistent gap remains between these theoretical foundations and the practical skills required to formulate models and implement effective, data-driven solutions. This positioning paper aims to bridge this gap by introducing optimization modeling frameworks and solution methodologies tailored to urban logistics and transportation applications. The paper targets 
+
+---
+
+### 📄 Potential for Cultivating Various Legume Species in Controlled Environment Agriculture
+- **Authors:** A. Brazaitytė, Rūta Sutulienė, G. Samuolienė, Akvilė Viršilė
+- **Year:** 2026  |  **Venue:** Horticulturae  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/horticulturae12030308](https://doi.org/10.3390/horticulturae12030308)
+
+> Legumes are among the most important plants capable of biological nitrogen fixation. However, there is a significant knowledge gap regarding the specifics of cultivating legumes in hydroponic systems under controlled environment conditions, particularly nitrogen metabolism at different growth stages, which this study addressed. Chickpeas, faba beans, lentils, soybeans, and sugar peas were cultivated in deep-water hydroponics without rhizobia, with a nutrient solution as the nitrogen source. The legumes displayed significant variations in growth patterns and nitrogen dynamics. Among them, soybe
+
+---
+
+### 📄 Computer Vision-Assisted Measurement of Ephemeral Gully Morphology Using a Portable Pin-Artboard Sensor
+- **Authors:** H. Mann, Hitesh Bhogilal Vasava, Hamid Mohebzadeh, Mojtaba Naeimi
+- **Year:** 2026  |  **Venue:** Sensors  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/s26051657](https://doi.org/10.3390/s26051657)
+
+> Soil erosion, particularly ephemeral gully (EG) erosion, poses a significant threat to agricultural sustainability and ecosystem health. Despite their substantial impact on soil degradation, EGs have been relatively understudied, primarily due to their temporary nature and the limitations of existing measurement techniques. This study introduces an integrated approach for quantifying and analyzing EGs, addressing the critical need for accurate and scalable measurement methods. Our methodology combines three key components: (1) an updated portable field tool (Gulliometer), which improves upon e
+
+---
+
+### 📄 Beyond Linear Models: A Hybrid SEM-fsQCA Approach to Understanding Consumer Intentions for Organic Rice
+- **Authors:** Claudel Mombeuil, Jean Fausner Michel, Christela Pierre Louis
+- **Year:** 2026  |  **Venue:** Businesses  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/businesses6010013](https://doi.org/10.3390/businesses6010013)
+
+> Interest in organic food has grown steadily, driven by its health and environmental benefits and concerns about conventional production. Yet organic rice remains largely overlooked, while imported, low-cost inorganic rice dominates the market. This study addresses that gap by extending the Theory of Planned Behavior (TPB) to include environmental concern and knowledge, alongside health consciousness and status, as predictors of purchase intention, and the TPB constructs as mediators. Using survey data from 401 Haitian consumers, we applied structural equation modeling and fuzzy-set qualitative
+
+---
+
+### 📄 Trust in Public Environmental Agencies and Farmers’ Willingness to Adapt to Climate Change: Evidence from Central Chile
+- **Authors:** Nicole Torres-Torres, Jose Llanos-Ascencio, Leyla Meneses, Maximiliano Rosales-Vergara
+- **Year:** 2026  |  **Venue:** Land  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/land15030424](https://doi.org/10.3390/land15030424)
+
+> Climate change poses increasing challenges to agricultural systems in vulnerable territories, where climate variability, ecosystem degradation, and governance constraints interact to shape farmers’ management decisions. Understanding how institutional and social factors influence adaptive responses is therefore critical. This study examines how trust in public environmental agencies shapes small farmers’ willingness to adopt climate change adaptation practices in the highly vulnerable district of Alhué, central Chile. A structured questionnaire was administered to small farmers to assess willi
+
+---
+
+### 📄 Transformation of the Ecological Food Market in Chernihiv (Ukraine) in the Context of the Implementation of EU Ecological Certification and Labeling Standards
+- **Authors:** Denis Maletsky, Oleksandr Lukash
+- **Year:** 2026  |  **Venue:** International Journal of Web of Multidisciplinary Studies  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.71366/ijwos03032609925](https://doi.org/10.71366/ijwos03032609925)
+
+> The article examines the multifaceted legal and practical dimensions of the ecological food market in Chernihiv through the strategic lens of implementing EU ecological certification and labeling standards. The research evaluates the effectiveness of Ukraine's legislative harmonization with EU Regulations (EC) No. 178/2002 and (EU) 2018/848 within the local retail environment. Methodology is based on the author's comprehensive field audit (shelf audit) of major retail chains (Silpo, ATB, Soyuz, Velmart) conducted from October 2025 to February 2026. The study reveals a profound structural dispa
+
+---
+
+### 📄 Integrated Processes Controlling the Functioning and Quality of Sandy Soil Cultivated with Bean Under Biochar Application in a Semiarid Region
+- **Authors:** Raví Emanoel De Melo, Vanilson Pedro da Silva, Julio César Calixto Costa, Maria Fernanda de A. Tenório Alves
+- **Year:** 2026  |  **Venue:** AgriEngineering  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriengineering8030095](https://doi.org/10.3390/agriengineering8030095)
+
+> Biochar application has been proposed as a promising strategy to improve soil functioning, defined as the integrated regulation of water storage, nutrient availability, and biological activity influencing crop productivity and crop performance in water-limited environments. However, its effectiveness depends on soil properties, climatic variability, and dominant processes. This study evaluated the effects of sewage sludge biochar on soil quality, water dynamics, nutrient availability, and bean productivity in sandy soil under rainfed semiarid conditions across two contrasting cropping cycles. 
+
+---
+
+### 📄 Optimization of Aeroponic Cultivation Parameters with Closed-Loop Water Recycling: A Field-Scale Case Study on Pak Choi (Brassica rapa subsp. chinensis)
+- **Authors:** Shen-Wei Chu, Terng-Jou Wan, Guan-Yu Guo
+- **Year:** 2026  |  **Venue:** Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriculture16050586](https://doi.org/10.3390/agriculture16050586)
+
+> Aeroponic cultivation can enhance resource-use efficiency, yet field-scale evidence for closed-loop water recycling remains limited. This study assessed a multi-tier aeroponic system for Pak choi, Brassica rapa subsp. chinensis, integrated with a recovery, filtration, ultraviolet sterilization, and recirculation module under practical operating conditions in Yunlin County, Taiwan. System performance was quantified using water consumption under recycling and non-recycling configurations, electricity use, crop growth, yield, and resource-use efficiencies. Closed-loop operation reduced external f
+
+---
+
+### 📄 Detección automatizada de áreas quemadas en Costa Rica: un primer acercamiento
+- **Authors:** Brayan Rodríguez-Delgado, Daniela Vargas-Sanabria, Heileen Aguilar Arias, José Andrés Umaña-Ortiz
+- **Year:** 2026  |  **Venue:** Revista Tecnología en Marcha  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.18845/tm.v39i5.8504](https://doi.org/10.18845/tm.v39i5.8504)
+
+> En Costa Rica a pesar de diversos estudios sobre incendios forestales, la recolección de datos todavía es un trabajo arduo debido a las condiciones geográficas, hay zonas donde las condiciones de accesibilidad dificultan la recolección. Las imágenes satelitales son herramientas útiles en el estudio de diferentes zonas para detectar áreas quemadas y sus cicatrices. Sin embargo, el procesamiento por parte de los investigadores suele requerir tiempo debido a la cantidad de archivos que son necesarios para realizar el análisis. En este artículo proponemos un marco de trabajo basado en aprendizaje 
+
+---
+
+### 📄 Bibliometric analysis of progress and challenges of bracken fern ( <i>Pteridium aquilinum</i> ) mapping with remote sensing
+- **Authors:** Rinae Mukwevho, Samuel Adelabu, A Van der Walt, Colbert M. Jackson
+- **Year:** 2026  |  **Venue:** Invasive Plant Science and Management  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1017/inp.2026.10046](https://doi.org/10.1017/inp.2026.10046)
+
+> Abstract Bracken fern (Pteridium aquilinum (L.) Kuhn) is an invasive species with significant ecological and economic impacts, making its detection and mapping critical for effective management. This study reviews remote sensing techniques for mapping P. aquilinum from 1996 to 2023. A total of 32 peer-reviewed articles were selected from Web of Science (WOS) and Scopus following the screening of 1,612 retrieved records. Bibliometric analysis, using VOSviewer software and Social Network Analysis (SNA), explored Keyword relationships, author collaborations, and institutional contributions. The r
+
+---
+
+### 📄 Study of urban green space changes using Sentinel-2 data in Thai Binh city, Vietnam
+- **Authors:** Thanh Phong Nguyen, Elena A. Parakhina
+- **Year:** 2026  |  **Venue:** RUDN Journal of Ecology and Life Safety  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.22363/2313-2310-2026-34-1-112-128](https://doi.org/10.22363/2313-2310-2026-34-1-112-128)
+
+> Urban green spaces play a crucial role in regulating the environment, improving the quality of life, and contributing significantly to achieving the goals of sustainable urban development. However, the rapid pace of urbanization in recent years has led to substantial changes in land use, particularly a reduction in the area of vegetation and urban green zones. This study utilizes Sentinel-2 L2A satellite data, which offer advantages in spatial resolution and multitemporal observation capabilities. To complement information on vegetation conditions, the Normalized Difference Vegetation Index (N
+
+---
+
+### 📄 Inversion of Soil Arsenic Concentration in Sanlisha’an Mining Area Based on ZY-02E Hyperspectral Satellite Images
+- **Authors:** Yuqin Li, Dan Meng, Qi Yang, Mengru Zhang
+- **Year:** 2026  |  **Venue:** Remote Sensing  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/rs18050822](https://doi.org/10.3390/rs18050822)
+
+> Soil heavy metal pollution caused by mineral resource extraction activities poses a serious threat to the ecological environment within and surrounding mining areas. As a highly concealed toxic heavy metal, arsenic (As) urgently requires the establishment of efficient pollution monitoring methods to achieve pollution prevention and control, as well as environmental remediation in mining areas. This study investigated the feasibility of hyperspectral remote sensing inversion for soil heavy metal arsenic based on ZY-1 02E hyperspectral satellite imagery, focusing on a mining area and its surroun
+
+---
+
+### 📄 CartograPlant: Bridging genomic, phenotypic, and environmental data to advance plant resilience and eco-evolutionary insight
+- **Authors:** Brandon M. Lind, Irene Cobo-Simón, Meghan N Myles, Gabe Barrett
+- **Year:** 2026  |  **Venue:** Genetics  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1093/genetics/iyag060](https://doi.org/10.1093/genetics/iyag060)
+
+> Climate change is threatening plant health and productivity at all spatial scales, and these impacts are further compounded by the rising incidence of invasive pests and pathogens. Effectively addressing these challenges requires a comprehensive understanding of plant demography as well as the mechanisms and drivers of adaptation. Achieving this understanding requires the integration of physiological, ecological, and genetic datasets. However, such integration is often hindered by disconnected data sources, inconsistent metadata standards, and limited tools to link, analyze, and visualize mult
+
+---
+
+### 📄 A remote sensing framework for predicting and managing waste generation in tropical highland agroecosystems: case study of land use transitions in cameron highlands, Malaysia
+- **Authors:** SITI NORLIYANA HARUN, Ricky Anak Kemarau, Mazidah Mazri, Nadrah Ahmad Damanhuri
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-42488-x](https://doi.org/10.1038/s41598-026-42488-x)
+
+> Urbanisation, agriculture, and tourism are rapidly transforming land use and land cover (LULC) in tropical highland agroecosystems. In the Cameron Highlands, Malaysia, these transitions are closely associated with rising volumes of solid waste, yet the spatial dynamics remain poorly understood. This study presents a remote sensing-based framework to predict and analyse solid waste generation using multi-temporal satellite-derived LULC data and georeferenced waste datasets from 2020 to 2024. Annual LULC maps were generated via supervised classification of Sentinel-2 and Landsat-8 imagery using 
+
+---
+
+### 📄 Impacts of Extreme Climate Events on Subtropical Upland Crops: A 20-Year Case Study in the Hilly Area of Southwest China
+- **Authors:** Lu Chen, Junfang Cui, Mohammad Sadegh Askari, Jialiang Tang
+- **Year:** 2026  |  **Venue:** Agronomy  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agronomy16050572](https://doi.org/10.3390/agronomy16050572)
+
+> Understanding how climate extremes affect crop growth in humid–subtropical hilly regions is essential for climate-smart agriculture, yet phenology-resolved evidence remains limited. We combined 20 ETCCDI extreme climate indices (1960–2024) with field records of wheat and maize production (2005–2024) from the hilly area of southwest China, and quantified climate–crop linkages using Mantel tests and generalized additive models; persistence and prospective tendencies were evaluated using Hurst (H) and Mann–Kendall statistics. Warming extremes intensified, with significant increases in TXx (0.22 °
+
+---
+
+### 📄 SPyCer: Semi-Supervised Physics-Guided Contextual Attention for Near-Surface Air Temperature Estimation from Satellite Imagery
+- **Authors:** Sofiane Bouaziz, Adel Hafiane, Ali Ganoun, Rachid Nedjai
+- **Year:** 2026  |  **Venue:** arXiv (Cornell University)  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://openalex.org/W7134093649](https://openalex.org/W7134093649)
+
+> Modern Earth observation relies on satellites to capture detailed surface properties. Yet, many phenomena that affect humans and ecosystems unfold in the atmosphere close to the surface. Near-ground sensors provide accurate measurements of certain environmental characteristics, such as near-surface air temperature (NSAT). However, they remain sparse and unevenly distributed, limiting their ability to provide continuous spatial measurements. To bridge this gap, we introduce SPyCer, a semi-supervised physics-guided network that can leverage pixel information and physical modeling to guide the le
+
+---
+
+### 📄 Dynamic Monitoring and Driving Force Analysis of Ecological Environment Quality in Zalait Banner Using RSEI (2000–2022)
+- **Authors:** Nanzhu Qin, Dian Yuan, Kun Xie, Xingquan Wang
+- **Year:** 2026  |  **Venue:** Atmosphere  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/atmos17030274](https://doi.org/10.3390/atmos17030274)
+
+> High-quality ecological environments are vital for sustainable agro-pastoral development. This study evaluated the spatiotemporal dynamics of ecological environment quality (EEQ) in Zalait Banner from 2000 to 2022 using the Remote Sensing Ecological Index (RSEI) and explore the correlation between various factors and EEQ via Geodetector. Results show a fluctuating upward RSEI trend over 22 years. EEQ hit a low in 2004, with “poor” areas peaking at 30.77%, followed by a significant recovery between 2009 and 2013. Spatially, the region exhibits a “high in the west/northeast, low in the central-s
+
+---
+
+### 📄 Classification and Characterization of Vegetation Dynamics in Northeastern Mexico from 25-Year EVI Time Series
+- **Authors:** Alejandra Nahiely Espinoza-Coronado, Edith Calixto-Pérez, Jorge Víctor Horta-Vega, Arturo Mora-Olivo
+- **Year:** 2026  |  **Venue:** Remote Sensing  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/rs18050787](https://doi.org/10.3390/rs18050787)
+
+> Vegetation indices are used to analyze vegetation dynamics and primary productivity. However, most studies rely on short time series and peak or integral metrics, which limit the understanding of long-term vegetation dynamics in heterogeneous areas. This study aimed to classify a subarea of northeastern Mexico using a 25-year EVI time series and to characterize the resulting groups using growth parameters derived from temporal analysis. MODIS EVI mosaics from 2000 to 2024 were averaged and classified using the ISODATA algorithm, resulting in 16 groups. Smoothed EVI time series were analyzed wi
+
+---
+
+### 📄 Spatial Characteristics, Sources of Volatile Organic Compounds and Effects on O3 Formation in Summer in Taiyuan, China
+- **Authors:** Lili Guo, Tianyu Gao, Bingxi Wang, Yang Cui
+- **Year:** 2026  |  **Venue:** Toxics  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/toxics14030220](https://doi.org/10.3390/toxics14030220)
+
+> Many previous studies on volatile organic compounds (VOCs) have focused on Photochemical Assessment Monitoring Station (PAMS) VOCs at a single site, yet there is limited understanding of the spatial heterogeneity of both PAMS VOCs and oxygenated VOCs (OVOCs) across multiple functional zones at the city scale. To better understand the characteristics, sources and the effects of VOCs on O3, we conducted simultaneous measurements of 71 VOCs (57 PAMS VOCs and 14 OVOCs) at three urban sites (Taoyuan, TY; Jinyuan, JY; Xiaodian, XD) and one suburban site (Shanglan, SL) in Taiyuan, a heavily industria
+
+---
+
+### 📄 From Sensing to Intervention: A Critical Review of Agricultural Drones for Precision Agriculture, Data-Driven Decision Making, and Sustainable Intensification
+- **Authors:** Vlad Nicolae Arsenoaia, Denis Constantin Topa, Roxana Nicoleta Rațu, Ioan Ţenu
+- **Year:** 2026  |  **Venue:** Agronomy  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agronomy16050564](https://doi.org/10.3390/agronomy16050564)
+
+> Unmanned aerial vehicles (UAVs) are increasingly employed in precision agronomy to support high-resolution monitoring and management of crops; however, the extent to which UAV-derived data can be translated into reliable, scalable, and decision-ready applications remains inconsistent. This review addresses this gap by critically synthesising the recent literature with a specific focus on the end-to-end data pipeline, from acquisition planning and pre-processing to data fusion, analytics readiness, and operational decision support. A systematic analysis of peer-reviewed studies published over t
+
+---
+
+### 📄 Spatio-temporal analysis of climate-induced multi-hazards in Ladakh using geospatial techniques
+- **Authors:** Pooja Chauhan, Mamata Ngangom
+- **Year:** 2026  |  **Venue:** Discover Geoscience  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44288-026-00469-7](https://doi.org/10.1007/s44288-026-00469-7)
+
+> No abstract available.
+
+---
+
+### 📄 STAF-Net: An Innovative Framework for Wheat Yield Prediction
+- **Authors:** Mohamed El Ayyadi, Khadija Meghraoui, Maryam El Hamdani, Saloua Bensiali
+- **Year:** 2026  |  **Venue:** The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5194/isprs-archives-xlviii-4-w19-2025-45-2026](https://doi.org/10.5194/isprs-archives-xlviii-4-w19-2025-45-2026)
+
+> Abstract. Accurate crop yield forecasting is critical for optimizing agricultural resource management and ensuring food security. This study introduces STAFNet (Spatial-Temporal Attention Fusion Network), an innovative deep learning framework designed to integrate multispectral Sentinel-2 imagery and climatic variables for wheat yield prediction under limited data conditions. Classical machine learning models (Random Forest, XGBoost, Support Vector Machine) and a CNN-LSTM architecture were evaluated for comparison. Additionally, a Generative Adversarial Network (GAN) was employed to generate r
+
+---
+
+### 📄 Quantifying Vegetation Responses to Rainfall Extremes in Sub-Saharan Africa Using CHIRPS Precipitation and MODIS NDVI
+- **Authors:** M. Yamashita, Koki Uda, Mitsunori Yoshimura
+- **Year:** 2026  |  **Venue:** Remote Sensing  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/rs18050768](https://doi.org/10.3390/rs18050768)
+
+> Rainfall variability strongly governs vegetation dynamics in the Semi-Arid Tropics (SAT) of Sub-Saharan Africa (SSA). Yet the impacts of heavy rainfall are less well quantified than those of drought. This study proposes a modified heavy rainfall index (mR95pT) to enable robust comparison of extreme rainfall signals across seasons and regions. The index mitigates the strong seasonal background signal inherent to constant-threshold approaches and highlights episodic heavy rainfall events more clearly. Using CHIRPS precipitation (1981–2022, to derive long-term climatological means) and MODIS NDVI
+
+---
+
+### 📄 A REVIEW OF SYSTEMS PERSPECTIVES IN SUSTAINABILITY: HOW SYSTEMS PROPERTIES CONVEY SYSTEMS-WIDE DYNAMICS
+- **Authors:** Domenico Dentoni, Ivana Botica, Amanda Williams, Pratima Bansal
+- **Year:** 2026  |  **Venue:** SPIRE - Sciences Po Institutional REpository  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://openalex.org/W7133172366](https://openalex.org/W7133172366)
+
+> International audience
+
+---
+
+### 📄 Rhizospheric glycosyltransferase repertoires as a resource for enabling sustainable bioprocessing and green biocatalyst discovery
+- **Authors:** Rewaa S. Jalal, Fatimah Alshehrei
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-42974-2](https://doi.org/10.1038/s41598-026-42974-2)
+
+> The rhizospheric microbiomes associated with wild plant species Moringa oleifera and Abutilon fruticosum, endemic to the arid northwestern Mecca region of Saudi Arabia, represent untapped reservoirs of genetic capability with significant implications for agriculture, biotechnology, medicine, and environmental sustainability. Leveraging high-throughput metagenomic sequencing and advanced bioinformatics, this study systematically cataloged carbohydrate-active enzymes (CAZymes), with a particular focus on glycosyltransferase (GT) families, within these root-associated microbial consortia. The ana
+
+---
+
+### 📄 Diversity of culturable gut bacteria associated with brown planthopper, Nilaparvata lugens (Stål) and their role in imidacloprid degradation
+- **Authors:** D. Dhyan Chowdary, Y. Sridhar, G. Ramachandra Rao, M. Sheshu Madhav
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-41348-y](https://doi.org/10.1038/s41598-026-41348-y)
+
+> The brown planthopper, Nilaparvata lugens (Stål), is a major pest of rice across Asia and has developed significant metabolic resistance to multiple insecticides. Microbiome-mediated insecticide resistance is of emerging interest in various insect pests, including N. lugens. In this study, we assessed the diversity of culturable gut bacteria in imidacloprid-susceptible (IMI-S) and imidacloprid-resistant (IMI-R) populations of N. lugens and their potential to degrade imidacloprid. Molecular characterization and phylogenetic analysis identified 13 bacterial isolates, representing ten families fr
+
+---
+
+### 📄 Evaluating the phosphate solubilizing ability of novel Bacillus sp. strains and their effects on corn production
+- **Authors:** Seprida A. Halog
+- **Year:** 2026  |  **Venue:** Journal of Scientific Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.25081/jsa.2026.v10.9784](https://doi.org/10.25081/jsa.2026.v10.9784)
+
+> This study investigated the effects of two phosphate solubilizing bacteria (PSB) isolates, Bacillus sp. strain E1 and G4, and three fertilizer types on soil properties, corn growth, and yield. The results showed that PSB E1 increased soil organic matter (SOM) and available phosphorus, while G4 enhanced exchangeable potassium and cation exchange capacity (CEC). Organic fertilizers improved soil fertility, while inorganic fertilizers had a different impact. The combination of PSB G4 and organic fertilizer produced the highest yield, while PSB E1 combined with fertilizers boosted crop growth. The
+
+---
+
+### 📄 Climate change, spatial spillovers, and sustainable productivity of Teff, Maize, and wheat across Ethiopian districts using integrated climate and agricultural data from 2000 to 2024
+- **Authors:** Teklu Gebretsadik, Aneth Kayombo
+- **Year:** 2026  |  **Venue:** Discover Environment  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44274-026-00626-2](https://doi.org/10.1007/s44274-026-00626-2)
+
+> Climate change poses growing threats to cereal-based food systems in Sub-Saharan Africa, where agricultural output relies heavily on weather patterns and on interconnected geographic areas. In Ethiopia, key crops such as teff, maize, and wheat are crucial to national food security, but there is limited empirical evidence on how climate variability and spatial spillovers jointly affect their productivity. This research tackles this issue by investigating the spatial and temporal effects of climate change on cereal yields at the district level throughout Ethiopia from 2000 to 2024. The study use
+
+---
+
+### 📄 Sewage Sludge-Mediated Microplastic Transfer to Agroecosystem: A Comprehensive Review on Detection, Fate and Ecological Impacts
+- **Authors:** M. T. Khan, Masroor Waliullah, Zohaib Abbas, Saba Hafeez
+- **Year:** 2026  |  **Venue:** Water Air & Soil Pollution  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s11270-026-09329-z](https://doi.org/10.1007/s11270-026-09329-z)
+
+> Abstract Microplastic (MP) pollution has become a significant environmental concern due to its persistent nature and toxic environmental effects. MPs pose threats to the aquatic and terrestrial environment by impacting plant habitats and altering soil properties. Wastewater treatment plants (WWTPs) are one of the most prominent channels for MP pollution in both aquatic and terrestrial ecosystems. MP particles separated during various treatment processes are trapped in the sludge and subsequently enter the terrestrial agroecosystem when sludge is used as fertilizer. In addition, sludge incinera
+
+---
+
+### 📄 Association of root-knot nematode (Meloidogyne incognita) infestation and tomato brown rugose fruit virus incidence in greenhouse tomatoes following dimethyl disulfide soil treatment
+- **Authors:** Muharrem Arap Kamberoğlu, Mohamed Hussein
+- **Year:** 2026  |  **Venue:** Frontiers in Plant Science  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fpls.2026.1758328](https://doi.org/10.3389/fpls.2026.1758328)
+
+> Introduction Tomato ( Solanum lycopersicum L.) production is increasingly constrained by root-knot nematodes (RKNs, Meloidogyne spp.) and Tomato brown rugose fruit virus (ToBRFV), two destructive pathogens that frequently co-occur in protected cultivation systems. Meloidogyne incognita induces severe root galling that weakens plant vigor, while ToBRFV is a highly stable, mechanically transmitted virus responsible for substantial yield losses. This study examined the association between nematode-induced root damage and ToBRFV incidence in tomato using a nematode suppression gradient generated b
+
+---
+
+### 📄 Marine macroalgal metabolites in microbial modulation for next-generation microecological therapeutics
+- **Authors:** A. Annamalai, Prabhu Kolandhasamy
+- **Year:** 2026  |  **Venue:** Discover Biotechnology  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44340-025-00047-6](https://doi.org/10.1007/s44340-025-00047-6)
+
+> The marine environment harbours an extraordinary diversity of bioactive compounds, with seaweeds (marine macroalgae) emerging as prolific producers of secondary metabolites with potent antimicrobial and microbiota-modulating properties. Amid the escalating crisis of antimicrobial resistance (AMR) and increasing recognition of microbiome-related health disorders, seaweed-derived compounds offer a promising alternative to conventional therapeutics. This review explores the chemical diversity and therapeutic potential of secondary metabolites from brown, red, and green algae, including phlorotann
+
+---
+
+### 📄 Gastrointestinal Nematodes of the Saiga Antelope: A Review of Diversity, Epidemiology, Pathophysiology and Conservation Significance
+- **Authors:** 
+- **Year:** 2026  |  **Venue:** Pakistan Veterinary Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.29261/pakvetj/2026.021](https://doi.org/10.29261/pakvetj/2026.021)
+
+> No abstract available.
+
+---
+
+### 📄 Effects of microbial inoculum optimization on biomethane production from paper mill solid residues
+- **Authors:** Marília Bixilia-Sanchez, Welington Luiz Araújo
+- **Year:** 2026  |  **Venue:** Brazilian Journal of Microbiology  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s42770-026-01893-0](https://doi.org/10.1007/s42770-026-01893-0)
+
+> The conversion of residual biomass can significantly enhance renewable energy production and reduce greenhouse gas emissions. According to the Brazilian Tree Industry (IBÁ), Brazil produced approximately 23.5 million tons of cellulose and 11 million tons of paper, generating about 0.4 tons of residues for every ton of cellulose produced. This study utilizes a laboratory-scale batch anaerobic reactor to evaluate the effects of microbial inoculum acclimatization and nutritional supplementation on the conversion of cellulose residues into biomethane. Bioreactors that were supplemented with chicke
+
+---
+
+### 📄 Metagenomic insights from NGS into water and soil microbiomes surrounding the Temuan Orang Asli communities of Serendah, Malaysia
+- **Authors:** Aishath Maumoon, Navindra Kumari Palanisamy, Heo Chong Chin, Jamal Houssaini
+- **Year:** 2026  |  **Venue:** Asia-Pacific Journal of Molecular Biology and Biotechnology  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.35118/apjmbb.2026.034.1.10](https://doi.org/10.35118/apjmbb.2026.034.1.10)
+
+> The Orang Asli has a profound knowledge of the forest and its resources which are shaped by the complex microbial communities present in the soil and water sources around their settlements. However, there is a significant gap in the understanding of the environmental microbiome associated with Orang Asli communities. Investigating the diversity and composition of these microbial communities could provide insights into the intricate relationships between the Orang Asli and their surrounding ecosystems. Environmental samples were collected from sites in triplicate across the village. Water quali
+
+---
+
+### 📄 Prunella vulgaris L. Polysaccharide Alleviated Liver Injury in Carbon Tetrachloride-Induced Mice Via Regulating Oxidation Resistance, Inflammatory Response and Microbiota
+- **Authors:** 
+- **Year:** 2026  |  **Venue:** Pakistan Veterinary Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.29261/pakvetj/2026.025](https://doi.org/10.29261/pakvetj/2026.025)
+
+> Prunella vulgaris L. (P.vulgaris L.) is a traditional medicinal herb renowned for its various pharmacological properties through antioxidant and anti-inflammatory effects.The present study investigated the hepatoprotection of P. vulgaris L. polysaccharide against carbon tetrachloride-induced liver injury in mice.Thirty (n= 30) ICR mice were divided into a control group (AC), a CCl4-induced liver injury model (AM), and a P. vulgaris L. polysaccharide treatment group (AXK).The AM and AXK groups received intraperitoneal injections of 10% CCl4 every two days, while the AXK group was also intragast
+
+---
+
+### 📄 Game Theoretical Analysis of Geosystem Service Management:A Systematic Literature Review
+- **Authors:** Syed-Mujtaba Masroor, Kris Welkenhuysen, Jacco Thijssen, Tine Compernolle
+- **Year:** 2026  |  **Venue:** White Rose Research Online (University of Leeds, The University of Sheffield, University of York)  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://openalex.org/W7125467876](https://openalex.org/W7125467876)
+
+> No abstract available.
+
+---
+
+### 📄 “We are just like ploughing bulls”: a comparative analysis of power relations and cooperation in Fulani and Mossi polygynous households in Burkina Faso
+- **Authors:** Guesbeogo Viviane Yameogo, Thomas Daum, Regina Birner, Erdmute Alber
+- **Year:** 2026  |  **Venue:** Food Security  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s12571-026-01659-4](https://doi.org/10.1007/s12571-026-01659-4)
+
+> Abstract Polygynous households constitute a significant share of agricultural producers in sub-Saharan Africa, which can influence productivity and food security through intrahousehold cooperation. Economic analyses often focus on the outcomes of cooperation while overlooking the diverse institutional mechanisms that shape it. This study aims to address this gap by analysing cooperation within polygynous households as a collective action problem using an adapted version of the Institutional Analysis and Development (IAD) framework. Drawing on ethnographic fieldwork with Fulani and Mossi commun
+
+---
+
+### 📄 A SELF-POWERED, REAL-TIME, LORAWAN IOT-BASED SOIL HEALTH MONITORING SYSTEM FOR PRECISION AGRICULTURE
+- **Authors:** 
+- **Year:** 2026  |  **Venue:** International Journal of Progressive Research in Engineering Management and Science  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.58257/ijprems51531](https://doi.org/10.58257/ijprems51531)
+
+> The advent of the Internet of Things (IoT) has significantly transformed precision agriculture.However, the deployment of wireless sensor networks (WSNs) in expansive agricultural fields is perpetually hindered by limited battery life and restricted communication ranges.This paper presents the design, implementation, and evaluation of a Self-Powered, Real-Time, LoRaWAN IoT-Based Soil Health Monitoring (IoT-SHM) System.The proposed architecture integrates ultra-low-power microcontrollers, a Long-Range Wide Area Network (LoRaWAN) transceiver, and an optimized solar energy-harvesting module to en
+
+---
+
+### 📄 AI Technology in African Enterprise Management: A New Engine for Leapfrog Development
+- **Authors:** Zhenyu Yang
+- **Year:** 2026  |  **Venue:** Advances in Economics Management and Political Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.54254/2754-1169/2026.32130](https://doi.org/10.54254/2754-1169/2026.32130)
+
+> Africa is engaging more with technology and artificial intelligence (AI) and is no longer playing catch-upto the rest of the world in terms of technology and innovation. This paper examineshow companies in Africa are employing AI to generate new sources of value through local enterprises. The findings demonstrate that the time-to-market of financial products can be reduced by up to 50percent with AI and other operational efficiencies can be accumulated. Moreover, thisresearch analysed the most significant barriers for companies across all eight sectors identified in adopting AI sustainably (i.
+
+---
+
+### 📄 Impact of Water Deficit Stress on Starch Characteristics in Potatoes: An Integrative Perspective of Physiological, Biochemical, and Molecular Mechanisms
+- **Authors:** Andres Felipe Gaona Acevedo, Juan David Ferreira Gomes, Juliana Nascimento Rodrigues, Matheus França Gonçalves
+- **Year:** 2026  |  **Venue:** Potato Research  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s11540-026-10011-4](https://doi.org/10.1007/s11540-026-10011-4)
+
+> Abstract Among the most cultivated crops worldwide, potato ( Solanum tuberosum) faces significant threats from water scarcity, owing to its shallow root system and high irrigation requirement. Water deficit disturbs homeostasis and critical physiological mechanisms, including photosynthesis, carbohydrate translocation, and starch metabolism in tuberous plants. It reduces CO₂ assimilation, modulates the expression of key enzymes involved in starch synthesis, such as ADP-glucose pyrophosphorylase and starch synthases, and alters the amylose–amylopectin ratio, consequently affecting their rheolog
+
+---
+
+### 📄 The Ecology of Yam Food Culture in the Yam Belt of West Africa
+- **Authors:** Jude Obidiegwu, Emmanuel M. Akpabio, Anthony Ugochukwu Okere, Cynthia Adaku Chilaka
+- **Year:** 2026  |  **Venue:** Culture  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/culture2010006](https://doi.org/10.3390/culture2010006)
+
+> Yam (Dioscorea rotundata) is a major staple crop in West Africa and plays a central role in regional food security, rural livelihoods, and cultural identity. Its wide ecological adaptation, diverse maturity periods, and in-ground storage capacity make yams critical to seasonal food availability and resilience of smallholder farming systems. Despite its importance, existing yam research has largely emphasized biophysical and agronomic dimensions, with limited integration of the socio-cultural and ecological factors that shape yam-based food systems. This review addresses this gap by synthesizin
+
+---
+
+### 📄 Research on Responsibility-Sharing and Compensation Scheme for Agricultural Water Pollution Transfer Embodied in China’s Inter-Provincial Trade
+- **Authors:** Xia Xu, Qianwen Yu
+- **Year:** 2026  |  **Venue:** Water  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/w18050647](https://doi.org/10.3390/w18050647)
+
+> Agricultural transboundary water pollution induced by inter-regional trade poses a complex and pressing challenge for environmental governance. This study integrates an agricultural water pollutant emission inventory, multi-regional input–output model, responsibility-sharing framework, and ecological compensation scheme to establish the collaborative control of agriculture water pollution embodied in China’s inter-provincial trade. The findings reveal, firstly, that inter-provincial agricultural trade led to significant transfers of agricultural water pollution, predominantly flowing from econ
+
+---
+
+### 📄 Exposure to a mixture of organic pollutants in a threatened freshwater turtle Emys orbicularis: effects of age, sex, and temporal variation
+- **Authors:** Leslie-Anne Merleau, Olivier Lourdais, Anthony Olivier, Marion Vittecoq
+- **Year:** 2026  |  **Venue:** Peer Community Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.24072/pcjournal.684](https://doi.org/10.24072/pcjournal.684)
+
+> Freshwater ecosystems constitute major sinks for organic contaminants, increasing anthropogenic pressures and threatening the unique biodiversity they harbour. In addition to persistent legacy compounds, such as polychlorinated biphenyls (PCBs) and organochlorine pesticides (OCPs), various pollutants are less persistent but are chronically released, including polycyclic aromatic hydrocarbons (PAHs), phthalate diesters (PAEs), pyrethroid pesticides, and insect repellent. Heretofore, these pollutants have received insufficient attention in freshwater reptiles, considering their potential to trig
+
+---
+
+### 📄 Sustainable protein production from methane-oxidizing bacteria: environmental and economic comparison with conventional protein sources
+- **Authors:** Chuan Ma, Tingting Jiang, Qi Sun, Xiuhua Xiao
+- **Year:** 2026  |  **Venue:** Carbon Research  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44246-025-00256-y](https://doi.org/10.1007/s44246-025-00256-y)
+
+> Abstract Conventional protein sources are increasingly challenged due to their substantial environmental impacts, including land degradation, deforestation, and marine ecosystem disruption. This study presented a comparative life cycle assessment (LCA) and techno-economic evaluation of microbial protein produced from methane-oxidizing bacteria (MOB), comparing with traditional protein sources. Three systems were assessed, including System 1 (soybean meal), System 2 (fish meal), and System 3 (MOB-derived microbial protein). System 1 and System 2 exhibited pronounced environmental negative effec
+
+---
+
+### 📄 Geospatial Assessment of Land Use/Land Cover Dynamics and Future Predictions Using Markov Chain Cellular-Automata Simulations in Rajouri District of Jammu and Kashmir, India
+- **Authors:** Qamer Ridwan, Suhail Ahmad, Avtar Singh Jasrotia, Mohd. Hanief
+- **Year:** 2026  |  **Venue:** Regional science and environmental economics  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/rsee3010004](https://doi.org/10.3390/rsee3010004)
+
+> Land use/land cover (LULC) change significantly influences a range of environmental and socio-economic issues, including climate change, deforestation, biodiversity loss, soil degradation, ecosystem services, and food security, at local, regional, and global levels. In the northwestern Himalayan region, particularly in Rajouri district of Jammu and Kashmir (J&amp;K), LULC change has profound environmental and socio-economic implications. Understanding the temporal and spatial dimensions of LULC change is crucial for assessing the impact of human activities on the region’s environment. The pres
+
+---
+
+### 📄 Statistical assessment and spatial analysis of Hyderabad’s lakes through
+- **Authors:** Veeramachaneni Yeshaswini, Vaishnavi Gadiraju, Pallavi Saxena, Madhuri Pola
+- **Year:** 2026  |  **Venue:** Environmental Earth Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s12665-026-12872-x](https://doi.org/10.1007/s12665-026-12872-x)
+
+> The water quality in lakes is an essential factor for ecosystem sustainability and quality of life in highly urbanized countries, where lakes play significant roles as potable water sources, flood control measures, and recreational spots. This research assesses the water quality of nine key lakes in Hyderabad, Telangana, India: Himayat Sagar, Hussain Sagar, Saroornagar, Alwal, Miralam, Safilguda, Kapra, Jeedimetla, and Nacharam, for a five-year period of 2018–2022. The Water Quality Index (WQI) was determined using six key parameters: temperature, pH, dissolved oxygen (DO), electrical conducti
+
+---
+
+### 📄 Species composition and vegetation structure of coastal and desert habitats in a hyper-arid environment
+- **Authors:** Abdelraouf A. Moustafa, Samira Mansour, Monier M. Abd El-Ghani
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-36782-x](https://doi.org/10.1038/s41598-026-36782-x)
+
+> Abstract Environmental changes and anthropogenic activities have significantly altered plant species distributions and biodiversity in various regions of Egypt, contributing to habitat fragmentation and a decline in plant populations. This study provides a comprehensive assessment of vegetation diversity, species distribution, conservation status, and environmental relationships across diverse habitats in Egypt, including coastal regions (Hurghada and El-Arish) and inland deserts (Wadi El-Gemal and El-Galala). From 2023 to 2024, a vegetation survey was conducted across four study areas in Egyp
+
+---
+
+### 📄 Exploring Performance Evaluation Methodologies in Agri-food Supply Chains
+- **Authors:** Carlos Bejarano-Martinez, Martha Caro
+- **Year:** 2026  |  **Venue:** Operations and Supply Chain Management An International Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.31387/oscm0650517](https://doi.org/10.31387/oscm0650517)
+
+> This study aims to systematically review the attributes of Agri-food Supply Chain Performance Evaluation Methodologies (ASCPEMs). To accomplish this, we employed a systematic literature review methodology, focusing on peer-reviewed journal articles published between 2007 and June 2023. By examining 123 papers, we observed a growing number of publications on ASCPEMs. A similarity analysis enabled the identification of common characteristics among the methods studied, including the agrifood supply chain processes analyzed, evaluation objectives, aspects assessed, application cases, analysis meth
+
+---
+
+### 📄 Regulation of flowering and fruit development in red dragon fruit (&lt;i&gt;Hylocereus polyrhizus&lt;/i&gt;) through gibberellic acid under off-season
+- **Authors:** Kanthi Pangestuning Prapti, Setyono Yudo Tyasmoro, Mochammad Dawam Maghfoer, Nurul Aini
+- **Year:** 2026  |  **Venue:** Journal of Ecological Engineering  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.12911/22998993/215455](https://doi.org/10.12911/22998993/215455)
+
+> This study aims to evaluate the effect of gibberellin (GA) on the regulation of flowering and fruit development of red dragon fruit (Hylocereus polyrhizus) during the off-season period.The research was conducted in Banyuwangi, Indonesia, using a single-factor Randomized Block Design (RBD) consisting of five GA concentrations: 0, 200, 400, 600, and 800 ppm.The observed parameters included the time to first flowering, number of flowers, number of fruits, fruit weight, fruit volume, peel thickness, sugar content (Brix), and anthocyanin content.Analysis of variance showed that GA application had a
+
+---
+
+### 📄 Changing perceptions of crop robotics in social media
+- **Authors:** James Lowenberg-DeBoer, Iona Yuelu Huang, Yaw Sarfo, Germán Fernández Casals
+- **Year:** 2026  |  **Venue:** Precision Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s11119-026-10338-5](https://doi.org/10.1007/s11119-026-10338-5)
+
+> Perception is often key to the success of precision agriculture innovations. Social media is one window into unvarnished expressions of common perceptions. This study investigates how public discourse surrounding crop robotics evolved on X (formerly Twitter) from 2011 to 2024. Using a mixed-method approach, 6964 tweets were analyzed to: (1) understand how the volume of posts about crop robotics have changed, (2) assess the shifts in sentiments and subjectivity expressed about crop robotics in those messages, (3) identify key themes of discourse and (4) assess if a turning point was triggered b
+
+---
+
+### 📄 Efficient Olive Leaf Disease Detection via Hybrid Artificial Rabbit Optimization and Genetic Algorithm-Based Deep Feature Selection
+- **Authors:** Cumali Türkmenoğlu, Hakan Gunduz, Emrullah Gazioğlu
+- **Year:** 2026  |  **Venue:** Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriculture16050626](https://doi.org/10.3390/agriculture16050626)
+
+> Artificial intelligence (AI)-supported agricultural disease detection has become increasingly important for addressing global food security challenges. In this study, a hybrid meta-heuristic optimization-based feature selection approach is proposed for the detection of peacock eye disease (Venturia oleaginea) on olive leaves. The proposed method combines Artificial Rabbit Optimization (ARO) and Genetic Algorithm (GA) strategies to balance global exploration and local exploitation during feature selection. Comprehensive experiments conducted on a dataset of 954 olive leaf images demonstrate tha
+
+---
+
+### 📄 Enhanced morphological and physiological responses of micro-propagated cassava through arbuscular mycorrhizal fungus inoculation
+- **Authors:** Ika Sri Wahyuni, B. M. Thanni, Achmad Subagio, Hervé Vanderschuren
+- **Year:** 2026  |  **Venue:** Frontiers in Plant Science  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fpls.2026.1692288](https://doi.org/10.3389/fpls.2026.1692288)
+
+> Micropropagation is instrumental for the rapid multiplication of elite cassava varieties with improved traits. However, it is often impaired by transplanting stress associated with acclimatization, which occurs during the acclimatization, transfer from in vitro to soil condition. Arbuscular Mycorrhizal Fungi (AMF) could be used to reduce transplant shock symptoms through improved nutrient acquisition and physiological function. In this study, we investigated the impact of inoculating anAMF, R. irregularis , on the growth of two varieties of micropropagated cassava on plant physiological traits
+
+---
+
+### 📄 Development of a consolidated descriptor list to support <i>in situ</i> conservation of plant genetic resources
+- **Authors:** Jade Phillips, Joana Magos Brehm, Anne-Francoise Adam-Blondon, Alvina Avagyan
+- **Year:** 2026  |  **Venue:** Plant Genetic Resources  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1017/s1479262126100562](https://doi.org/10.1017/s1479262126100562)
+
+> Abstract There are increasing calls for greater availability of plant genetic resources (PGR) for use in plant breeding to help counter the adverse impacts of a changing climate and threats from pests and diseases, particularly in a context of reduced agricultural inputs, and the needs of the increasing human population. Managing and promoting ex situ and in situ conservation of PGR requires an effective data and informatics foundation. However, in situ data management is particularly undeveloped, especially when compared to ex situ documentation. The work presented here is a consolidated desc
+
+---
+
+### 📄 Sustained-release profenofos encapsulated polylactic acid nanofibers: Evaluation in maize cultivation under actual field conditions
+- **Authors:** Liem Thanh Nguyen, Vu Anh Doan, Tuan Anh Phung
+- **Year:** 2026  |  **Venue:** Journal of Ecological Engineering  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.12911/22998993/214962](https://doi.org/10.12911/22998993/214962)
+
+> No abstract available.
+
+---
+
+### 📄 Pesticide residues in the Philippine rice fields and the Pis-anan mass poisoning incident in the province of Antique: a call for integrated, safe agricultural practice
+- **Authors:** Rodglen P. Alibio
+- **Year:** 2026  |  **Venue:** Discover Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44279-026-00497-4](https://doi.org/10.1007/s44279-026-00497-4)
+
+> The Philippines is among the world’s major rice producers, but productivity remains vulnerable to insect pests, diseases, and heavy reliance on chemical pesticides. In July 2025, this vulnerability was highlighted when 345 students from two schools in Sibalom, Antique, experienced acute poisoning symptoms following exposure to cypermethrin drift from adjacent rice farms. Investigations confirmed contamination of school walls, vegetation, and indoor surfaces, with pesticide drift as the most probable source. This incident emphasizes the systemic gaps in pesticide safety practices, including poo
+
+---
+
+### 📄 Validation of ERA5 and ERA5-land reanalysis data for maximum and minimum temperatures in the Brazilian semiarid region
+- **Authors:** Luana dos Santos Ferreira, Clênia Rodrigues Alcântara, Dimas de Barros Santiago, Limara Katharina de Aguiar Silva
+- **Year:** 2026  |  **Venue:** Theoretical and Applied Climatology  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s00704-026-06057-6](https://doi.org/10.1007/s00704-026-06057-6)
+
+> This study evaluates the performance of the ERA5 and ERA5-Land reanalysis datasets in representing daily maximum and minimum temperatures in the semi-arid region of northeastern Brazil—an area highly vulnerable due to its climatic and socioeconomic conditions. Validation was conducted by comparing reanalysis data with local station observations using statistical metrics such as Root Mean Square Error (RMSE), Pearson’s correlation coefficient (ρ), Mean Square Error (MSE), coefficient of determination (R²), and bias. The results indicate that ERA5 provides a more accurate representation of maxim
+
+---
+
+### 📄 Manure as a soil amendment: Alleviating water deficit impact on shallot (&lt;i&gt;Allium ascalonicum&lt;/i&gt; L.) growth and development
+- **Authors:** Supriono Simbolon, Andi Kurniawan, Anna Satyana Karyawati, Mochammad Dawam Maghfoer
+- **Year:** 2026  |  **Venue:** Journal of Ecological Engineering  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.12911/22998993/215411](https://doi.org/10.12911/22998993/215411)
+
+> This study evaluated the role of manure in mitigating drought stress and enhancing shallot (Allium ascalonicum L.) performance.A factorial randomized block design was implemented with three drought timings (early growth, vegetative, and bulb formation) and three manure doses (0, 10, and 20 t ha).Results showed that the vegetative phase was the most drought-sensitive, with reductions of 55% in fresh biomass and 40% in dry biomass relative to the control.Leaf area declined by 49.2%, while plant length and leaf number decreased by 22-25%.Application of 20 t ha manure consistently alleviated droug
+
+---
+
+### 📄 Evaluation of the Efficacy of Fluopyram and Cyclobutrifluram against Meloidogyne incognita on Cucumber under Greenhouse Conditions
+- **Authors:** Khalid M. Al-Juhaishi, Bushra Subair Abdulsada Almaliky, Saad T.A. Yaas
+- **Year:** 2026  |  **Venue:** Indian Journal of Agricultural Research  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.18805/ijare.af-995](https://doi.org/10.18805/ijare.af-995)
+
+> Background: Root-knot nematodes are considered the most prevalent pathogens worldwide due to their extensive host range, which includes approximately 200 hosts. Methods: This study evaluated the impact of two nematicides, fluopyram and cyclobutrifluram, at a concentration of 400 ppm/liter of water against Meloidogyne incognita under greenhouse conditions during the spring season of 2025. Treatments were made every four weeks over two intervals. M. incognita was identified through morphological and molecular diagnosis. Result: The adult female’s perineal patterns and molecular diagnosis of RKN 
+
+---
+
+### 📄 Integrating stability zones and machine learning for enhanced crop management
+- **Authors:** Marcelo Chan Fu Wei, Louis Longchamps, André Freitas Colaço, José Paulo Molin
+- **Year:** 2026  |  **Venue:** Precision Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s11119-026-10318-9](https://doi.org/10.1007/s11119-026-10318-9)
+
+> Abstract Purpose Sustainable agriculture requires both high and stable crop yields. Whilegenotype-environment-management (G×E×M) interactions influence yield stability, implementingsuch understanding into practical applications demands better analytical tools. Yield StabilityZones (YSZ) effectively identify stable and unstable production areas, yet their implementationhas been constrained by data limitations and interpretability challenges. Precision agriculturenow enables the application of YSZ approaches through multi-year yield and management data,while interpretable machine learning (ML) c
+
+---
+
+### 📄 CRISPR/CAS9 mediated genome editing in insects: application in functional genomics and pest management
+- **Authors:** Hania Binta Aslam, Md. Ruhul Amin, Md Mamunur Rahman
+- **Year:** 2026  |  **Venue:** Discover Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44279-026-00524-4](https://doi.org/10.1007/s44279-026-00524-4)
+
+> A potent strategy to manage agricultural pests and lessen harm to food production, the CRISPR/Cas9 system, which precisely modifies the genome of insects and plants has created new possibilities. Traditional pest control methods have several disadvantages. The versatility, specificity, and user-friendliness of CRISPR/Cas9 make it a perfect tool for targeting crucial genes involved in the lifecycle of the insects, sex determination, resistance, and detoxification. This will contribute to the sustainable suppression or replacement of pest populations. Furthermore, by introducing, eliminating, or
+
+---
+
 
 ## 📅 2025
 
@@ -4956,6 +7068,28 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 
 ---
 
+### 📄 Livestock–cropland re-coupling and intensive farming: strategies for enhancing greenhouse gas mitigation and eco-efficiency in wheat–maize production in North China Plain
+- **Authors:** Beibei Wang, Peifang Wang, Hongxing He, Conrad Zorn
+- **Year:** 2024  |  **Venue:** Environmental Research Letters  |  **Source:** `SemanticScholar`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/5fb7e9e2ad013403cf7c2601980f31c0f9104d44](https://www.semanticscholar.org/paper/5fb7e9e2ad013403cf7c2601980f31c0f9104d44)
+
+> Using manure compost can be an effective strategy to sustain crop production, mitigate greenhouse gas (GHG) emissions, and promote soil organic carbon (SOC) sequestration. However, in the North China Plain (NCP)—a key food hub in China—the disconnect between livestock farms and croplands limits manure recycling, obscuring its potential environmental benefits and economic costs. This study employs a life cycle assessment method to quantify GHG and ammonia emissions, SOC sequestration, economic performance, and the eco-efficiency of wheat–maize production in the NCP across six livestock–cropland
+
+---
+
+### 📄 A review of mitigation technologies and management strategies for greenhouse gas and air pollutant emissions in livestock production.
+- **Authors:** Xiaojie Yan, Yongfei Ying, Kunkun Li, Qiang Zhang
+- **Year:** 2024  |  **Venue:** Journal of Environmental Management  |  **Source:** `SemanticScholar`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/0e223f39a23905c0b25102d8fa97dc81c473c5f7](https://www.semanticscholar.org/paper/0e223f39a23905c0b25102d8fa97dc81c473c5f7)
+
+> One of the key issues in manure management of livestock production is to reduce greenhouse gas (GHG) and air pollutant emissions, which lead to significant environmental footprint and human/animal health threats. This study provides a review of potentially efficacious technologies and management strategies that reduce GHG and air pollutant emissions during the three key stages of manure management in livestock production, i.e., animal housing, manure storage and treatment, and manure application. Several effective mitigation technologies and practices for each manure management stage are ident
+
+---
+
 
 ## 📅 2023
 
@@ -5330,6 +7464,17 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 - **Link:** [https://www.semanticscholar.org/paper/9ac76655c76403c4d89a4d515b674fc7ae3f826e](https://www.semanticscholar.org/paper/9ac76655c76403c4d89a4d515b674fc7ae3f826e)
 
 > The management of global food security is one of the major issues of concern to the international community today. Ensuring the stability of food sources and preventing crop pests and diseases are crucial in maintaining social stability and promoting economic development. In modern agriculture, computer vision has emerged as a tool to aid in pest and disease prevention. For instance, when calculating the overall fruit yield of fruit trees and identifying and categorising pests and diseases, traditional neural networks tend to preserve duplicate data during image prediction. Traditional neural 
+
+---
+
+### 📄 A global meta-analysis of greenhouse gas emissions and carbon and nitrogen losses during livestock manure composting: Influencing factors and mitigation strategies.
+- **Authors:** Yan Liu, Ruolan Tang, Liqiong Li, Guannan Zheng
+- **Year:** 2023  |  **Venue:** Science of the Total Environment  |  **Source:** `SemanticScholar`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/0818698f28edc0725742a225a1cf1398ae69e214](https://www.semanticscholar.org/paper/0818698f28edc0725742a225a1cf1398ae69e214)
+
+> The management of manure composting contributes to alleviate the global greenhouse effect. To improve our understanding of this process, we conducted a meta-analysis of 371 observations from 87 published studies in 11 countries. The results showed that the difference in nitrogen content in feces significantly affected the greenhouse gas (GHG) emissions and nutrient losses of subsequent composting, with NH3-N, CO2-C, and CH4-C losses all increasing with its rise. Windrow pile composting (especially compared to trough composting) had lower GHG emissions and nutrient loss. C/N ratio, aeration rat
 
 ---
 
@@ -5988,6 +8133,17 @@ sites in West Africa” (see [1]). This research actio
 - **Search Query:** `irrigation technology water scarcity agriculture`
 - **Fetched:** 2026-03-10
 - **Link:** [https://www.semanticscholar.org/paper/b812a94106781d32cb41b36ad0abf0fc067d2b46](https://www.semanticscholar.org/paper/b812a94106781d32cb41b36ad0abf0fc067d2b46)
+
+> No abstract available.
+
+---
+
+### 📄 Greenhouse gas mitigation potentials in the livestock sector
+- **Authors:** M. Herrero, B. Henderson, P. Havlík, P. Thornton
+- **Year:** 2016  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/7efdde252f60e2e27e9f8a55f7b95104b64311ce](https://www.semanticscholar.org/paper/7efdde252f60e2e27e9f8a55f7b95104b64311ce)
 
 > No abstract available.
 
