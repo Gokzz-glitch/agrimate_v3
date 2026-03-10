@@ -11,9 +11,9 @@ except ImportError:
     HAS_GPUTIL = False
 
 # Thresholds
-CPU_THRESHOLD = 80.0
-RAM_THRESHOLD = 80.0
-VRAM_THRESHOLD = 85.0
+CPU_THRESHOLD = 90.0
+RAM_THRESHOLD = 90.0
+VRAM_THRESHOLD = 90.0
 
 print(f"===========================================================")
 print(f"          AGRIMATE V3: MULTI-PROCESS DYNAMIC THROTTLER     ")
