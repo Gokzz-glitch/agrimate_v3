@@ -1,6 +1,6 @@
 # 🌾 AGRIMATE — Live Farming Research Findings
 
-> **Last Updated:** `2026-03-10T18:46:20.173700+00:00`  |  **Total Papers:** `444`
+> **Last Updated:** `2026-03-10T19:34:26.970613+00:00`  |  **Total Papers:** `552`
 
 ---
 
@@ -2287,6 +2287,490 @@
 
 ---
 
+### 📄 Distribution of virgin and old-growth forests in the territory of the Carpatian National Nature Park (Ukraine)
+- **Authors:** Viktor Klid, Mykhailo Chorniy, Yaroslav Petrashchuk, Mariya Lazoryshyn
+- **Year:** 2026  |  **Venue:** Ecological Engineering & Environmental Technology  |  **Source:** `OpenAlex`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.12912/27197050/218495](https://doi.org/10.12912/27197050/218495)
+
+> No abstract available.
+
+---
+
+### 📄 Benchmarking YOLO and Transformer-Based Detectors for Olive Tree Crown Identification in UAV Imagery
+- **Authors:** Muhammed Enes Atik, Mehmet Arkali
+- **Year:** 2026  |  **Venue:** Geomatics  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/geomatics6020022](https://doi.org/10.3390/geomatics6020022)
+
+> Olive groves are an important agricultural component in the Mediterranean region that offers various ecological benefits. The olive tree has tremendous cultural and economic value and is cultivated over a wide geographical range. It is essential to actively implement innovative agricultural practices to achieve efficient, sustainable olive cultivation. Automatic tree identification in olive groves is an essential tool for applications such as tree health monitoring and yield estimation. Deep learning-based approaches, which have recently gained prominence, hold significant potential for this p
+
+---
+
+### 📄 From Neurons to Networks: A Holistic Review of Electroencephalography (EEG) from Neurophysiological Foundations to AI Techniques
+- **Authors:** Christos Kalogeropoulos, Konstantinos Theofilatos, Seferina Mavroudi
+- **Year:** 2026  |  **Venue:** Signals  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/signals7010017](https://doi.org/10.3390/signals7010017)
+
+> Electroencephalography (EEG) has transitioned from a subjective observational method into a data-intensive analytical field that utilises sophisticated algorithms and mathematical models. This review provides a holistic foundation by detailing the neurophysiological basis, recording techniques, and applications of EEG before providing a rigorous examination of traditional and modern analytical pillars. Statistical and Time-Series Analysis, Spectral and Time-Frequency Analysis, Spatial Analysis and Source Modelling, Connectivity and Network Analysis, and Nonlinear and Chaotic Analysis are explo
+
+---
+
+### 📄 Artificial Intelligence (AI) in Detection of Abiotic Stress in Plants: A Review
+- **Authors:** Anushree Matabber, Lionel Lami-Ndame Rhuhanga, Shinsuke Agehara, Maryam Mozafarian
+- **Year:** 2026  |  **Venue:** Sensors  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/s26041122](https://doi.org/10.3390/s26041122)
+
+> Global agriculture is facing significant threat from climate-driven abiotic stress, which endangers global food security by impacting crop performance and adaptation. However, traditional abiotic stress detection methods are often labor-intensive and lack precision and scalability. Efficient and reliable solutions are needed to meet rising global food demand. Recent advances in artificial intelligence (AI) offer highly accurate, non-invasive, and sustainable approaches for abiotic stress detection. This paper reviews the impact of AI, and specifically Machine and Deep Learning algorithms, coup
+
+---
+
+### 📄 Automated Identification of Mango Leaf DiseasesUsing Deep Convolutional Neural Networks
+- **Authors:** Muhammad Iqbal, Waheed Anwar, Hina Shafique, Ghulam Gilanie
+- **Year:** 2026  |  **Venue:** Polish Journal of Environmental Studies  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.15244/pjoes/215218](https://doi.org/10.15244/pjoes/215218)
+
+> No abstract available.
+
+---
+
+### 📄 From IoT to AIoT: Evolving Agricultural Systems Through Intelligent Connectivity in Low-Income Countries
+- **Authors:** Selain Kabunga Kasereka, Alidor M. Mbayandjambe, Ibsen G. Bazie, Heriol F. Zeufack
+- **Year:** 2026  |  **Venue:** Future Internet  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/fi18020082](https://doi.org/10.3390/fi18020082)
+
+> The convergence of Artificial Intelligence and the Internet of Things has given rise to the Artificial Intelligence of Things (AIoT), which enables connected systems to operate with greater autonomy, adaptability, and contextual awareness. In agriculture, this evolution supports precision farming, improves resource allocation, and strengthens climate resilience by enhancing the capacity of farming systems to anticipate, absorb, and recover from environmental shocks. This review provides a structured synthesis of the transition from IoT-based monitoring to AIoT-driven intelligent agriculture an
+
+---
+
+### 📄 A Survey of Next-Generation AI and Its Evolving Landscape
+- **Authors:** Asifullah Khan, Rahat Hameed, Hira Amjad, Muhammad Bilal
+- **Year:** 2026  |  **Venue:** Unknown Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.36227/techrxiv.175329122.29020847/v3](https://doi.org/10.36227/techrxiv.175329122.29020847/v3)
+
+> Artificial Intelligence (AI) has matured from a speculative discipline into a central pillar of technological progress. It is shaping economies, industries, and the fabric of modern life. In light of its rapid evolution, this survey provides an in-depth review of 16 next-generation AI technologies. We examine their technical foundations, real-world applications supported by statistical evidence, and their broader impact, followed by a discussion of prevailing challenges, limitations, and future directions. The technologies covered include Edge AI, Generative AI, Self-Supervised Learning, Expla
+
+---
+
+### 📄 Enhancing Cross-Species Prediction of Leaf Mass per Area from Hyperspectral Remote Sensing Using Fractional Order Derivatives and 1D-CNNs
+- **Authors:** Shijie Shan, Qiaozhen Guo, Lu Xu, Weiguo Jiang
+- **Year:** 2026  |  **Venue:** Remote Sensing  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/rs18030444](https://doi.org/10.3390/rs18030444)
+
+> Leaf mass per area (LMA) plays an important role in vegetation productivity, carbon cycling, and remote sensing-based ecosystem monitoring. However, remotely predicting LMA from hyperspectral reflectance remains challenging due to the weak and strongly overlapping spectral response of LMA and spectral variability across species. To address these limitations, this study proposed an integrated framework that combines a fractional-order spectral derivative (FOD) with a one-dimensional convolutional neural network (1D-CNN) to enhance LMA prediction accuracy and cross-species generalization. Leaf h
+
+---
+
+### 📄 Deep learning framework for timely detection and classification of chili leaf diseases and pests
+- **Authors:** Kantha Raju Kanaparthi, S. Sudhakar Ilango
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-025-34477-3](https://doi.org/10.1038/s41598-025-34477-3)
+
+> No abstract available.
+
+---
+
+### 📄 Overcoming difficulties in segmentation of hyperspectral plant images with small projection areas using machine learning
+- **Authors:** Eva Neuwirthová, Jiří Chuchlík, Miroslav Pikl, Zuzana Lhotáková
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-025-31952-9](https://doi.org/10.1038/s41598-025-31952-9)
+
+> No abstract available.
+
+---
+
+### 📄 Deep Learning Applications for Dental-Disease Classification Using Intraoral Photographic Images: Current Status and Future Perspectives
+- **Authors:** A. M. Mutawa, Yacoub Yousef Altarakemah, Karthiga Thirupathy
+- **Year:** 2026  |  **Venue:** AI  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/ai7030085](https://doi.org/10.3390/ai7030085)
+
+> Dental conditions, including caries, periodontal disease, plaque accumulation, malocclusion, and oral mucosal abnormalities, remain highly prevalent worldwide. Early detection is crucial for preventing disease progression, simplifying treatment, and improving patient outcomes. Conventional diagnostic methods rely on subjective visual and tactile examinations, which are often inconsistent. Recent advances in deep learning (DL), particularly convolutional neural networks and vision transformers, enable automated, accurate detection of dental diseases from intraoral images captured via smartphone
+
+---
+
+### 📄 Design and implementation of a deep learning framework for automated crop classification and health diagnosis in precision agriculture
+- **Authors:** Atul Kumar Pal, B. D. K. Patro, Shshank Chaube
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-42151-5](https://doi.org/10.1038/s41598-026-42151-5)
+
+> This paper presents a three-phase deep learning framework comprising (i) multi-modal data acquisition from drones and satellites, (ii) standardized pre-processing including interpolation for missing temporal data, and (iii) CNN-based feature extraction for real-time health classification. This framework relies on a mathematical model based on neural networks that classifies and detects the condition of agriculture, removing the reliance on manual tasks and subjective diagnosis. This paper focuses on three main aspects of our framework: data acquisition, training and prediction. Data is collect
+
+---
+
+### 📄 Precision Agriculture Through a Real-Time Systems Perspective: A Narrative Review
+- **Authors:** Mansub Haseeb Bhat, Rickiel Franklin da Franklin da Silva, Sameer Bhat, Aeshna Sinha
+- **Year:** 2026  |  **Venue:** Agronomy  |  **Source:** `OpenAlex`
+- **Search Query:** `AI machine learning crop recommendation system`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agronomy16050552](https://doi.org/10.3390/agronomy16050552)
+
+> Precision agriculture employs state-of-the-art technologies to improve the economic viability, sustainability, and efficiency of agricultural practices. This paper offers a thorough review of precision agriculture, with an emphasis on real-time systems as a foundation for understanding the integration and impact of major technologies. We examine technologies such as digital twins, mobile applications, autonomous systems, location-aware technologies, edge computing, and Wireless Sensor Networks (WSN) that are revolutionizing agricultural processes. We also discuss the potential of other sensing
+
+---
+
+### 📄 Bat ecology and conservation in the Great Plains: a systematic review of research in the past 30 years and future directions
+- **Authors:** Thomas Raad, Kylie Black, Daniel Peacock, Michaela Sanford
+- **Year:** 2026  |  **Venue:** Discover Conservation  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44353-026-00082-2](https://doi.org/10.1007/s44353-026-00082-2)
+
+> No abstract available.
+
+---
+
+### 📄 Cultivating Desire: Malaysian Urban Citizens’ Perspectives on Urban Farming for a Sustainable Future
+- **Authors:** Hamed Faghiri, Zulkornain Yusop, Zainal Abidin Mohamed
+- **Year:** 2026  |  **Venue:** Information Management and Business Review  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.22610/imbr.v18i1(j).4814](https://doi.org/10.22610/imbr.v18i1(j).4814)
+
+> Malaysia’s growing dependence on food imports amidst rising domestic demand highlights the urgent need for sustainable interventions such as urban farming. This study explores the desire for urban farming among Malaysian urban citizens as a strategic response to food security and socio-economic challenges. A qualitative hybrid analytic approach, combining inductive and deductive thematic analysis, was employed to interpret primary data collected through semi-structured, open-ended interviews, guided by a pre-developed interview protocol. A total of 50 participants, aged above 20 years and repr
+
+---
+
+### 📄 Case Study on Enhancing Cultivated Land Use Resilience Through Spatial Layout Optimization in Northern Guangdong, China
+- **Authors:** Ziyuan Qiao, Lesong Zhao, Guangsheng Liu, Hongmei Wang
+- **Year:** 2026  |  **Venue:** Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriculture16050553](https://doi.org/10.3390/agriculture16050553)
+
+> Cultivated land spatial layout optimization is of great significance for enhancing comprehensive agricultural productivity and safeguarding food security. However, existing studies primarily focus on production suitability as the optimization objective, while rarely incorporating improvements in cultivated land use resilience and stable use as explicit objectives, which may leave optimized layouts difficult to sustain. To fill this gap, this study takes Meizhou City as a case and conceptualizes cultivated land use resilience under non-grain conversion of the agricultural production structure a
+
+---
+
+### 📄 Analysing trends of climatic variables in Purulia district, India using non-parametric methods
+- **Authors:** Srija Das, Mary Tahir
+- **Year:** 2026  |  **Venue:** Discover Geoscience  |  **Source:** `OpenAlex`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44288-026-00466-w](https://doi.org/10.1007/s44288-026-00466-w)
+
+> Location-specific data on rainfall and temperature trends at different temporal scale is crucial for developing agricultural strategies and managing water resources in drought prone areas like Purulia, West Bengal. Therefore, the present study assessed the spatio-temporal variability of rainfall and temperature in Purulia by utilizing gridded data for 40 (1984–2023) years from India meteorological department (IMD). We employed the Mann-Kendall (MK), modified Mann-Kendall (mMK) test and Sen’s slope estimator (β) to identify the trend and magnitude of change. Furthermore, innovative trend analys
+
+---
+
+### 📄 Utilization of Landsat 8 Level 2 Satellite Imagery for Identification of Tea Plant Health Using the Weighted Overlay Method (Case Study: Kertamanah Unit, Malabar Plantation, Bandung)
+- **Authors:** Clara Rosanara Febryna Putri Priyanto, Vivi Cahyaningrum, M. N. Cahyadi
+- **Year:** 2026  |  **Venue:** BIO Web of Conferences  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/d38729be53486a10e95c5236ec1e92b3b2c8b500](https://www.semanticscholar.org/paper/d38729be53486a10e95c5236ec1e92b3b2c8b500)
+
+> Monitoring tea plant health is important to maintain plantation productivity. This study aims to map the health status of tea plants in the Cinyiruan and Kertamanah divisions, Kertamanah Unit, Malabar Plantation owned by PT Perkebunan Nusantara 1 Regional 2 using Landsat 8 Level 2 satellite imagery. The parameters used were NDVI, LST, and slope from DEM. These parameters were integrated using the weighted overlay method with weights of 50% for NDVI, 30% for LST, and 20% for DEM in the Yielding Plant area. NDVI and LST processing were conducted in Google Earth Engine, while weighting and visual
+
+---
+
+### 📄 A Review of Two-Dimensional Cellular Automata Models for Wildfire Simulation: Methods, Capabilities, and Limitations
+- **Authors:** Ioannis Karakonstantis, George Xylomenos
+- **Year:** 2026  |  **Venue:** Fire  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/fire9030108](https://doi.org/10.3390/fire9030108)
+
+> Two-dimensional cellular automata (CA) models are widely used for wildfire simulation due to their clean representation of environment and fire mechanics and their computational efficiency. In this review we describe the mechanisms through which forestry fuel characteristics, topographic features, firefighting suppression strategies, fire spotting behavior and meteorological conditions are represented and integrated within these models. While these models are effective for large scale simulations, in which high precision is not critical, their reliance on discrete representations of space and 
+
+---
+
+### 📄 Assessment of Artificial Intelligence and Remote Sensing-Based groundwater storage management workflow
+- **Authors:** Azeddine Elhassouny
+- **Year:** 2026  |  **Venue:** EQA - International Journal of Environmental Quality  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.60923/issn.2281-4485/23733](https://doi.org/10.60923/issn.2281-4485/23733)
+
+> Groundwater is a vital freshwater reserve that is increasingly threatened by climate change and mounting anthropogenic pressure on global water resources. While arti- ficial intelligence (AI) has shown promise in groundwater monitoring in conjunction with remote sensing (RS), its integration with traditional technology remains bound to outdated hydrological assumptions, limiting the adaptability of the integrated approach across diverse regions and conditions. Here, we develop a hydrology- independent workflow using an explainable AI framework based on satellite obser- vations to monitor and f
+
+---
+
+### 📄 Transferring RGB-Pretrained CNNs to Multispectral UAV Imagery for Salt Marsh Vegetation Classification
+- **Authors:** Sadiq Olayiwola Macaulay, Eleonora Maset, Francesco Boscutti, Paolo Cingano
+- **Year:** 2026  |  **Venue:** Remote Sensing  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/rs18040655](https://doi.org/10.3390/rs18040655)
+
+> Accurate classification of salt marsh vegetation is crucial for coastal wetland monitoring, but fine-grained species discrimination remains difficult, particularly when only limited training data are available for deep learning approaches. To address this challenge, this paper presents a transfer learning-based framework for classifying salt marsh vegetation using UAV multispectral imagery, focusing on a seven-class taxonomy representative of dominant species and water surfaces. Multispectral orthophotos acquired with a MicaSense Dual-Camera system (10 spectral bands) are combined with five ve
+
+---
+
+### 📄 Valorization of Seafood Processing Byproducts for Sustainable Fertilization: Opportunities and Food Safety Considerations in Agriculture 4.0
+- **Authors:** Gülsün Akdemir Evrendilek
+- **Year:** 2026  |  **Venue:** Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/su18042064](https://doi.org/10.3390/su18042064)
+
+> The transition toward sustainable and circular bioeconomies in Agriculture 4.0 demands fertilization strategies that reduce environmental impacts while maintaining agronomic productivity. This article presents a structured narrative review of peer-reviewed literature integrating evidence across waste management, soil science, food safety, and regulatory frameworks to evaluate the potential of seafood processing byproducts including fish offal, shellfish residues, and aquaculture effluents as nutrient-rich fertilizers. These materials provide nitrogen, phosphorus, calcium, and essential micronu
+
+---
+
+### 📄 Precision Agronomy Strategies for Improving Nitrogen Use Efficiency and Soil Quality in Maize
+- **Authors:** Iftikhar Hussain Shah, Bismillah Khan, Zohaib Anjum, Muhammad Taimur Maqbool
+- **Year:** 2026  |  **Venue:** Physical Education Health and Social Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.63163/jpehss.v4i1.1082](https://doi.org/10.63163/jpehss.v4i1.1082)
+
+> Maize production faces mounting pressure to achieve sustainable intensification amid rising global food demand, inefficient nitrogen (N) use, and environmental degradation. This review synthesizes recent advances in precision agronomy strategies aimed at improving nitrogen use efficiency (NUE) and soil quality in maize systems. Key approaches include site-specific nitrogen management through remote sensing (UAV–satellite data fusion, red-edge vegetation indices), machine learning predictive modeling, variable rate application (VRA), sensor-based fertigation (Holland-Schepers algorithm), contro
+
+---
+
+### 📄 Effect of Climate Change Vulnerability on Agriculture, Forestry and Rangel Land Condition in White Nile State, Sudan (A Case Study of El Slam and El Dweim Localities)
+- **Authors:** Kamal Fadul, E O M Elamin, Abdelmoneim Taha, Abdelazia Abdelftah
+- **Year:** 2026  |  **Venue:** Unknown Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.11648/j.sda.20260101.11](https://doi.org/10.11648/j.sda.20260101.11)
+
+> This study was carried out during 2019 in El Slam and El Dweim localities WhiteNile State (WNS), Sudan with aim to investigate the impact of climate change vulnerability on crop production, forestry and range land in WNS. Three methods for data collection were used (1) Vulnerability assessment by using the satellite images (2) Key informant interview (KII), and (3) Focus group Discussion (FGD). The results showed that the main field crops in the two localities are sorghum, sesame, mellit, groundnut and watermelon and vegetable crops. Crop production was highly affected by climatic and non-clim
+
+---
+
+### 📄 Forecasting land-use and land-cover change for groundwater sustainability in the Muvattupuzha basin using CA-Markov (2033–2050)
+- **Authors:** Alagulakshmi K, Sneha Gautam, G. Prince Arulraj, Suneel Kumar Joshi
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-38961-2](https://doi.org/10.1038/s41598-026-38961-2)
+
+> Rapid urbanization and land use and land cover (LULC) change have affected groundwater dynamics and its quality in many river basins. The present study uses an integrated framework combining multi-temporal Landsat imagery, geospatial analysis, multivariate statistics, and Machine Learning (ML) approaches to understand LULC changes and groundwater dynamics and its quality degradation. The supervised classification was used in the present study, which shows that built-up land increased significantly from 12.3% (329.13 km2) in 2003 to 44.4% (1,187.11 km2) in 2023, mainly due to the conversion of 
+
+---
+
+### 📄 Does transportation accessibility achieve sustainable forestry? Assess the impact of highway construction on rural forest resources
+- **Authors:** Lulu Zhang, Xueyong Li, Muxuan Wei
+- **Year:** 2026  |  **Venue:** Frontiers in Sustainable Food Systems  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fsufs.2026.1766589](https://doi.org/10.3389/fsufs.2026.1766589)
+
+> Introduction Enhancing transportation accessibility is often viewed as a catalyst for rural revitalization, yet its compatibility with sustainable forestry remains a critical challenge. This study examines the impact of highway construction on rural forest resources in China’s underdeveloped regions. Methods Using town-level transportation and forestry data from 2009 to 2019, we exploit spatial variation in highway openings and implement a difference-in-differences (DID) framework. To address endogeneity concerns, we further employ an instrumental variable (IV) strategy based on hypothetical l
+
+---
+
+### 📄 Hybrid Deep Learning–Geostatistical Mapping of Forest Aboveground Biomass in Lishui, China
+- **Authors:** Rui Qian, Qilin Zhang, Yuying Gong, Jianjun Wang
+- **Year:** 2026  |  **Venue:** Plants  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/plants15040587](https://doi.org/10.3390/plants15040587)
+
+> Forest aboveground biomass (AGB) is a key indicator of forest productivity and carbon sequestration, yet many remote sensing AGB models overlook spatial autocorrelation in plot observations and model residuals. This study proposes a hybrid framework that combines a CNN-Transformer (Convolutional Neural Network-Transformer) model with geostatistical Kriging of residuals to improve regional AGB mapping in Lishui City, Zhejiang Province, China. Using 398 forest plots and multi-source predictors derived from Sentinel-2 imagery, ALOS-2 PALSAR-2 SAR data, and ALOS 12.5 m DEM, relevant variables were
+
+---
+
+### 📄 A Novel Multi-Index Approach For Crop Health Analysis Using PCA-Derived Spectral Weights
+- **Authors:** Shivani Bhosle, Prapti Deshmukh
+- **Year:** 2026  |  **Venue:** International Journal of Advances in Signal and Image Sciences  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.29284/5hhgsf68](https://doi.org/10.29284/5hhgsf68)
+
+> For precision agriculture, resource optimization, and sustainable farm management, prompt and correct crop health assessment is vital. Conventional vegetation indexes like NDVI and EVI offer insightful observations, yet they usually fall short of portraying the whole spectrum of physiological and structural conditions seen in several crops and habitats. By means of Principal Component Analysis (PCA), this study introduces a novel Multi-Vegetation Health Index (MVHI) integrating five complementary spectral indices—NDVI, EVI, SAVI, GNDVI, and NDRE—to derive objective statistical weights. Thirtee
+
+---
+
+### 📄 GreenViT: A Vision Transformer with Single-Path Progressive Upsampling for Urban Green-Space Segmentation and Auditable Area Estimation
+- **Authors:** Ziqiang Xu, Young Bong Choi, Changyong Yi, Chanjeong Park
+- **Year:** 2026  |  **Venue:** Journal of Imaging  |  **Source:** `OpenAlex`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/jimaging12020072](https://doi.org/10.3390/jimaging12020072)
+
+> Urban green-space monitoring in dense cityscapes remains limited by accuracy-efficiency trade-offs and the absence of integrated, auditable area estimation. We introduce GreenViT, a Vision Transformer (ViT) based framework for precise segmentation and transparent quantification of urban green space. GreenViT couples a ViT-L/14 backbone with a lightweight single-path, progressive upsampling decoder (Green Head), preserving global context while recovering thin structures. Experiments were conducted on a manually annotated dataset of 20 high-resolution satellite images collected from Satellites.P
+
+---
+
+### 📄 Microbiological safety and hygiene monitoring of coastal seawater at Northern public beaches of Mauritius and genetic characterization of human pathogenic Vibrio species
+- **Authors:** Hudaa S. Neetoo, Aicha Malleck Hossen, Nadeem Nazurally, Anisah W. Ghoorah
+- **Year:** 2026  |  **Venue:** PLOS Global Public Health  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1371/journal.pgph.0006044](https://doi.org/10.1371/journal.pgph.0006044)
+
+> Northern public beaches are popular recreational and touristic destinations in Mauritius. However, rapid urbanization and coastal development in the region raise concerns about the microbial quality and safety of nearshore waters, which may deteriorate without effective surveillance and management. This could be exacerbated by the occurrence of marine, human pathogenic Vibrio, which may harbor genes conferring virulence and antimicrobial resistance. The aim of the study was thus to assess the microbiological safety and sanitary quality of Northern coastal seawater. The specific objectives were
+
+---
+
+### 📄 Impact of Aspergillus flavus Infection on the Rhizosphere Bacterial Microbiota of Peanut (Arachis hypogaea L.)
+- **Authors:** Zhenling Wang, Xianxin Wu, Lina Li, Tianshu Peng
+- **Year:** 2026  |  **Venue:** Toxins  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/toxins18030131](https://doi.org/10.3390/toxins18030131)
+
+> This study investigated the effects of inoculating peanuts with two Aspergillus flavus strains (Aspergillus flavus CGMCC 3.4408 and A. flavus LNZW 23) on plant growth and the rhizosphere bacterial community. Infection significantly inhibited peanut growth. By 60 days post-inoculation (dpi), plant height in inoculated groups (CGMCC 3.4408, 26.4 cm; LNZW 23, 25.5 cm) was significantly lower than in the non-inoculated control (CK, 32.3 cm), with concomitant significant reductions in shoot and root biomass. Analysis of rhizosphere microbiota revealed that early infection (7 dpi) reduced bacterial 
+
+---
+
+### 📄 Streptomyces rochei D74 improves tobacco growth and quality by regulating the rhizosphere microecological community
+- **Authors:** L Zhang, Shiyu Wang, Jiaxin Liu, Yongxian Xu
+- **Year:** 2026  |  **Venue:** Frontiers in Plant Science  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fpls.2026.1748408](https://doi.org/10.3389/fpls.2026.1748408)
+
+> Introduction Streptomyces rochei D74 promotes growth and enhances quality in crops such as wheat and tomato. However, its potential role and optimal application method in tobacco production remain unclear. This study for the first time investigated the effects of S. rochei D74 with different application methods on tobacco growth and quality, soil physicochemical properties, and rhizosphere microbial community structure. Methods S. rochei D74 was applied via basal application (BA), foliar spray (FS), and their combination (BA-FS) under field conditions. Tobacco growth parameters, leaf yield and
+
+---
+
+### 📄 Evaluation of methanotroph-derived protein hydrolysate biostimulant on grapevine yield and quality in diverse agroecological zones of India
+- **Authors:** R G Somkuwar, P B Kakade, S P Mahalle, B Chavadi
+- **Year:** 2026  |  **Venue:** Plant Science Today  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.14719/pst.10297](https://doi.org/10.14719/pst.10297)
+
+> Grapes (Vitis vinifera L.) is an important fruit crop in tropical and subtropical regions. However, its production faces challenges from stresses like unseasonal rains and poor soil quality, particularly affecting table varieties like Thompson Seedless, its clone. Protein hydrolysate (PH) based biostimulants offer a promising solution by improving plant metabolism, increasing stress resilience and enhancing both berry yield and quality. This study evaluated the effect of a methanotroph derived PH biostimulant across diverse agroecological regions in India, aiming to assess their impact on grap
+
+---
+
+### 📄 Rhizosheath–Mycorrhizal Interactions in Kengyilia hirsuta Enhance Phosphorus Efficiency
+- **Authors:** Yutao Yuan, Yue Jia, Chen Chen, Li Wu
+- **Year:** 2026  |  **Venue:** Plants  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/plants15050805](https://doi.org/10.3390/plants15050805)
+
+> Phosphorus deficiency is a key factor limiting plant growth in desertified grasslands. Elucidating the adaptive strategies of pioneer plants that integrate root morphology and microbial interactions is crucial for understanding the natural restoration of ecosystems. This study investigated the strategies employed by Kengyilia hirsuta, a pioneer grass species in desertified grasslands, to adapt to low-phosphorus environments. By conducting sand culture experiments under varying phosphorus levels (low, optimal, and high), we focused on elucidating the synergistic adaptive mechanisms involving th
+
+---
+
+### 📄 Microbial Taxonomic and Functional Features Involved in Self-Purification of a Brazilian Polluted River
+- **Authors:** Lina Rocío del Pilar Rada Martinez, Luiz Ricardo Olchanheski, Eliane Gonçalves da Silva, Simone Ichiwaki
+- **Year:** 2026  |  **Venue:** Water Air & Soil Pollution  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s11270-026-09307-5](https://doi.org/10.1007/s11270-026-09307-5)
+
+> Summary The Tietê River is an anthropogenically disturbed urban water body polluted by a combination of untreated domestic sewage releasing (carbon, nitrogen and phosphorus pollution) and diffuse pollution that cross São Paulo State in Southeast of Brazil. Along its course, it presents contrasting sites showing elevated levels of nutrients and contaminants (eutrophic sites) and oligotrophic environments, in both water and sediments. In this study, we investigated how pollution influences the taxonomic and functional diversity of microbial communities in the Tietê River watershed, with the aim 
+
+---
+
+### 📄 Unveiling the Potential of Functional Components in Hull-Less Barley Grains: Health Benefits, Structural Composition, and Genetic Advancements
+- **Authors:** Rizwan Ali Kumbhar, Sadaf Memon, Mubshar Hussain, Yajie Liu
+- **Year:** 2026  |  **Venue:** Foods  |  **Source:** `OpenAlex`
+- **Search Query:** `soil microbiome agricultural sustainability`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/foods15050861](https://doi.org/10.3390/foods15050861)
+
+> Hull-less barley (HB) has gained attention for its various health supplements and use in beer brewing across China. The role of HB is somewhat limited, accounting for only 2% of the total production for human food; while approximately 6% is used in malt production, HB contains multiple key ingredients and functional components beneficial for health. These include dietary fiber (DF), protein, starch, and barley malt. These components are instrumental in promoting health benefits, including cardiovascular protection, glycemic regulation, lowering blood cholesterol levels, reducing the risk of co
+
+---
+
+### 📄 Examining WEF nexus-integration in 25 years of legislative documents for the Salton Sea region undergoing profound environmental change
+- **Authors:** Dillon Pao, Bethany O’Shea, Amy Quandt, Olusola O. Ololade
+- **Year:** 2026  |  **Venue:** Frontiers in Sustainable Resource Management  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fsrma.2026.1736238](https://doi.org/10.3389/fsrma.2026.1736238)
+
+> The water–energy–food (WEF) nexus provides a framework for understanding how actions in one sector can influence outcomes in the others, often in complex and unintended ways. Traditional sector-specific policies frequently overlook the trade-offs and synergies between water, energy, and food systems. This study builds on previous policy analyses by examining the evolution of WEF nexus-integration in legislative documents submitted to the California State Legislature over a 25-year period for the Salton Sea region—an area where WEF sectors drive the local economy but face competing interests an
+
+---
+
+### 📄 Floating Wetlands Islands for Crop Production: A Comprehensive Review and Bibliometric Analysis
+- **Authors:** Valentina Carrillo, Sofia I.A. Pereira, Cristina Sousa Coutinho Calheiros
+- **Year:** 2026  |  **Venue:** Circular Economy and Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s43615-026-00870-x](https://doi.org/10.1007/s43615-026-00870-x)
+
+> Abstract Floating wetland islands (FWIs), traditionally applied for ecological restoration and water purification, are increasingly recognized for their multifunctional potential. Their ability to combine environmental remediation with food production positions FWIs as a promising nature-based solution (NbS) for advancing sustainable development. To identify research trends and knowledge gaps in this emerging field, a bibliometric analysis and systematic review of FWIs for crop production were performed using the Scopus database. A total of 83 publications were identified between 2000 and 2024
+
+---
+
+### 📄 An integrated approach to unravel the deep-shallow aquifer connectivity in the Eastern Sahara
+- **Authors:** Ibrahim Ahmed Ibrahim, Abotalib Z. Abotalib, Haby S. Mohamed, Mahmoud M. Senosy
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-38324-x](https://doi.org/10.1038/s41598-026-38324-x)
+
+> The ambitious agricultural development projects in Egypt and the associated horizontal expansion into the core desert lands and desert fringe zones around the Nile Valley primarily depend on water availability. This study investigates the vertical recharge from the deep Nubian Aquifer System (NAS) toward the shallow aquifers, including the Carbonate and Quaternary aquifers in southern Egypt. While this connectivity has been studied locally through case studies, the present study integrates stable isotope data from all previous studies, together with analyses from vastly distributed new groundw
+
+---
+
+### 📄 Evidence of antibacterial properties by endophytic fungi of Hazelnut (Corylus avellana)
+- **Authors:** Rosario Nicoletti, Elvira Ferrara, Andrea Becchimanzi, Beata Zimowska
+- **Year:** 2026  |  **Venue:** Frontiers in Microbiology  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fmicb.2026.1783646](https://doi.org/10.3389/fmicb.2026.1783646)
+
+> New control strategies are necessary for the treatment of the bacterial diseases of hazelnut ( Corylus avellana ) incited by Pseudomonas avellanae and Xanthomonas arboricola pv. corylina , following the programmed phasing out of copper-based anti-cryptogamics. Based on recent evidence gathered on many crops, endophytic fungi are credited for playing a role as defensive mutualists of plants. Thus, an investigation was carried out in the hazelnut growing areas in Southern Italy in the aim to identify endophytic fungi possessing antimicrobial properties against these two pathogens. A panel of 50 
+
+---
+
+### 📄 Pesticides Drive Liver Diseases Through Non-Apoptotic Regulated Cell Death Pathways
+- **Authors:** Zamza Khairullina, Saulesh S. Kurmangaliyeva, Rustam Yussupov, Elmira Kelimberdiyeva
+- **Year:** 2026  |  **Venue:** Diseases  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/diseases14030096](https://doi.org/10.3390/diseases14030096)
+
+> A compelling body of evidence links pesticide exposure to human diseases. The liver plays a central role in the detoxification of pesticides, suggesting intense pesticide–liver cell interactions. A growing body of studies highlighted in this review supports the contribution of pesticides of various chemical classes to the development of non-alcoholic fatty liver disease (NAFLD), alcohol-associated liver disease (ALD), liver cirrhosis, viral hepatitis, hepatocellular carcinoma, etc., via disrupting lipid and carbohydrate metabolism and redox homeostasis, promoting endoplasmic reticulum stress a
+
+---
+
+### 📄 Potential use of indigenous medicinal weeds as grain protectants in hilly regions of North-East India
+- **Authors:** S Devina, J W Haobijam, B T M Aquiny, S K Chandrakumar
+- **Year:** 2026  |  **Venue:** Plant Science Today  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.14719/pst.11262](https://doi.org/10.14719/pst.11262)
+
+> Seed beetles are widely prevalent and economically destructive storage pest that infest stored grains on a global scale. Apart from other climatic challenges, Northeast Indian farmers struggle with these pests, resulting in considerable losses in terms of both quantity and quality. The primary objective of this study was to identify environmentally sustainable, readily available and novel alternatives to synthetic insecticides for their management, in addition to neem. In this context, the effectiveness of 6 different indigenous medicinal weeds was studied against the storage beetle (Callosobr
+
+---
+
+### 📄 Paving The Path To A Sustainable Food System? Examining Circular Business Model Innovation In Rwanda’s Agri-Food Sector
+- **Authors:** Sung Kyu Kim, Nathan Kanuma Taremwa, Hilda Vasanthakaalam, Thomas Bayer
+- **Year:** 2026  |  **Venue:** Circular Economy and Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s43615-026-00749-x](https://doi.org/10.1007/s43615-026-00749-x)
+
+> African economies are susceptible to global food market shocks and price volatility. Incorporating circular and regenerative strategies into domestic agricultural production and export markets has been identified as a possible solution to improve resilience and market competitiveness. However, lessons from circular innovations are limited to examples from advanced economies, focusing mainly on industrial value chains. In particular, circularity in agribusinesses remains an underexplored topic in emerging and developing economies. This research addresses this gap by assessing various circular b
+
+---
+
+### 📄 The Alarming Eastward Front of Cassava Mosaic Disease Reported in Guinea and Sierra Leone Reaches Western Côte d’Ivoire
+- **Authors:** Justin S. Pita, Fidèle Tiendrébéogo, Angela O. Eni, William J.-L. Amoakon
+- **Year:** 2026  |  **Venue:** Viruses  |  **Source:** `OpenAlex`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/v18030319](https://doi.org/10.3390/v18030319)
+
+> Cassava mosaic begomoviruses are a major threat to cassava cultivation in Africa. The virulent Ugandan variant of the East African cassava mosaic virus (EACMV-Ug), which caused substantial damage to cassava production in Uganda in the 1990s and which was previously confined to East and Central Africa, was recently found to be well established in Guinea and Sierra Leone in West Africa. Molecular analysis of cassava leaf samples from a nationwide cassava fields survey conducted in Côte d’Ivoire in 2022 suggested the absence of EACMV-Ug in the country in 2022. Given the proximity of some confirme
+
+---
+
 
 ## 📅 2025
 
@@ -3511,6 +3995,326 @@ assesses the technical, economic, and environme
 
 ---
 
+### 📄 Regenerative Livestock Farming as a Socioeconomic Model for Sustainable Agribusiness in Latin America
+- **Authors:** Armando Pacheco Hernández, Mauricio Umaña Ramírez, Pablo Nuño de la Parra, Ada Roxana Torres de Acevedo
+- **Year:** 2025  |  **Venue:** Transactions of the Chinese Society for Agricultural Machinery  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/19b6716c65c52cec66f0889d3350d707f9587f20](https://www.semanticscholar.org/paper/19b6716c65c52cec66f0889d3350d707f9587f20)
+
+> This study examines the impact of regenerative livestock farming on environmental sustainability, economic profitability, and the quality of life of producers in Latin America. Case studies of livestock systems utilizing regenerative practices such as rotational grazing, silvopastoral systems, and watershed management were selected for analysis between 2015 and 2024. Data was collected through producer interviews, field assessments, and a review of academic literature. The findings indicate significant improvements in environmental sustainability, particularly regarding carbon sequestration, b
+
+---
+
+### 📄 Regenerative cattle farming in Latin America and the Caribbean, far beyond the oxymoron
+- **Authors:** Ricardo Abramovay, Alessandra Matte, Estela Catunda Sanseverino, Adrieli Luisa Ritt
+- **Year:** 2025  |  **Venue:** Revista de Economia e Sociologia Rural  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/5b4fbf29525521daec4616565b2966d4b457614a](https://www.semanticscholar.org/paper/5b4fbf29525521daec4616565b2966d4b457614a)
+
+> Abstract Latin America and the Caribbean offer the most favorable natural and social conditions for the emergence of livestock farming that regenerates and maintains the ecosystem services on which life depends, is energy efficient and contributes to meeting fundamental human food needs. The region accounts for 44% of global beef exports. As demand for beef is unlikely to grow explosively, the adoption of regenerative methods of cattle farming, which aim to minimize environmental destruction and methane emissions, is becoming increasingly urgent. The concept of regenerative beef farming may be
+
+---
+
+### 📄 RESEARCH POLICIES, INNOVATION NETWORKS, AND CO-PRODUCTION FOR THE DEMOCRATIZATION OF MULTILEVEL GOVERNANCE OF TRANSITIONS TOWARD THE SUSTAINABILITY OF FOOD SYSTEMS: THE CASE OF FRANCE AND ITS CONNECTION WITH AGROECOLOGICAL INNOVATIONS IN LATIN AMERICA (2010–2024).
+- **Authors:** Sheila Heimenrath
+- **Year:** 2025  |  **Venue:** Proceedings of the First International Conference – MIT LIFT Lab Research Fest - South America: Empowering the foundations of the Latin American economy to tackle regional and global challenges  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/eed704466f8d7813e6f353c48eeaedff31dbc5a0](https://www.semanticscholar.org/paper/eed704466f8d7813e6f353c48eeaedff31dbc5a0)
+
+> This work is part of a research project aimed at analyzing changes in research policies related to agriculture and the food system in France, and their connections with agroecological innovation networks and public policies within its territory and region, in Latin America, as well as the institutionalization processes of agroecology in
+intergovernmental settings between 2010 and 2024. Various theoretical and methodological perspectives examining the relationship between democracy and
+sustainability are particularly relevant. In this regard, it is significant to analyze the emergence of change
+
+---
+
+### 📄 Huanglongbing as a Persistent Threat to Citriculture in Latin America
+- **Authors:** Jael Arely Cervantes-Santos, Hernán Villar-Luna, Ana Marlenne Bojórquez-Orozco, José Ernesto Díaz-Navarro
+- **Year:** 2025  |  **Venue:** Biology  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/bdf453d16600a626f2e08ebc495072083463fecf](https://www.semanticscholar.org/paper/bdf453d16600a626f2e08ebc495072083463fecf)
+
+> Simple Summary Huanglongbing, also known as citrus greening, is a bacterial disease transmitted by insects that has severely impacted citrus production globally. This review delves into the repercussions of HLB in Latin America, analyzing its dissemination, genetic evolution, and potential management strategies. The goal is to provide Latin American citrus growers with the tools they need to fight the devastating effects of this disease and ensure the sustainability of the citrus industry in the region. Given the transnational nature of this pest, it is imperative to strengthen collaboration b
+
+---
+
+### 📄 Estimating the environmental Kuznets curve for cattle production and environmental degradation in Latin America, Africa, and Southeast Asia
+- **Authors:** Stefan Burkart, Daniela Mejía, Jhon Jairo Junca
+- **Year:** 2025  |  **Venue:** Scientific Reports  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/c1aae28cefdf776fc2d70833b57f7aa636733c7f](https://www.semanticscholar.org/paper/c1aae28cefdf776fc2d70833b57f7aa636733c7f)
+
+> This article investigates the relationship between economic growth in cattle farming and environmental degradation through the lens of the Environmental Kuznets Curve (EKC) for Latin America, Africa, and Southeast Asia between 2000 and 2020. The study tests whether the EKC model, which suggests an inverted U-shape between economic growth and environmental degradation, holds true for the cattle sector. Using panel data models and various environmental proxies, including sector-specific emissions (CO2eq) and ecological footprints, the study explores how economic growth in cattle farming correlat
+
+---
+
+### 📄 Alternative proteins: an innovative approach to dog food production
+- **Authors:** Yolanda D. Carrillo-Huerta, Abner Josué Gutiérrez-Chávez, Ma. de Lourdes Pérez-Zavala, Luz E. Casados‐Vázquez
+- **Year:** 2025  |  **Venue:** Frontiers in Animal Science  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fanim.2025.1701677](https://doi.org/10.3389/fanim.2025.1701677)
+
+> In recent years, the search for alternative proteins for pet consumption has increased due to concerns about ingredient quality and the sustainability issues associated with traditional livestock-based protein farming, whose production has led to environmental contamination. Examples of alternative proteins include those produced through Cellular Agriculture, plant-based proteins, insects, and fungi. Cellular agriculture products are classified into two categories: cell-based, which include cultured meat and other foods produced from animal cells grown in culture, including insect cells; and a
+
+---
+
+### 📄 Environmental Affects of Plant-Based Beef Analog Production in 12 Countries and Consumer Response to Plant-Based Meat in China, A Case Study
+- **Authors:** Xiangquan Zeng, Xuzeng Wang, Jian Li
+- **Year:** 2025  |  **Venue:** Journal of Food and Nutrition Research  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.12691/jfnr-13-8-6](https://doi.org/10.12691/jfnr-13-8-6)
+
+> This study employs a multi-regional life cycle assessment (LCA) across 12 countries to quantify and compare environmental impacts of plant-based beef analogue (PBBA) versus conventional beef production. Key drivers of ecological footprints were identified: PBBA reduced greenhouse gas emissions by 80–90% but exhibited critical regional bottlenecks—soybean-driven deforestation in Argentina (contributing >70% to global warming impacts) and coal-dependent processing in China (amplifying fine particulate matter formation by 69%). Significant spatial disparities emerged in resource efficiency: beef 
+
+---
+
+### 📄 Effects of grazing management practices, topographic position, and land cover type on soil organic carbon fractions in semi-arid rangelands of Kenya
+- **Authors:** A.N. Gitau, Stephen Mureithi, Samuel Mwendwa, Richard N. Onwonga
+- **Year:** 2025  |  **Venue:** Carbon Balance and Management  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1186/s13021-025-00319-y](https://doi.org/10.1186/s13021-025-00319-y)
+
+> No abstract available.
+
+---
+
+### 📄 Regenerative Organic Agriculture: A Pathway to Ecosystem Restoration and Sustainable Agricultural Development
+- **Authors:** Yashaswini Sharma
+- **Year:** 2025  |  **Venue:** Organic Farming  |  **Source:** `OpenAlex`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.56578/of110302](https://doi.org/10.56578/of110302)
+
+> No abstract available.
+
+---
+
+### 📄 Predictive Analysis and Monitoring of Crop Health using Satellite Imagery and Deep Learning
+- **Authors:** Shashank Gupta, Shefali Arora Chouhan, Amritanshu Sharma
+- **Year:** 2025  |  **Venue:** 2025 1st IEEE Uttar Pradesh Section Women in Engineering International Conference on Electrical Electronics and Computer Engineering (UPWIECON)  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/a5afba363840548cb3138183c05211d5b476d19a](https://www.semanticscholar.org/paper/a5afba363840548cb3138183c05211d5b476d19a)
+
+> Satellite-based vegetation index data, like the Normalized Difference Vegetation Index (NDVI), are essential for determining crop yields because they are relatively cost-effective and globally scalable. NDVI is a frequently used remote sensing vegetation index to monitor crop health and density. In this study, we use Sentinel-2 satellite data and weather information from the NASA FLDAS dataset from June 2023 to June 2024 to forecast the NDVI values for agricultural land areas. This data is collected through Google Earth Engine and pre-processed to extract NDVI values of the land area along wit
+
+---
+
+### 📄 Remote Sensing Based Crop Health Classification Using NDVI and Fully Connected Neural Networks
+- **Authors:** J. Judith, Tamilselvi Rajendran, M. Beham, S. P. Lakshmi
+- **Year:** 2025  |  **Venue:** The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/2a09d0f741cc80fbd3ea69d2d7fba94fffe1bee2](https://www.semanticscholar.org/paper/2a09d0f741cc80fbd3ea69d2d7fba94fffe1bee2)
+
+> Abstract. Accurate crop health monitoring is not only essential for improving agricultural efficiency but also for ensuring sustainable food production in the face of environmental challenges. Traditional approaches often rely on visual inspection or simple NDVI measurements, which, though useful, fall short in detecting nuanced variations in crop stress and disease conditions. In this research, we propose a more sophisticated method that leverages NDVI data combined with a Fully Connected Neural Network (FCNN) to classify crop health with greater precision. The FCNN, trained using satellite i
+
+---
+
+### 📄 Defining critical SOC/clay thresholds for soil health in boreal croplands using satellite-based NDVI proxies for productivity and resilience
+- **Authors:** Jaakko Heikkinen, R. Keskinen, K. Ylivainio
+- **Year:** 2025  |  **Venue:** Agricultural and Food Science  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/cae8e100da24faec0524f917b5561c363de189ee](https://www.semanticscholar.org/paper/cae8e100da24faec0524f917b5561c363de189ee)
+
+> The European Union’s soil strategy underscores the necessity for establishing feasible criteria to assess the soil health condition. In this study, we developed a method to define a critical threshold value for SOC/clay ratio on the basis of crop productivity and resilience. The study integrated data from national soil monitoring (NSM) of Finnish cropland soils (n=505) with satellite-based normalized difference vegetation index (NDVI) obtained from the EcoDataCube (EDC) portal. The study area was confined to the boreal environmental zone to ensure consistent pedo-climatic conditions. The resul
+
+---
+
+### 📄 Monitoring Digestate Application on Agricultural Crops Using Sentinel-2 Satellite Imagery
+- **Authors:** Andreas Kalogeras, D. Bormpoudakis, Iason Tsardanidis, D. Loka
+- **Year:** 2025  |  **Venue:** IEEE International Geoscience and Remote Sensing Symposium  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/2b9970f9fdc9ed298e9ac4fa2fab42db2673ddcd](https://www.semanticscholar.org/paper/2b9970f9fdc9ed298e9ac4fa2fab42db2673ddcd)
+
+> The widespread use of Exogenous Organic Matter in agriculture necessitates monitoring to assess its effects on soil and crop health. This study evaluates optical Sentinel-2 satellite imagery for detecting digestate application, a practice that enhances soil fertility but poses environmental risks like microplastic contamination and nitrogen losses. In the first instance, Sentinel-2 satellite image time series (SITS) analysis of specific indices (EOMI, NDVI, EVI) was used to characterize EOM’s spectral behavior after application on the soils of four different crop types in Thessaly, Greece. Fur
+
+---
+
+### 📄 Hybrid Methodological Evaluation Using UAV/Satellite Information for the Monitoring of Super-Intensive Olive Groves
+- **Authors:** Esther Alfonso, S. López-Cuervo, J. Aguirre, E. Pérez-Martín
+- **Year:** 2025  |  **Venue:** Applied Sciences  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/b40c70f9e80caa1c24c7f65f68394fbde65651ff](https://www.semanticscholar.org/paper/b40c70f9e80caa1c24c7f65f68394fbde65651ff)
+
+> Advances in Earth observation technology using multispectral imagery from satellite Earth observation systems and sensors mounted on unmanned aerial vehicles (UAVs) are enabling more accurate crop monitoring. These images, once processed, facilitate the analysis of crop health by enabling the study of crop vigour, the calculation of biomass indices, and the continuous temporal monitoring using vegetation indices (VIs). These indicators allow for the identification of diseases, pests, or water stress, among others. This study compares images acquired with the Altum PT sensor (UAV) and Super Dov
+
+---
+
+### 📄 Paddy Crop Monitoring Using Landsat 8 and Sentinel Data: A Case Study in Kandi Mandal of Telangana, India
+- **Authors:** H. N., Roshini, Ch, P. K, N. E.
+- **Year:** 2025  |  **Venue:** Journal of Experimental Agriculture International  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/4f760ec1ab0f0de80d76101a5b25f31dca465689](https://www.semanticscholar.org/paper/4f760ec1ab0f0de80d76101a5b25f31dca465689)
+
+> Monitoring paddy crop using remote sensing data has become increasingly prevalent due to its ability to provide timely and spatially comprehensive information. This study focuses on the utilization of Landsat 8 and Sentinel satellite imagery for monitoring paddy crops in the Kandi Mandal of Telangana, India. The primary objective is to assess the feasibility and effectiveness of these satellite datasets in capturing key agricultural parameters such as vegetation indices and land use changes throughout the crop growth cycle. The methodology involves preprocessing of satellite imagery to derive 
+
+---
+
+### 📄 Research on Remote Sensing Monitoring of Key Indicators of Corn Growth Based on Double Red Edges
+- **Authors:** Ying Yin, Chunling Chen, Zhuo Wang, Jie Chang
+- **Year:** 2025  |  **Venue:** Agronomy  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/5faf6af3ad469652824348be6bff96a751a9ea85](https://www.semanticscholar.org/paper/5faf6af3ad469652824348be6bff96a751a9ea85)
+
+> The variation in crop growth provides critical insights for yield estimation, crop health diagnosis, precision field management, and variable-rate fertilization. This study constructs key monitoring indicators (KMIs) for corn growth based on satellite remote sensing data, along with inversion models for these growth indicators. Initially, the leaf area index (LAI) and plant height were integrated into the KMI by calculating their respective weights using the entropy weight method. Eight vegetation indices derived from Sentinel-2A satellite remote sensing data were then selected: the Normalized
+
+---
+
+### 📄 Deep Learning Applications for Crop Mapping Using Multi-Temporal Sentinel-2 Data and Red-Edge Vegetation Indices: Integrating Convolutional and Recurrent Neural Networks
+- **Authors:** Rahat Tufail, P. Tassinari, D. Torreggiani
+- **Year:** 2025  |  **Venue:** Remote Sensing  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/4d9e2194cb55b216f897afa9c058da861202a1f8](https://www.semanticscholar.org/paper/4d9e2194cb55b216f897afa9c058da861202a1f8)
+
+> Accurate crop classification using satellite imagery is critical for agricultural monitoring, yield estimation, and land-use planning. However, this task remains challenging due to the spectral similarity among crops. Although crops differ in physiological characteristics, including chlorophyll content, they often exhibit only subtle differences in their spectral reflectance, which make their precise discrimination challenging. To address this, this study uses the high temporal and spectral resolution of Sentinel-2 imagery, including its red-edge bands and derived vegetation indices, which are
+
+---
+
+### 📄 Monitoring agricultural drought using geospatial technologies: the case of Menna Watershed, northwestern Ethiopia
+- **Authors:** Fekadie Bazie Enyew, S. Wassie, Daniel Asfaw Bekele
+- **Year:** 2025  |  **Venue:** Theoretical and Applied Climatology  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/dbd0de636ec7e01ede0ca72728c2fb40723fb7f6](https://www.semanticscholar.org/paper/dbd0de636ec7e01ede0ca72728c2fb40723fb7f6)
+
+> No abstract available.
+
+---
+
+### 📄 Estimating rice yield under different wheat residue coverage levels using multispectral Gaofen satellite data and remote sensing indices
+- **Authors:** Muhammad Sohail Memon, Shuren Chen, Jun Guo, B. Iqbal
+- **Year:** 2025  |  **Venue:** Journal of Agricultural Engineering  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/2ed7f8a3a779b3ec785918f119fc8802d3a95b23](https://www.semanticscholar.org/paper/2ed7f8a3a779b3ec785918f119fc8802d3a95b23)
+
+> Satellite remote sensing (RS) offers an efficient, large-scale approach for monitoring crop health, particularly in precise estimation of crop yields. Rice is a staple food for over three billion people worldwide, making it crucial to estimate rice yield promptly to ensure food security and support sustainable agriculture. However, traditional field survey methods for yield assessment, are often labor-intensive, and time-consuming. To address this challenge, we propose a novel approach that integrates Gaofen-1 (GF-1) and Gaofen-6 (GF-6) multispectral data for monitoring and evaluating rice cro
+
+---
+
+### 📄 Application of Machine Learning and Deep Learning in Precision Agriculture for Crop Disease Detection and Pest Management
+- **Authors:** Ritu Raj Kumar, Satendra Kumar, Arun Mittal, Ajesh Chauhan
+- **Year:** 2025  |  **Venue:** Recent Advances in Computer Science and Communications  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/1eee1b83dcbe51b05307dfa1d6debcf49464d370](https://www.semanticscholar.org/paper/1eee1b83dcbe51b05307dfa1d6debcf49464d370)
+
+> 
+ 
+ Diseases and insect pests significantly threaten global crop yield, causing an estimated
+20% to 40% annual loss, with climate change exacerbating pest damage and increasing
+agricultural losses by 10% to 25% per degree of global temperature rise. Traditional disease
+detection methods, reliant on direct visual diagnosis and chemical treatments, are labourintensive
+and inefficient for large farms, necessitating the adoption of automated crop monitoring
+and forecasting systems. Environmental stressors, including biotic and abiotic factors, contribute
+to plant diseases, ranging from physiologic
+
+---
+
+### 📄 Ontology and semantic techniques in agricultural crop pest and disease management: A systematic literature review
+- **Authors:** P. U. Usip, E. Udo, T.J. Fakiyesi, T. Olowu
+- **Year:** 2025  |  **Venue:** World Journal of Applied Science &amp; Technology  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/950f6efe09dd3e45b713db158239c2d5917b19e8](https://www.semanticscholar.org/paper/950f6efe09dd3e45b713db158239c2d5917b19e8)
+
+> Agricultural crop pests and diseases significantly impact global food security, causing substantial crop losses and economic damage. Addressing these challenges requires innovative solutions that integrate modern technological advancements. This study presents a systematic literature review on using ontology and semantic techniques in crop pest and disease management. By leveraging ontology frameworks and semantic web technologies, the research identifies how structured knowledge representation and advanced reasoning tools enhance detection accuracy, resource optimisation, and sustainability i
+
+---
+
+### 📄 Development of China's Crop Disease and Pest Monitoring and Forecasting System: A Comprehensive Review
+- **Authors:** S. Bai, Yong Zhang, Zhanfeng Yan, Jingfei Guo
+- **Year:** 2025  |  **Venue:** Journal of applied entomology  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/7599bd2fc67e086d944872e0a740897a28f2c8a1](https://www.semanticscholar.org/paper/7599bd2fc67e086d944872e0a740897a28f2c8a1)
+
+> Effective management of crop diseases and pests is essential for ensuring global food security and promoting sustainable agriculture. Over the past decades, China has developed a sophisticated Crop Disease and Pest Monitoring and Forecasting (CDPMF) system, which has significantly enhanced agricultural productivity. This study presents a critical synthesis of China's CDPMF system's evolution, critically analysing its milestones and experiences in organisational structure, technological innovation, information technology implementation, talent cultivation and international cooperation. The find
+
+---
+
+### 📄 Modelling the effectiveness of Integrated Pest Management strategies for the control of Septoria tritici blotch
+- **Authors:** Elliot M.R. Vincent, Edward M. Hill, Stephen Parnell
+- **Year:** 2025  |  **Venue:** bioRxiv  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/ebb6eb2a145892263d206c46540ad01fa0d2892f](https://www.semanticscholar.org/paper/ebb6eb2a145892263d206c46540ad01fa0d2892f)
+
+> Reducing reliance on pesticides is an important global challenge. With increasing constraints on their use, in recent years there has been a declining trend in pesticide use for arable crops in the UK. But with increasing disease pressures and global demand for food, there is a greater need for effective measures of pest and disease control. These circumstances highlight the need for widespread adoption of sustainable alternative control measures. Integrated Pest Management (IPM) is one such solution, comprising a set of management strategies which focus on the long-term prevention, detection 
+
+---
+
+### 📄 Nanotechnology Applications in Rice Pest and Disease Management: A Comprehensive Review
+- **Authors:** Funchious Paul Mensah, Monic Semanu, Maama Silina, D. Stephen
+- **Year:** 2025  |  **Venue:** International Journal of Plant &amp; Soil Science  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/5b56d1f33f2c97b02988d216664a4ec28beda8e1](https://www.semanticscholar.org/paper/5b56d1f33f2c97b02988d216664a4ec28beda8e1)
+
+> Background: Rice (Oryza sativa L.) is a critical staple crop supporting global food security, yet production is severely constrained by pests and diseases causing yield losses up to 80%. Conventional chemical control strategies have led to resistance development, environmental contamination, and non-target toxicity. 
+Aims:  This review synthesizes current knowledge on nanotechnology-based solutions for rice pest and disease management, evaluating efficacy, mechanisms, environmental safety, and adoption challenges. 
+Methodology: Comprehensive literature review of peer-reviewed articles (2014–20
+
+---
+
+### 📄 Deep learning technique for plant disease classification and pest detection and model explainability elevating agricultural sustainability
+- **Authors:** W. Shafik, Ali Tufail, L. D. De Silva, Rosyzie Anna Awg Haji Mohd Apong
+- **Year:** 2025  |  **Venue:** BMC Plant Biology  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/d4c1c789b380db64fc8528bd4e64c8442b769537](https://www.semanticscholar.org/paper/d4c1c789b380db64fc8528bd4e64c8442b769537)
+
+> The rapid advancement of technologies such as artificial intelligence (AI), deep learning, and precision agriculture tools is driving the development of efficient, data-driven crop management solutions. These innovations are increasingly critical in modern agriculture, where early and accurate detection of plant diseases plays a vital role in securing crop yields and sustainability. Agronomists, agriculturists, and local farmers continue to face significant economic losses due to delayed diagnosis or misclassification of diseases affecting high-value crops, key contributors to the global marke
+
+---
+
+### 📄 Addressing global food security in Africa through training of next generation of researchers in plant pest diagnostics, in vitro culture, and clean plant production
+- **Authors:** S. Dhekney, Simon Zebelo, Papaiah Sardaru, Purushothaman Natarajan
+- **Year:** 2025  |  **Venue:** In Vitro Cellular & Developmental Biology - Plant  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/e7ac7c983c7e4061d50784f9b85bd2cd0cf2315b](https://www.semanticscholar.org/paper/e7ac7c983c7e4061d50784f9b85bd2cd0cf2315b)
+
+> No abstract available.
+
+---
+
+### 📄 Advances in Chemical Protection for Plant Disease Management in Agriculture: From Traditional Practices to Modern Innovations
+- **Authors:** Swagatika Babu, B. Sahu, S. A. Basha, Sucharita Mohapatra
+- **Year:** 2025  |  **Venue:** Journal of Scientific Research and Reports  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/dda04d81629e58477efac0c6c5520c107d8398ea](https://www.semanticscholar.org/paper/dda04d81629e58477efac0c6c5520c107d8398ea)
+
+> Chemical protection in agriculture has played a pivotal role in safeguarding crops from pests, pathogens, and weeds, thereby sustaining global food production and ensuring food security. This review aims to provide a comprehensive understanding of the evolution, advancements, and future perspectives of chemical crop protection strategies. It traces the progression from traditional practices such as the use of botanical extracts, sulfur, and copper compounds to the modern era of synthetic pesticides, systemic fungicides, and targeted molecular formulations. Advances in agrochemical chemistry an
+
+---
+
+### 📄 Applications of nanoparticles as nanofertilizers for plant growth, disease suppression and abiotic stress management
+- **Authors:** Papan Chowhan, Shambhu Swarnakar, S. Paul, Arka Pratim Chakraborty
+- **Year:** 2025  |  **Venue:** Discover Sustainability  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/6f591979e6f05dcd4e79adbd04ac98beac2de508](https://www.semanticscholar.org/paper/6f591979e6f05dcd4e79adbd04ac98beac2de508)
+
+> No abstract available.
+
+---
+
 
 ## 📅 2024
 
@@ -4053,6 +4857,105 @@ assesses the technical, economic, and environme
 
 ---
 
+### 📄 CacaoFIT: the network of cacao field trials in Latin America and its contribution to sustainable cacao farming in the region
+- **Authors:** Luis Orozco-Aguilar, Arlene López-Sampson, Rolando H. Cerda, F. Casanoves
+- **Year:** 2024  |  **Venue:** Frontiers in Sustainable Food Systems  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/ac86742680cc497273ae903a60a2f33e242795c7](https://www.semanticscholar.org/paper/ac86742680cc497273ae903a60a2f33e242795c7)
+
+> A network of agronomists, researchers, and practitioners associated with cacao farming provided open access to their independent field trials across Latin America and the Caribbean (LAC). A centralized dataset was assembled using qualitative and quantitative data from 25 experimental field trials (hereafter referred to as “CacaoFIT”) spanning several LAC agroecosystems. This dataset was used to document the main traits and agroclimatic attributes of the cacao cultivation model being tested within the CacaoFIT network. By synthesizing data from an entire network of cacao trials, this study aime
+
+---
+
+### 📄 Nature-Based Solutions: Sustainable Development of Latin America
+- **Authors:** Danielle Mendes Thame Denny, C. Cerri, M. R. Cherubin, Heloisa Lee Burnquist
+- **Year:** 2024  |  **Venue:** Green and Low-Carbon Economy  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/79858aed6e7fffffff7a31130c465de15adc6550](https://www.semanticscholar.org/paper/79858aed6e7fffffff7a31130c465de15adc6550)
+
+> Latin America is a region with abundant natural resources and diverse cultures, much of which lies between the tropics. Sustainable agriculture, pasture, and forestry practices can have a reduced environmental impact in this region compared to other parts of the world. These integrated systems practices can create a balanced use of chemical inputs, harmonious relations between humans and soil-plants-livestock, and even provide a nature-based solution to climate change by sequestering carbon emissions and are also less likely to lead to soil degradation. These practices are central to a new eco
+
+---
+
+### 📄 Food Additives Derived from Fruits and Vegetables for Sustainable Animal Production and Their Impact in Latin America: An Alternative to the Use of Antibiotics
+- **Authors:** M. Golowczyc, Andrea Gómez-Zavaglia
+- **Year:** 2024  |  **Venue:** Foods  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/881b0478ba5774acfbec0292930a7ae23fcacb5b](https://www.semanticscholar.org/paper/881b0478ba5774acfbec0292930a7ae23fcacb5b)
+
+> The production of healthy animal-derived food entails the effective control of foodborne pathogens and strategies to mitigate microbial threats during rearing. Antibiotics have been traditionally employed in animal farming to manage bacterial infections. However, the prohibition of antibiotic growth promoters in livestock farming has brought significant changes in animal production practices. Although antibiotics are now restricted to treating and preventing bacterial infections, their overuse has caused serious public health issues, including antibiotic resistance and the presence of antibiot
+
+---
+
+### 📄 Detection of the Pine Wilt Disease Using a Joint Deep Object Detection Model Based on Drone Remote Sensing Data
+- **Authors:** Youping Wu, Honglei Yang, Yunlei Mao
+- **Year:** 2024  |  **Venue:** Forests  |  **Source:** `SemanticScholar`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/6b0501703a1be832c48fc00081493d4da4770555](https://www.semanticscholar.org/paper/6b0501703a1be832c48fc00081493d4da4770555)
+
+> Disease and detection is crucial for the protection of forest growth, reproduction, and biodiversity. Traditional detection methods face challenges such as limited coverage, excessive time and resource consumption, and poor accuracy, diminishing the effectiveness of forest disease prevention and control. By addressing these challenges, this study leverages drone remote sensing data combined with deep object detection models, specifically employing the YOLO-v3 algorithm based on loss function optimization, for the efficient and accurate detection of tree diseases and pests. Utilizing drone-moun
+
+---
+
+### 📄 Redefining Sustainable Agriculture for the 21st Century by Vertical Farming
+- **Authors:** Nitesh Kumar Singh, A. Rai
+- **Year:** 2024  |  **Venue:** Journal of Scientific Research and Reports  |  **Source:** `SemanticScholar`
+- **Search Query:** `vertical farming urban agriculture food systems`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/27878a2cdb72c5210210d2001096ee2b81071f5b](https://www.semanticscholar.org/paper/27878a2cdb72c5210210d2001096ee2b81071f5b)
+
+> In the face of a rapidly growing global population, increasing urbanization, and the threats posed by climate change, traditional agricultural practices are becoming increasingly unsustainable. Vertical farming, a method of growing crops in vertically stacked layers within controlled environments, offers a promising solution to these challenges. This review paper explores the potential of vertical farming to redefine sustainable agriculture in the 21st century. It examines the key advantages of vertical farming, including efficient land use, reduced water consumption, year-round crop productio
+
+---
+
+### 📄 Monitoring Tobacco Crop Health using Geospatial Data
+- **Authors:** Gladys Chiringa, Sibangiso Ngwenya, Nolwazi Ncube, S. Dube
+- **Year:** 2024  |  **Venue:** 2024 3rd Zimbabwe Conference of Information and Communication Technologies (ZCICT)  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/848b9b0cddd602787a18a545f0e6688d22c912b0](https://www.semanticscholar.org/paper/848b9b0cddd602787a18a545f0e6688d22c912b0)
+
+> This study examines a method that uses the Normalized Difference Vegetation Index (NDVI) to track the health of tobacco crops and provide farmers practical advice. The NDVI was calculated using Sentinel-2 and Landsat satellite image data. Google Earth Engine (GEE) was used to process the images. The method demonstrated a 91.7% accuracy in categorising crops, and a very small mean absolute error of 0.02 in NDVI computation. Nevertheless, drawbacks were observed, including the limits of a rule-based recommendation system, possible spectrum misinterpretation, and data gaps under foggy situations.
+
+---
+
+### 📄 Wheat Crop Management and growth stage monitoring in some gypsiferous soil units using remote sensing
+- **Authors:** Ammar S. Ismaeal, M. J. Farhan, A. Khalaf
+- **Year:** 2024  |  **Venue:** Tikrit Journal for Agricultural Sciences  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/06d19b35fd22fc7b8e0e69ac5bd91272feca5f94](https://www.semanticscholar.org/paper/06d19b35fd22fc7b8e0e69ac5bd91272feca5f94)
+
+> The study used remote sensing to manage and monitor wheat crop health in some gypsiferous soil units. Five sites cultivated with wheat and irrigated by a central pivot irrigation system were selected within gypsiferous soil units in some agricultural lands. Soil and plant samples were collected at the best spectral and vegetative growth stage (grain filling stage) from each site. Three samples of the plant and soil were collected with three replicates, resulting in a total of (5 × 3 × 3 = 45 samples for both soil and plant). Samples were prepared for conducting laboratory analyses Satellite im
+
+---
+
+### 📄 ROWIA: A Smart IoT-Based Reverse Osmosis Wastewater Irrigation System for Agriculture
+- **Authors:** Ali Haghighat Panah, Seyedreza Taghizadeh
+- **Year:** 2024  |  **Venue:** 2024 International Conference on Engineering Management of Communication and Technology (EMCTECH)  |  **Source:** `SemanticScholar`
+- **Search Query:** `irrigation technology water scarcity agriculture`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/1ec5872cbcad9754bb77a8f1afbe80a518d062d7](https://www.semanticscholar.org/paper/1ec5872cbcad9754bb77a8f1afbe80a518d062d7)
+
+> Water scarcity is a significant global challenge, worsened by global warming and population growth, straining water resources. Agriculture, a major water user, often employs inefficient irrigation methods, leading to excessive water consumption. A smart irrigation system using IoT technology and Reverse Osmosis (RO) wastewater from water purifiers can help conserve water. This paper presents a smart solution leveraging the Internet of Things (IoT) technology to recycle RO wastewater for agricultural use, conserving potable water resources. The system is powered by the ESP32 microcontroller and
+
+---
+
+### 📄 Intelligent crop management system for improving yield in maize production: evidence from India
+- **Authors:** S. Vishnoi, Jinil Persis
+- **Year:** 2024  |  **Venue:** International Journal of Productivity and Performance Management  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/c30b5c8044ef30e89020f35735e829392bc9ef5e](https://www.semanticscholar.org/paper/c30b5c8044ef30e89020f35735e829392bc9ef5e)
+
+> PurposeManaging weeds and pests in cropland is one of the major concerns in agriculture that greatly affects the quantity and quality of the produce. While the success of preventing potential weeds and pests is not guaranteed, early detection and diagnosis help manage them effectively to ensure crops’ growth and healthDesign/methodology/approachWe propose a diagnostic framework for crop management with automatic weed and pest detection and identification in maize crops using residual neural networks. We train two models, one for weed detection with a labeled image dataset of maize and commonly
+
+---
+
 
 ## 📅 2023
 
@@ -4331,6 +5234,105 @@ assesses the technical, economic, and environme
 
 ---
 
+### 📄 Evidence of agroecology’s contribution to mitigation, adaptation, and resilience under climate variability and change in Latin America
+- **Authors:** Quintero Carolina, Arce Alejandra, Andrieu Nadine
+- **Year:** 2023  |  **Venue:** Agroecology and Sustainable Food Systems  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/8289e859fe5bab447a8e84c56e3ad82e91a9c5da](https://www.semanticscholar.org/paper/8289e859fe5bab447a8e84c56e3ad82e91a9c5da)
+
+> ABSTRACT Agroecology is highly promoted in research and development discourse as a holistic and effective response to climate change. The objective of this study is to contribute to the analysis of the existing evidence that agroecology enables climate change (CC) adaptation and mitigation in the agricultural systems of Latin America, a region known for pioneering the development of this science, praxis, and movement. We applied the PRISMA method to analyze the existing literature providing such evidence. Stakeholder interviews were used to obtain in-depth perceptions of agroecology’s contribu
+
+---
+
+### 📄 Sustainable beef labeling in Latin America and the Caribbean: Initiatives, developments, and bottlenecks
+- **Authors:** Leonardo Moreno Lerma, Manuel Francisco Díaz Baca, S. Burkart
+- **Year:** 2023  |  **Venue:** Frontiers in Sustainable Food Systems  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/19394272019e65a702fc305c3d4cd4188dba854e](https://www.semanticscholar.org/paper/19394272019e65a702fc305c3d4cd4188dba854e)
+
+> Scientific research is increasingly conclusive regarding the responsibility of food production in environmental issues, a situation that contrasts with greater consumer awareness. In this context, sustainability labels for meat have emerged, which offer a guarantee that production is based on principles of animal welfare, and carbon neutrality, among others. Since research on this subject is scarce, the objective of this article is to identify and analyze the initiatives and development of this type of labeling in Latin America and the Caribbean. For this purpose, a qualitative-descriptive stu
+
+---
+
+### 📄 From the past to the new era, Latin America shows a sustainable view of microorganisms for agricultural and ecological uses
+- **Authors:** S. Castro-Sowinski
+- **Year:** 2023  |  **Venue:** Environmental Sustainability  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/d02d3059d25d2ccdd763fbbda6d297341d2c608b](https://www.semanticscholar.org/paper/d02d3059d25d2ccdd763fbbda6d297341d2c608b)
+
+> No abstract available.
+
+---
+
+### 📄 Detection of Pine Wilt Disease Using Drone Remote Sensing Imagery and Improved YOLOv8 Algorithm: A Case Study in Weihai, China
+- **Authors:** Shikuan Wang, Xingwen Cao, Mengquan Wu, Changbo Yi
+- **Year:** 2023  |  **Venue:** Forests  |  **Source:** `SemanticScholar`
+- **Search Query:** `drone remote sensing crop disease detection`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/a7f502c32128e9e53821a0b8c7fe5902f7b51e6b](https://www.semanticscholar.org/paper/a7f502c32128e9e53821a0b8c7fe5902f7b51e6b)
+
+> Pine Wilt Disease (PWD) is a devastating global forest disease that spreads rapidly and causes severe ecological and economic losses. Drone remote sensing imaging technology is an effective way to detect PWD and control its spread. However, the existing algorithms for detecting PWD using drone images have low recognition accuracy, difficult image calibration, and slow detection speed. We propose a fast detection algorithm for PWD based on an improved YOLOv8 model. The model first adds a small object detection layer to the Neck module in the YOLOv8 base framework to improve the detection perfor
+
+---
+
+### 📄 Monitoring of Wheat Crop Growth at Farm Level Using Time Series Multispectral Satellite Imagery
+- **Authors:** Baljit Singh, B. Chauhan, S. Kaushik, Varun Narayan Mishra
+- **Year:** 2023  |  **Venue:** IECAG 2023  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/d69ec2d1c8afcb23f490b0f3e4fc9ee6384a83a6](https://www.semanticscholar.org/paper/d69ec2d1c8afcb23f490b0f3e4fc9ee6384a83a6)
+
+> : The monitoring of wheat crop growth plays a crucial role in ensuring effective agricultural management and enhancing food security. Valuable insights into the spatial distribution and various growth stages of wheat crop can be obtained through the combination of multi-spectral remote sensing datasets, data analysis, and ground-truth veriﬁcation. This work aims to monitor wheat crops at farm level in the Bathinda district of India during the agricultural year 2022–23. It involves collecting and analyzing multispectral satellite data over ﬁve selected farmlands in the study region. Preprocessi
+
+---
+
+### 📄 Assessing the potential of Sentinel-2 imagery and NDVI thresholds for the development of crop phenology: A case study of Sahiwal District
+- **Authors:** Muhammad Shoaib
+- **Year:** 2023  |  **Venue:** Pakistan Journal of Agricultural Sciences  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/9f7e0a2c8e4b82f31af2a7b1213221a2dc271b86](https://www.semanticscholar.org/paper/9f7e0a2c8e4b82f31af2a7b1213221a2dc271b86)
+
+> Crop mapping and its health monitoring are of key importance for a country like Pakistan where a considerable share of the GDP originates from agricultural production. Currently, extensive capital and human resource are utilized to record the crop types and monitor crop health due to variations in crop pattern and intercropping practices being observed in many parts of the country. Satellite Remote Sensing, however, can be utilized very efficiently to identify crop types and estimate acreage by using unique phenological cycles derived from NDVI thresholds. In this research, we proposed a semi-
+
+---
+
+### 📄 CAN RADAR BACKSCATTER RATIO BE USED TO ESTIMATE NDVI AND ACT AS ITS SUBSTITUTE? – A STUDY OVER WINTER WHEAT CROP IN INDIA
+- **Authors:** A. Pandit, S. Sawant, J. Mohite, N. Rajpoot
+- **Year:** 2023  |  **Venue:** ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/cf2b68403368f576b6fd5fb853644db7c5a5efb0](https://www.semanticscholar.org/paper/cf2b68403368f576b6fd5fb853644db7c5a5efb0)
+
+> Abstract. The Normalised Difference Vegetation Index (NDVI) derived from optical satellite images plays a very important role in determining the state of plants' health. Also, it is an important parameter needed in various statistical/process-based models. However, the use of optical images is sometimes limited because of atmospheric conditions and cloud cover. On the other hand, synthetic aperture radar (SAR) remote sensing has been widely used for crop monitoring due to its high-resolution imaging and all-weather data acquisition capabilities. So, if the SAR backscatter response (σ0) and NDV
+
+---
+
+### 📄 Botanicals as a Source of Nanomaterial for Pest and Disease Management
+- **Authors:** Anwesha Sharma, Pranab Dutta, M. Mahanta, Arti Kumari
+- **Year:** 2023  |  **Venue:** Plant Health Archives  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/cca6327c605b945a811f19602271fefb8b42a666](https://www.semanticscholar.org/paper/cca6327c605b945a811f19602271fefb8b42a666)
+
+> Sustainable food production for a rapidly growing human population is one of the major challenges faced by the agriculture sector globally. Plant pests and pathogens cause significant reductions in crop production, with estimated global losses of 20-40% year-1, resulting in an increased use of environmentally toxic pesticides & fertilizers. The growing numbers of studies in nanotechnology are producing novel applications in many fields of science, especially in plant biotechnology and agriculture. Nanomaterials (NMs) have been used in breakdown of pollutants and reported worldwide for several 
+
+---
+
+### 📄 CSLSNet: A Compressed Domain Classification Model for Pest and Disease Images
+- **Authors:** Jing Hua, Tuan Zhu, Fendong Zou, Jiawen Zou
+- **Year:** 2023  |  **Venue:** Agronomy  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/9ac76655c76403c4d89a4d515b674fc7ae3f826e](https://www.semanticscholar.org/paper/9ac76655c76403c4d89a4d515b674fc7ae3f826e)
+
+> The management of global food security is one of the major issues of concern to the international community today. Ensuring the stability of food sources and preventing crop pests and diseases are crucial in maintaining social stability and promoting economic development. In modern agriculture, computer vision has emerged as a tool to aid in pest and disease prevention. For instance, when calculating the overall fruit yield of fruit trees and identifying and categorising pests and diseases, traditional neural networks tend to preserve duplicate data during image prediction. Traditional neural 
+
+---
+
 
 ## 📅 2022
 
@@ -4446,6 +5448,39 @@ METHODS: An overview of the status of food insecurity in SSA and associated fact
 
 ---
 
+### 📄 New Senior Editor for agronomy, agricultural systems modelling, and climate change appointed at food security
+- **Authors:** 
+- **Year:** 2022  |  **Venue:** Food Security  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/c7d583a70cbd4bd1afb2b0bdf4ee4dcda6fe5e9c](https://www.semanticscholar.org/paper/c7d583a70cbd4bd1afb2b0bdf4ee4dcda6fe5e9c)
+
+> No abstract available.
+
+---
+
+### 📄 Systematic Review of the Literature on Family Farming and the Social and Solidarity Economy in Brazil and Latin America
+- **Authors:** P. Mariosa, H. Pereira
+- **Year:** 2022  |  **Venue:** Global Journal of Science Frontier Research  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/e2375677332d260f07b7f6728410f966c24f3742](https://www.semanticscholar.org/paper/e2375677332d260f07b7f6728410f966c24f3742)
+
+> Concerned with the increase in hunger worldwide, as well as unemployment and the lack of equity in the distribution of income, the United Nations began to address genuinely Latin American scientific categories in its agendas, assemblies and task forces. The two main categories are Family Farming, with the recent establishment of the Family Farming decade (2019-2028) and the Social and Solidarity Economy as a tool for transposing the Sustainable Development Goals (SDGs) in the Territories. Together, these categories can be responsible for achieving the SDGs in 78% of the world's territory. Ther
+
+---
+
+### 📄 Role of Intercropping in Sustainable Insect-Pest Management: A Review
+- **Authors:** Mohd Salim Mir, A. Saxena, R. Kanth, W. Raja
+- **Year:** 2022  |  **Venue:** International Journal of Environment and Climate Change  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/218b119ea0e7584b33f9d4fdaffd0bf03437976e](https://www.semanticscholar.org/paper/218b119ea0e7584b33f9d4fdaffd0bf03437976e)
+
+> Reduced soil fertility and rising pest and disease pressures are contributing to the already serious problem of global food insecurity. Monoculture is the most labour and resource-intensive form of crop production around the globe. Unfortunately, monocultures are more vulnerable to pests, diseases, and weeds, so the expansion of this system is accompanied by a host of biological issues. Negative effects on the environment, human health, and ecosystem stability are all associated with monocropping because it relies so heavily on the use of chemical plant protection products of all generations o
+
+---
+
 
 ## 📅 2021
 
@@ -4537,6 +5572,50 @@ METHODS: An overview of the status of food insecurity in SSA and associated fact
 
 ---
 
+### 📄 Emerging responses to the COVID-19 crisis from family farming and the agroecology movement in Latin America – A rediscovery of food, farmers and collective action
+- **Authors:** P. Tittonell, M. Fernandez, V. E. Mujtar, P. Preiss
+- **Year:** 2021  |  **Venue:** Agricultural Systems  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/ed0bb1420b12c268ec4da5a93191d70ef515bf41](https://www.semanticscholar.org/paper/ed0bb1420b12c268ec4da5a93191d70ef515bf41)
+
+> CONTEXT In Latin America, the so-called informal sector associated with family farming and the agroecology movements were instrumental at coping with and adapting to the COVID-19 challenges. OBJECTIVE To assess the nature and extent of the early initiatives (first three months) deployed by this informal sector to cope with and adapt to the impacts of the COVID-19 pandemic on food production and consumption in several countries of the region. METHODS We used key used informant consultation (n = 168), an online survey (n = 125) and the detailed characterisation of regional case studies (n = 4). 
+
+---
+
+### 📄 High-resolution crop yield predictions from satellite-generated NDVI images
+- **Authors:** A. Shane
+- **Year:** 2021  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/7d70be5c80ef1b771447a46df9df5a37fdc7c6bb](https://www.semanticscholar.org/paper/7d70be5c80ef1b771447a46df9df5a37fdc7c6bb)
+
+> No abstract available.
+
+---
+
+### 📄 Impacts of Soil Moisture on Crop Health: A Remote Sensing Perspective
+- **Authors:** Haoteng Zhao, L. Di, Ziheng Sun, Pengyu Hao
+- **Year:** 2021  |  **Venue:** International Conference on Agro-Geoinformatics  |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/d838e236dec56dd6d6ca1e1341f30de736306509](https://www.semanticscholar.org/paper/d838e236dec56dd6d6ca1e1341f30de736306509)
+
+> Monitoring the effects of soil moisture on crop health is important for applications such as irrigation decision support, food security, precision agriculture as well as for more broadly understanding relationships between water and carbon cycles. In this study, we examine the relationships between soil moisture and crop health indicators, how they respond to each other on timescales from days to weeks. The satellite-derived indicators considered are the normalized difference vegetation index (NDVI) derived from reflectance obtained with moderately wide (20-40 nm) spectral bands in the visible
+
+---
+
+### 📄 Robotic agricultural instrument for automated extraction of nematode cysts and eggs from soil to improve integrated pest management
+- **Authors:** Christopher Legner, G. Tylka, Santosh Pandey
+- **Year:** 2021  |  **Venue:** Scientific Reports  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/6c5ff8314bcc016c0374f8e30c8f20066c9f0b8c](https://www.semanticscholar.org/paper/6c5ff8314bcc016c0374f8e30c8f20066c9f0b8c)
+
+> Soybeans are an important crop for global food security. Every year, soybean yields are reduced by numerous soybean diseases, particularly the soybean cyst nematode (SCN). It is difficult to visually identify the presence of SCN in the field, let alone its population densities or numbers, as there are no obvious aboveground disease symptoms. The only definitive way to assess SCN population densities is to directly extract the SCN cysts from soil and then extract the eggs from cysts and count them. Extraction is typically conducted in commercial soil analysis laboratories and university plant d
+
+---
+
 
 ## 📅 2020
 
@@ -4579,6 +5658,28 @@ METHODS: An overview of the status of food insecurity in SSA and associated fact
 - **Search Query:** `irrigation technology water scarcity agriculture`
 - **Fetched:** 2026-03-10
 - **Link:** [https://www.semanticscholar.org/paper/3c171c33f690ae49c3f7182a3c8f733968c5a93e](https://www.semanticscholar.org/paper/3c171c33f690ae49c3f7182a3c8f733968c5a93e)
+
+> No abstract available.
+
+---
+
+### 📄 MONITORING CROP HEALTH FROM SPACE; IMPROVING DROUGHT RESILIENCE FOR FARMERS IN KENYA
+- **Authors:** G. Deane, F. Vescovi, Onyango Ogembo
+- **Year:** 2020  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/58657223e119d8c9540ffb0852c32231d8aa62a1](https://www.semanticscholar.org/paper/58657223e119d8c9540ffb0852c32231d8aa62a1)
+
+> No abstract available.
+
+---
+
+### 📄 Integrated Pest and Disease Management in Greenhouse Ornamentals
+- **Authors:** M. Daughtrey, R. Buitenhuis
+- **Year:** 2020  |  **Venue:** Integrated Pest and Disease Management in Greenhouse Crops  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/cf7ed38eeae4e18624efcf402c8e768ea4c3acf2](https://www.semanticscholar.org/paper/cf7ed38eeae4e18624efcf402c8e768ea4c3acf2)
 
 > No abstract available.
 
@@ -4653,6 +5754,39 @@ METHODS: An overview of the status of food insecurity in SSA and associated fact
 
 ---
 
+### 📄 Ecuador - LATIN AMERICA AND CARIBBEAN- P151963- Ecuador - Sustainable Family Farming Modernization Project - Procurement Plan
+- **Authors:** G. Ortiz
+- **Year:** 2019  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/e6493dedd23b0fc437d6f52e2937ea2adb6d6dc8](https://www.semanticscholar.org/paper/e6493dedd23b0fc437d6f52e2937ea2adb6d6dc8)
+
+> No abstract available.
+
+---
+
+### 📄 Corn Height Estimation Using UAV for Yield Prediction and Crop Monitoring
+- **Authors:** Flavio Furukawa, K. Maruyama, Youlia Kamei Saito, M. Kaneko
+- **Year:** 2019  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `NDVI satellite crop health monitoring`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/d1bd6688af338ccf6cbfc0fbb0bb6216d933c98e](https://www.semanticscholar.org/paper/d1bd6688af338ccf6cbfc0fbb0bb6216d933c98e)
+
+> No abstract available.
+
+---
+
+### 📄 Monitoring and forecasting for disease and pest in crop based on WebGIS system
+- **Authors:** Yingying Dong, Fang Xu, Linyi Liu, Xiaoping Du
+- **Year:** 2019  |  **Venue:** International Conference on Agro-Geoinformatics  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/08c996d515f8754b4d58e2ea346f1c5d7adfb08a](https://www.semanticscholar.org/paper/08c996d515f8754b4d58e2ea346f1c5d7adfb08a)
+
+> Infected areas and damage levels due to pest and disease have been growing seriously according to the global climate changes. The government department of plant protection normally collects the crop pest and disease information by manual inspection, which is unable to provide timely and spatially continuous crop growth status and pest/ disease development over large areas. The manuscript aims to bring together and produce cutting edge research to provide crop pest and disease monitoring and forecasting information, integrating multi-source (Earth Observation-EO, meteorological, entomological a
+
+---
+
 
 ## 📅 2018
 
@@ -4686,6 +5820,28 @@ METHODS: An overview of the status of food insecurity in SSA and associated fact
 - **Link:** [https://www.semanticscholar.org/paper/30c993053152d7672c3160a2de441b59ba4ec219](https://www.semanticscholar.org/paper/30c993053152d7672c3160a2de441b59ba4ec219)
 
 > Harnessing beneficial microbes presents a promising strategy to optimize plant growth and agricultural sustainability. Little is known to which extent and how specifically soil and plant microbiomes can be manipulated through different cropping practices. Here, we investigated soil and wheat root microbial communities in a cropping system experiment consisting of conventional and organic managements, both with different tillage intensities. While microbial richness was marginally affected, we found pronounced cropping effects on community composition, which were specific for the respective mic
+
+---
+
+### 📄 Public policies to support agroecology in Latin America and the Caribbean
+- **Authors:** E. Sabourin, J. L. Coq, Sandrine Fréguin-Gresh, J. Marzin
+- **Year:** 2018  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/1a7ecde25bac80b1ee56a0b864004a5c93e697ba](https://www.semanticscholar.org/paper/1a7ecde25bac80b1ee56a0b864004a5c93e697ba)
+
+> Latin American agroecology proposes a transformation of conventional agri-food systems. It is driven by social movements that have succeeded in forming coalitions that have promoted its integration into public policies. These policies involve a range of instruments that are often embedded in programmes that also support organic agriculture and sustainable agriculture. However, while these two types of agriculture propose more ecological practices, they do not question the basis of the conventional agri-food system. The implementation of instruments to support agroecology therefore depends on t
+
+---
+
+### 📄 Role of Plant Clinics in addressing pest and disease management
+- **Authors:** R. Rajkumar, Nancy J. Anabel
+- **Year:** 2018  |  **Venue:** CSI Transactions on ICT  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/0b4aa4a8fe7901eb10f5114ad1f14bb7a2d0e724](https://www.semanticscholar.org/paper/0b4aa4a8fe7901eb10f5114ad1f14bb7a2d0e724)
+
+> No abstract available.
 
 ---
 
@@ -4768,6 +5924,28 @@ sites in West Africa” (see [1]). This research actio
 
 ---
 
+### 📄 Ecuador/LATIN AMERICA AND CARIBBEAN- P151963- Ecuador - Sustainable Family Farming Modernization Project - Procurement Plan
+- **Authors:** Raúl Sánchez
+- **Year:** 2017  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/7a0d06ff72fb0f7994bce5b1626a20099ac52e55](https://www.semanticscholar.org/paper/7a0d06ff72fb0f7994bce5b1626a20099ac52e55)
+
+> No abstract available.
+
+---
+
+### 📄 Application of Nanotechnology in Enhancement of Crop Productivity and Integrated Pest Management
+- **Authors:** Manish Kumar, T. N. Shamsi, Romana Parveen, S. Fatima
+- **Year:** 2017  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/9811256ba5537672d4a3a2d7ac1411e638759545](https://www.semanticscholar.org/paper/9811256ba5537672d4a3a2d7ac1411e638759545)
+
+> No abstract available.
+
+---
+
 
 ## 📅 2016
 
@@ -4838,6 +6016,17 @@ sites in West Africa” (see [1]). This research actio
 - **Search Query:** `irrigation technology water scarcity agriculture`
 - **Fetched:** 2026-03-10
 - **Link:** [https://www.semanticscholar.org/paper/19633b50bb64343511cbce3e86af329219d9ccfc](https://www.semanticscholar.org/paper/19633b50bb64343511cbce3e86af329219d9ccfc)
+
+> No abstract available.
+
+---
+
+### 📄 Valoración agroecológica de las micorrizas vesículo arbúsculares
+- **Authors:** J. García, A. T. García
+- **Year:** 2014  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/1a328d7c766a25c9e3a315bcd56f892964e88ca8](https://www.semanticscholar.org/paper/1a328d7c766a25c9e3a315bcd56f892964e88ca8)
 
 > No abstract available.
 
@@ -4935,6 +6124,20 @@ sites in West Africa” (see [1]). This research actio
 - **Search Query:** `organic farming biodiversity Europe soil health`
 - **Fetched:** 2026-03-10
 - **Link:** [https://www.semanticscholar.org/paper/274dd9280a33860198638d5dbd290484104f01d4](https://www.semanticscholar.org/paper/274dd9280a33860198638d5dbd290484104f01d4)
+
+> No abstract available.
+
+---
+
+
+## 📅 2004
+
+### 📄 Agroecology and Sustainable Rural Development in Latin America
+- **Authors:** M. Altieri
+- **Year:** 2004  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/e620aaddd22312d041d0b6a03c0111e206a8edff](https://www.semanticscholar.org/paper/e620aaddd22312d041d0b6a03c0111e206a8edff)
 
 > No abstract available.
 
