@@ -1,6 +1,6 @@
 # 🌾 AGRIMATE — Live Farming Research Findings
 
-> **Last Updated:** `2026-03-10T20:44:20.797350+00:00`  |  **Total Papers:** `748`
+> **Last Updated:** `2026-03-10T21:52:48.987540+00:00`  |  **Total Papers:** `814`
 
 ---
 
@@ -13,6 +13,17 @@
 - **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
 - **Fetched:** 2026-03-10
 - **Link:** [https://www.semanticscholar.org/paper/9ef45df80de8dd8c16ee5818f5af6a0eec766f37](https://www.semanticscholar.org/paper/9ef45df80de8dd8c16ee5818f5af6a0eec766f37)
+
+> No abstract available.
+
+---
+
+### 📄 CacaoFIT: the network of cacao ﬁeld trials in Latin America and its contribution to sustainable cacao farming in the region
+- **Authors:** V. D. Litskas, M. LaFevor, A. Ribeiro-Barros, Luis Orozco-Aguilar
+- **Year:** Unknown Year  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/7454ad6cb1a16468ac59357417b561b55a4b6646](https://www.semanticscholar.org/paper/7454ad6cb1a16468ac59357417b561b55a4b6646)
 
 > No abstract available.
 
@@ -4883,6 +4894,446 @@
 
 ---
 
+### 📄 AI expands high-quality urban flash flood forecasts globally
+- **Authors:** Oleg Zlydenko, Hadas Fester, Shmuel Fronman, Martin Gauch
+- **Year:** 2026  |  **Venue:** Unknown Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.31223/x5177s](https://doi.org/10.31223/x5177s)
+
+> No abstract available.
+
+---
+
+### 📄 AI-POWERED PERSONAL FARMING ASSISTANT
+- **Authors:** Mr. D.B. Mahankale, M.R. Shaikh, Mr. Sarthak Pagare, Mr. Sudarshan Parjane
+- **Year:** 2026  |  **Venue:** Zenodo (CERN European Organization for Nuclear Research)  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5281/zenodo.18918973](https://doi.org/10.5281/zenodo.18918973)
+
+> Agriculture is vital for human survival, yet farmers face many challenges like unpredictable weather, plant diseases, poor resource use, and a lack of timely expert advice. Traditional farming often depends on manual observations and slow decisions, which can hurt crop yields and increase financial risks. Limited access to technology makes it harder for farmers to adopt modern, data-driven methods. The AI-Powered Personal Farming Assistant aims to change traditional farming into a smart, tech-driven environment. It is a digital platform that uses artificial intelligence, image processing, and 
+
+---
+
+### 📄 Competitive Performance of Chenopodium quinoa Genotypes in Competition With Weed Species
+- **Authors:** Leandro Galon, Daniel Cristian Cavaletti, Lucas Tedesco, Rodrigo José Tonin
+- **Year:** 2026  |  **Venue:** Journal of Agricultural Science  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5539/jas.v18n4p10](https://doi.org/10.5539/jas.v18n4p10)
+
+> The study of competitive ability between crops and weeds is relevant for the adoption of more sustainable control methods, with lower costs for producers and less environmental impact. In this context, the objective of this work was to evaluate the competitive ability of quinoa genotypes (Q 1303, Q 1324, and Q 1331) in association with the weeds Euphorbia heterophylla and Urochloa plantaginea in different plant proportions within the association. The experiment was conducted in a randomized block design with four repetitions. The treatments were distributed in proportions (100:0, 75:25, 50:50,
+
+---
+
+### 📄 Integrative Analysis of Metabolic Signature and Phytohormone Response in Potato Under Heat, Drought and Salt Stresses
+- **Authors:** Salem M. Al-Amri
+- **Year:** 2026  |  **Venue:** Plants  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/plants15050844](https://doi.org/10.3390/plants15050844)
+
+> Climate change-driven abiotic stresses threaten global potato production, yet stress-specific adaptive mechanisms remain poorly defined. We demonstrate that heat, drought and salt stresses induce fundamentally distinct physiological and biochemical responses in potato plants. Photosynthetic performance and gas exchange showed stress-specific patterns, with heat stress (HS) maintaining elevated carbon metabolism, drought stress (DS) causing severe photosynthetic suppression and water deficit, while salt stress (SS) exhibited intermediate physiological impairment. Secondary metabolite (SM) profi
+
+---
+
+### 📄 Multi-class segmentation of land cover types for DigitalGlobe satellite imagery using deep hybrid UNet-ResNet-50 network optimised with metaheuristic particle swarm algorithm
+- **Authors:** Evans Annan Boah, Yakubu Issaka, Rebecca Arhinful, Abraham Aidoo Borsah
+- **Year:** 2026  |  **Venue:** Urban Informatics  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44212-025-00098-4](https://doi.org/10.1007/s44212-025-00098-4)
+
+> Abstract Satellite imagery plays a crucial role in exploring land use inventories of urban areas. However, accurate land cover classification from satellite imagery remains a longstanding challenge. With recent advancements in artificial intelligence technology, Deep Learning algorithms have achieved success in understanding satellite images by means of Convolutional Neural Networks (CNNs). While there has been a notable emphasis on satellite image analysis to improve the accuracy of land cover classifications, it is imperative to emphasise the significance of data-driven optimisation techniqu
+
+---
+
+### 📄 TENSILE STRENGTH AND STRAIN OF VACUUM INFUSION BANANA FIBER REINFORCED COMPOSITE USING EPOXY RESIN
+- **Authors:** Hasabo Abdelbagi Mohamed Ahmed, RAMADAN MOHMMED, Nevin Çiğdem Gürsoy, Pelin Altay
+- **Year:** 2026  |  **Venue:** Textile Science & Research Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.63456/tsrj-2-1-26](https://doi.org/10.63456/tsrj-2-1-26)
+
+> Banana fiber is regarded as one of the natural fibers suitable for spinning and weaving, owing to its adequate length, durability, environmental impact, abundance and fine texture. Its significance has been increasing, especially in line with the global environmental issues, where green composites are capturing the attention of researchers worldwide. Banana fibers are applicable in various areas of life, including clothing, home decor, and paneling. The use of panels is particularly favored in sectors like automotive, aerospace, construction, and other industrial applications. Additionally, ba
+
+---
+
+### 📄 Proficiency test on chemical and rheological analyses on wheat samples
+- **Authors:** Asuman Kaplan Evlice, Buket Çetiner, Oğuz Acar, Aliye Pehlivan
+- **Year:** 2026  |  **Venue:** Journal of Food Science and Technology  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s13197-026-06637-4](https://doi.org/10.1007/s13197-026-06637-4)
+
+> A proficiency test (PT) is a process for evaluating actual laboratory performance and is a requirement for accreditation to ISO/IEC 17025. A laboratory’s reported result for an analyte is compared with the “true” value of thatanalyte using statistical methods. PT is used to provide objective evidence of laboratories’ technical competence. This paper provides the findings from a proficiency testing scheme on wheat flour. Turkish Ministry of Agriculture and Forestry, Central Research Institute for Field Crops organized this proficiency testing scheme. First, five candidate reference materials of
+
+---
+
+### 📄 Differential effects of Phragmites australis versus Spartina alterniflora biochar on salt marsh soil improvement and carbon stabilization
+- **Authors:** Lin Xiaowen, Song Ge, Luo Xin, Lai Jianping
+- **Year:** 2026  |  **Venue:** Frontiers in Environmental Science  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fenvs.2026.1759974](https://doi.org/10.3389/fenvs.2026.1759974)
+
+> Biochar is an effective strategy for improving physicochemical properties of coastal salt marsh soil and enhancing carbon stabilization. In this study, Spartina alterniflora ( S . alterniflora ) and Phragmites australis ( P . australis ) were used as biochar materials. Four pyrolysis temperatures (350 °C, 450 °C, 550 °C, and 650 °C) and three addition amounts (1%, 2%, and 3%) were applied to explore the effects of the two biochars on the physicochemical properties and carbon components of salt marsh soil. The results showed that both S. alterniflora biochar (SBC) and P . australis biochar (PBC
+
+---
+
+### 📄 Natural genetic variation in calcium sensor genes as a novel resource for abiotic stress tolerance in crops
+- **Authors:** Abdul Kadir Issah, Yu Wang, Samuel Azupio, H. Y. Zhang
+- **Year:** 2026  |  **Venue:** Frontiers in Plant Science  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fpls.2026.1747177](https://doi.org/10.3389/fpls.2026.1747177)
+
+> Abiotic stress represents a significant and increasing challenge to global crop productivity and food security. Calcium (Ca 2+ ) signaling, initiated by specific “Ca 2+ signatures” and interpreted by sensor proteins such as calcium-dependent protein kinases (CDPKs/CPKs) and the CBL-CIPK network, functions as a key regulator of plant adaptive responses. However, contemporary elite cultivars exhibit a reduced genetic base, having forfeited numerous resilient alleles present in wild relatives and landraces during intensive, yield-focused breeding. This review synthesizes evidence demonstrating th
+
+---
+
+### 📄 NONWOVEN MEMBRANES FOR SEAWATER DESALINATION: STRUCTURAL DESIGN, FUNCTIONALIZATION STRATEGIES, AND SYSTEM- LEVEL PERFORMANCE
+- **Authors:** Hanying Zhou, Jilong Wang, Lihua Lou
+- **Year:** 2026  |  **Venue:** Textile Science & Research Journal  |  **Source:** `OpenAlex`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.63456/tsrj-2-1-37](https://doi.org/10.63456/tsrj-2-1-37)
+
+> Nonwoven materials, characterized by high porosity, tunable fiber architecture, robust mechanical strength, and versatile surface functionalizability, have emerged as highly promising platforms for next-generation seawater desalination. This review comprehensively examines the structural design strategies and performance-regulation mechanisms of nonwoven membranes across major desalination technologies, including reverse osmosis (RO), forward osmosis (FO), membrane distillation (MD), and solar-driven interfacial evaporation (SIE). Particular emphasis is placed on the synergistic influence of f
+
+---
+
+### 📄 Mapping the literature on alternative food systems in the global South. A scoping review
+- **Authors:** Esperanza Arnés, Tanya Zerbian
+- **Year:** 2026  |  **Venue:** Journal of Rural Studies  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1016/j.jrurstud.2026.104111](https://doi.org/10.1016/j.jrurstud.2026.104111)
+
+> Alternative food systems (AFSs) encompassing diverse initiatives, networks, and practices that seek to reconfigure food system relationships and operations have received heightened academic attention in the last decades. However, research in the Global South (GS) is more recent, and a systematic synthesis of their functioning, potentials, and limitations is still lacking. Following JBI methodology, this scoping review addresses this gap by mapping and analyzing peer-reviewed literature on AFSs in diverse GS contexts, identifying patterns in the literature and characterizing the dimensions and 
+
+---
+
+### 📄 Analyzing policy discourse for agroecological possibilities: a theoretical and methodological contribution
+- **Authors:** Lia Kelinsky-Jones, Colin Anderson
+- **Year:** 2026  |  **Venue:** Agriculture and Human Values  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s10460-026-10866-w](https://doi.org/10.1007/s10460-026-10866-w)
+
+> With more organizations committing their policies to sustainable and inclusive agricultural development, it becomes important to understand the underlying meaning, politics, and intentions that underpin these policy goals. Agroecology offers a comprehensive agenda for transforming the food system toward more equitable, sustainable, and self-reliant communities. Food system development discourse appears to mediate agroecological possibilities, yet we lack methodological and theoretical approaches through which to evaluate this. With this research, we combined Critical Discourse Analysis (CDA) w
+
+---
+
+### 📄 Governance of Genetic Resources and Traditional Agricultural Knowledge in Colombia: A Food Sovereignty Approach
+- **Authors:** Iván Vargas-Chaves, José López-Oliva, Mauricio Luna-Galván
+- **Year:** 2026  |  **Venue:** Pensamiento Americano  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.21803/penamer.19.39.1010](https://doi.org/10.21803/penamer.19.39.1010)
+
+> Introduction: Although food sovereignty depends largely on control of agrobiodiversity and traditional knowledge, Colombia faces significant threats, such as biodiversity loss, dependence on commercial seeds, and unregulated bioprospecting. Objective: This article analyzes the relationship between genetic resource governance and food sovereignty in Colombia. Methodology: Through qualitative documentary analysis, this research evaluates how current agricultural policies and regulatory frameworks impact genetic diversity and the country’s ability to achieve autonomous food security. Results: The
+
+---
+
+### 📄 Measuring well-being in agroecological food systems: a multi-scale framework for sustainability indicators
+- **Authors:** Pedro Lopez-Merino, Valerie J. Stull, Michael G.H. Bell, Kevin M. Cloninger
+- **Year:** 2026  |  **Venue:** Frontiers in Sustainable Food Systems  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fsufs.2026.1757486](https://doi.org/10.3389/fsufs.2026.1757486)
+
+> This article introduces a flexible, multi-scale framework for assessing sustainability in agroecological food systems that explicitly incorporates indicators of biopsychosocial well-being across the levels of individuals, communities and institutions, and economics and ecologies. We seek to operationalize the interactive relationship between biopsychosocial health and sustainability, and argue that well-being constitutes a critical service that underpins the resilience and long-term viability of food systems. Our proposed framework bridges psychological, social, and ecological sciences, levera
+
+---
+
+### 📄 From tradition to sustainability: Toraja Arabica coffee as heritage, conservation practice, and source of livelihood
+- **Authors:** A. Nixia Tenriawaru, Rahim Darma, B. Nishanta, Nolila Mohd Nawi
+- **Year:** 2026  |  **Venue:** Frontiers in Human Dynamics  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fhumd.2026.1781875](https://doi.org/10.3389/fhumd.2026.1781875)
+
+> Toraja Arabica coffee is a globally renowned specialty product that is valued for its unique taste, cultural heritage, and ecological significance. Despite its premium reputation, the sector faces persistent challenges, such as low productivity, weak infrastructure, price volatility, and dependence on middlemen, which limit farmers’ bargaining power and income. Additionally, heritage branding risks reducing rich cultural traditions to mere marketing, while ecological pressures threaten the fragile highland ecosystems. This study explores the transition of Toraja coffee “from tradition to susta
+
+---
+
+### 📄 Mapping the Evidence on Food Security Outcomes and Initiatives Among Climate Refugees: A Scoping Review
+- **Authors:** Odette Wills, MacKenzie Kerr, Mohammad Reza Pakravan-Charvadeh, Zoe Longworth
+- **Year:** 2026  |  **Venue:** Foods  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/foods15040777](https://doi.org/10.3390/foods15040777)
+
+> The increasing severity of climate change poses profound challenges to global food security, particularly affecting vulnerable populations such as migrants and refugees. This scoping review examines the nexus between climate change, food security, and migration, focusing on the impacts and responses within affected communities. Guided by the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR), this review synthesized literature across multiple databases, including Ovid MEDLINE, Embase, Global Health, Public Health, Web of Science, and P
+
+---
+
+### 📄 From labels to land: information acquisition and precautionary behaviors of pesticide use in India
+- **Authors:** Pritam Mitra, Samir Huseynov, Ruiqing Miao
+- **Year:** 2026  |  **Venue:** Agriculture and Human Values  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s10460-026-10852-2](https://doi.org/10.1007/s10460-026-10852-2)
+
+> Abstract This study examines pesticide use among Indian farmers, focusing on information acquisition and precautionary behaviors during pesticide purchase and use. Using qualitative and quantitative data, the findings reveal widespread misuse of chemical pesticides, driven by seller influence, credit dependence, behavioral inertia, and limited comprehension of label information. Many farmers rarely read dosage instructions or recognize toxicity, leading to improper application. Discomfort with protective gear and low awareness of health risks further heighten their vulnerability. These practic
+
+---
+
+### 📄 Resilience of the agri-food system of quesillo: tensions and benefits of its transformation
+- **Authors:** Fernando Adrihel Sarubbi-Baltazar, Maria del Rosario Herrera-Rivera, José Carmen Morales-Sala, Cecilia Hernández-Ramírez
+- **Year:** 2026  |  **Venue:** Frontiers in Sustainable Food Systems  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fsufs.2026.1783081](https://doi.org/10.3389/fsufs.2026.1783081)
+
+> Food security and resilient agri-food systems are usually linked to large-scale production, advanced technology, and uniform supply chains. Yet, these methods often miss the important role of artisanal agri-food systems in daily food supply, supporting rural communities, and building resilience based on local roots. This article suggests that the strength of artisanal systems mainly comes from how territorial identity, governance, and market recognition work together. Using the case of the artisanal quesillo agri-food system in Oaxaca, Mexico, this article analyzes the main structural tensions
+
+---
+
+### 📄 Integración de Prácticas Agrícolas Sostenibles para la Gestión Ambiental en Pequeñas Fincas
+- **Authors:** Jose Asunción Aguero, Ximena Judith Galeano Graupera
+- **Year:** 2026  |  **Venue:** Revista sobre estudios e investigaciones del saber académico.  |  **Source:** `OpenAlex`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.70833/rseisa20item758](https://doi.org/10.70833/rseisa20item758)
+
+> This study examines the environmental impacts of agricultural and livestock practices on small-scale farms, emphasizing the urgent need for sustainable natural resource management in rural areas to balance food production with ecosystem preservation. Using a systematic literature review following the PRISMA guidelines, we critically examined peer-reviewed articles published between 2010 and 2025 from major scientific databases. The analysis explores how different production systems contribute to environmental degradation (e.g., soil depletion, water pollution, biodiversity loss) and identifies
+
+---
+
+### 📄 Propelling drones as an avenue for sustainable governance among vulnerable coastal Small-Scale Fisheries (SSF) communities: an evidence-based study
+- **Authors:** Isaac Lukambagire, Baker Matovu, Amabile Manianga, Rao R. Bhavani
+- **Year:** 2026  |  **Venue:** Anthropocene Coasts  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s44218-025-00098-6](https://doi.org/10.1007/s44218-025-00098-6)
+
+> Abstract The importance of small-scale fisheries (SSF) for sustainable livelihoods and fish supply chains, especially in the global south, cannot be underestimated. However, in fisheries management, the role of small-scale fisherfolk is increasingly sidelined compared to that of commercial fisherfolk. With the increasing environmental shocks and human-induced pressures that have led to stock declines, novel approaches toward sustainable fisheries practices are needed. Emerging technologies, such as drones, are being proposed as a bridge to this in several regions. However, among SSF, drone app
+
+---
+
+### 📄 Bridging policy gaps in climate-resilient water and sanitation governance: Critical analysis and reform pathways for South Africa’s Eastern Cape province
+- **Authors:** Anita Shologu, Rozenda Hendrickse
+- **Year:** 2026  |  **Venue:** International Journal of Business Ecosystem and Strategy (2687-2293)  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.36096/ijbes.v8i1.1115](https://doi.org/10.36096/ijbes.v8i1.1115)
+
+> This study rigorously analysed policy deficiencies and structural vulnerabilities in climate-resilient water and sanitation governance in the Eastern Cape Province of South Africa. The research employed a qualitative approach, utilising semi-structured interviews with fifteen purposefully selected stakeholders, comprising municipal water technicians, engineers, planners, national and provincial authorities, and civil society representatives. The investigation examined the interaction between climate-induced pressures—such as droughts, floods, and rainfall variability—and governance deficiencie
+
+---
+
+### 📄 Smart Solutions for Small Ruminants: The Role of Artificial Intelligence (AI) and Precision Livestock Farming in Smallholder Goat Husbandry
+- **Authors:** Nelly Kichamu, Putri Kusuma Astuti, Szilvia Kusza
+- **Year:** 2026  |  **Venue:** AgriEngineering  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriengineering8030103](https://doi.org/10.3390/agriengineering8030103)
+
+> Goats are important livestock species in most rural households and were amongst the first species to be domesticated. Despite this, their production is based on extensive systems, exposing them to numerous challenges affecting their productivity. This review examines the applications of precision livestock farming (PLF) and AI-driven technologies in goat management, focusing on their impacts on productivity, welfare, genetic potential, health monitoring, feeding efficiency and sustainability outcomes and identifying challenges for their adoption in smallholder and extensive systems. Unlike pre
+
+---
+
+### 📄 Earthquakes and Landslides Preparedness Planning in Kenya
+- **Authors:** Dr. Adan.A. Tawane
+- **Year:** 2026  |  **Venue:** International Journal of Latest Technology in Engineering Management & Applied Science  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.51583/ijltemas.2026.15020000045](https://doi.org/10.51583/ijltemas.2026.15020000045)
+
+> Kenya faces significant seismic and landslide risks due to its location along the East African Rift System. Historical earthquakes, such as the 1928 Subukia event (magnitude 6.9), have caused widespread damage, and recent deadly landslides, including the 2019 West Pokot disaster, have resulted in over 70 fatalities and the displacement of thousands. The study employs a comprehensive analytical framework encompassing vulnerability assessment, risk assessment, preparedness measures, mitigation strategies, response mechanisms, and rehabilitation protocols. A vulnerability matrix identifies reside
+
+---
+
+### 📄 Agricultural Behaviors of Maize Producers in Response to Climate Variability in the District of Banyo (Adamawa Region, Cameroon)
+- **Authors:** Aminetou Ayiagnigni, Thierry Gaïtan Tchuenga Seutchueng, Mesmin Tchindjang
+- **Year:** 2026  |  **Venue:** Journal of Agricultural Science  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.5539/jas.v18n4p52](https://doi.org/10.5539/jas.v18n4p52)
+
+> Maize production, a strategic food crop for food security and rural incomes in Cameroon, is increasingly threatened by climate change. The main objective is to assess the extent to which farmers&amp;rsquo; adaptive behaviors contribute to strengthening the resilience of family farms in the Banyo subdivision of the Adamawa region. The methodological approach combined a literature review with a field survey conducted among 234 maize producers. Data analysis revealed that more than 80% of farmers adjust their cropping calendar, delaying or advancing sowing dates to cope with prolonged droughts at
+
+---
+
+### 📄 Role of insect farming as a sustainable approach for global food security and its therapeutic applications
+- **Authors:** Fareha Rayeen, Pragya Gupta, Manikant Tripathi, Neelam Pathak
+- **Year:** 2026  |  **Venue:** Exploration of Foods and Foodomics  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.37349/eff.2026.1010120](https://doi.org/10.37349/eff.2026.1010120)
+
+> Across all regions, in light of climate change and other global crises, accelerating the food systems transformation necessitates numerous adjustments at all levels. Insect culturing has drawn attention for its potential economic benefits and offers one of the viable approaches to overcome the challenges of global food insecurity and the requirement for medicines. Millions of people around the world depend on insects as an alternate food source. The aim of the current work was to explore the new source of functional food for global food insecurity and applications of bioactive compounds presen
+
+---
+
+### 📄 Effects of Anthropogenic Disturbance on the Biophysical Features of a Tropical Inland Valley Wetland
+- **Authors:** Rebecca Gimbo, John Bosco Mukundi, David Mwehia Mburu, John Stephen Balirwa
+- **Year:** 2026  |  **Venue:** East African Journal of Environment and Natural Resources  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.37284/eajenr.9.1.4619](https://doi.org/10.37284/eajenr.9.1.4619)
+
+> Wetlands provide a wide range of ecosystem functions and services. However, anthropogenic activities in wetlands have led to changes in biophysical attributes that are rarely investigated, especially in the tropical inland valley wetlands (IVWs), likely due to their small sizes. The major objective of the study was to assess the effects of anthropogenic activities on Nalwekomba IVW (Uganda) biophysical features. This was achieved through the use of scores for impacts of three categories of human disturbances at 13 sites to obtain stress index scores and relative disturbance levels, in addition
+
+---
+
+### 📄 Impact of globalization, agricultural and renewable energy production on carbon emissions: insights from a novel atmospheric metric in Bangladesh
+- **Authors:** Farhana Akter, Qiaosheng Wu, Jean Pierre Namahoro, Jean-Claude Malela-Majika
+- **Year:** 2026  |  **Venue:** Frontiers in Environmental Science  |  **Source:** `OpenAlex`
+- **Search Query:** `climate smart agriculture Africa food security`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fenvs.2025.1711511](https://doi.org/10.3389/fenvs.2025.1711511)
+
+> This study explores how globalization, renewable energy consumption, and governance interact to influence carbon dioxide (CO 2 ) emissions in Bangladesh from 1990 to 2022. Using the autoregressive distributed lag (ARDL) bounds testing framework alongside FMOLS and DOLS estimators, the analysis reveals that renewable energy consumption exerts a significant long-run abatement effect, while globalization and foreign direct investment display a non-linear relationship with emissions. A renewable-energy penetration threshold of approximately 38%–50% marks the point beyond which CO 2 emissions begin
+
+---
+
+### 📄 A preliminary field-based assessment of greenhouse gas emissions from prawn aquaculture ponds in Bangladesh: effects of farm management and water quality
+- **Authors:** Md. Abul Bashar, Richard Heal, Md. Zahid Hasan, Abdullah Al Rakib
+- **Year:** 2026  |  **Venue:** Aquaculture International  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s10499-026-02502-5](https://doi.org/10.1007/s10499-026-02502-5)
+
+> Abstract Greenhouse gas (GHG) emissions from coastal aquaculture are an emerging environmental concern, with implications for ecosystem sustainability and climate mitigation. In this preliminary field-based study, we quantified carbon dioxide (CO 2 ), methane (CH 4 ), and nitrous dioxide (N 2 O) fluxes from 35 randomly selected prawn farms in coastal Bangladesh, at a single time point using the floating chamber method, with concurrent water quality monitoring and farm management surveys, to identify key factors influencing in-pond GHG emissions. Extensive farming systems showed a higher CO 2 e
+
+---
+
+### 📄 Stakeholder-Driven Circular Agriculture Transformation: Environmental, Economic, and Social Value Creation Through Ecological Innovation in Fuyang, China
+- **Authors:** Hyun-Kyung Woo, Sang-Hoon Woo, Seong-Woo Woo, Da-Young Woo
+- **Year:** 2026  |  **Venue:** Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/su18052624](https://doi.org/10.3390/su18052624)
+
+> The circular economy paradigm offers a critical framework for addressing agricultural sustainability challenges, yet limited empirical evidence exists regarding how ecological innovations create simultaneous value across environmental, economic, and social dimensions. This study examines stakeholder value creation mechanisms through a 200-day longitudinal case study (March–October 2025) of Fuyang, China’s ecological transformation utilizing exciton-mineral technology for livestock waste valorization. The mixed-methods approach combined environmental monitoring, economic performance data, socia
+
+---
+
+### 📄 Intra-Household Decision-Making and Labor Dynamics in Diversified Cereal–Legume Cropping Systems in Northern Tanzania
+- **Authors:** Michael Kinyua, Franklin Mairura, Sabine Homann-Tui, Monicah Mucheru-Muna
+- **Year:** 2026  |  **Venue:** Agriculture  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/agriculture16050616](https://doi.org/10.3390/agriculture16050616)
+
+> This study examined associations between two strip-cropping innovations, cereal–legume (Mbili-Mbili) and legume–legume (doubled-up legume, DUL), and intra-household decision-making, labor allocation, and control over production benefits among smallholder farmers in Babati, northern Tanzania. Household survey data were collected from 157 households using a multi-stage cluster sampling approach, capturing variation by gender, age groups, and household characteristics. Across technologies, households were predominantly male-headed (91.7%), with men comprising 71.3% of respondents and managing 66.
+
+---
+
+### 📄 Integrated effects of vermicompost and town refuse on growth and nutritional status of onion cultivated in calcareous soil
+- **Authors:** Elham A. Badr, Saied El Sayed, Magda H. Mohamed
+- **Year:** 2026  |  **Venue:** Scientific Reports  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1038/s41598-026-38173-8](https://doi.org/10.1038/s41598-026-38173-8)
+
+> This study investigates the influence of organic amendments vermicompost and town refuse on the growth parameters, nutrient uptake, and biochemical quality of onion (Allium cepa L) grown in calcareous soils. A pot experiment was carried out at Burg El-Arab City, Alex, Egypt. By using three levels (10, 15, and 20 ton fed-1) of both amendments compared to a non-treated control. Results indicated that the application of vermicompost, particularly at 20 ton fed-1 significantly enhanced chlorophyll a, b and carotene levels (0.086, 0.036 and 0.131mg g-1 FW) as well as growth indicators such as plant
+
+---
+
+### 📄 Operational Performance of Aquavoltaics Under Different Stakeholder Cooperation Schemes: Evidence from White Shrimp Aquaculture in Taiwan
+- **Authors:** Bo-Ying Chen, Po-Lin Huang, Yen-Lung Hou, Farok Afero
+- **Year:** 2026  |  **Venue:** Fishes  |  **Source:** `OpenAlex`
+- **Search Query:** `smallholder farming Asia water management`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/fishes11030150](https://doi.org/10.3390/fishes11030150)
+
+> Aquaculture faces rising climate-change risks, while photovoltaic power generation requires substantial land resources, underscoring the need for multifunctional land use in the energy transition. Aquavoltaics—combining aquaculture with solar power—has emerged, and its success depends on stakeholder cooperation. Using white shrimp aquaculture in Taiwan as a case study, this study examines four cooperation schemes—a sole-investment scheme, a photovoltaic-led leasing scheme, a landowner lease-back scheme, and a separated aquaculture and photovoltaic operation scheme—across six aquavoltaic types.
+
+---
+
+### 📄 Accounting for the circular economy through interdisciplinary lenses – a systematic review and research agenda
+- **Authors:** Upekha Atupola, Sanjaya Kuruppu, Wei Qian, S. Kim
+- **Year:** 2026  |  **Venue:** Meditari Accountancy Research  |  **Source:** `OpenAlex`
+- **Search Query:** `organic farming biodiversity Europe soil health`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1108/medar-12-2025-3507](https://doi.org/10.1108/medar-12-2025-3507)
+
+> Purpose The purpose of this paper is to systematically review accounting and non-accounting literature related to accounting for the circular economy (CE) and develop a research agenda that advances and promotes interdisciplinary research. Design/methodology/approach A systematic literature review is conducted in accordance with PRISMA guidelines. This is followed by a comprehensive content analysis examining how CE is represented in both accounting and non-accounting journals. The study uses a conceptual framing informed by knowledge boundaries to understand conceptual fragmentation and bound
+
+---
+
+### 📄 Agri-Environmental Measures and the Digital Transition in Arable Farming: A Case Study from Romania
+- **Authors:** Maria Magdalena TUREK RAHOVEANU, Adrian Turek Rahoveanu, Daniel-George Șerban, Alina Gabriela Cioromele
+- **Year:** 2026  |  **Venue:** Land  |  **Source:** `OpenAlex`
+- **Search Query:** `organic farming biodiversity Europe soil health`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/land15030434](https://doi.org/10.3390/land15030434)
+
+> This study explores the effects of applying agri-environmental measures and digitalization on cereal farms in Dunărea de Jos Basin, Romania. Through structured interviews with 40 wheat producers, complemented by field observations and data analysis, effects are identified in highlighting planning, data evaluation and approximation to European environmental requirements. Wheat productivity and input efficiency are investigated in partially technologically advanced farms compared to poorly technologically advanced farms. Regression is used in the relationship between average wheat production and
+
+---
+
+### 📄 Reframing Clean Beauty: Governance, Transparency, and Biodiversity-Related Practices in the Global Cosmetics Sector with Implications for Japan
+- **Authors:** Miyuki Nagai
+- **Year:** 2026  |  **Venue:** Journal of Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `organic farming biodiversity Europe soil health`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.55845/jos-2026-21104](https://doi.org/10.55845/jos-2026-21104)
+
+> The rapid global expansion of clean beauty, which relies extensively on natural capital, raises questions about its environmental impact, particularly in relation to biodiversity conservation. While the industrial demand for natural ingredients continues to rise, empirical assessments linking clean beauty practices and biodiversity outcomes remain limited. This study presents an exploratory, governance-oriented assessment of biodiversity-related practices among clean beauty brands, based on publicly available disclosures. This study develops a quantitative scoring framework for evaluating 10 m
+
+---
+
+### 📄 Ecological Profile of Three River Basins of the North of Portugal—A Review
+- **Authors:** Regina Lúcia Dalla Torre, Sara C. Antunes, José Catita, Olga Maria Lage
+- **Year:** 2026  |  **Venue:** Water  |  **Source:** `OpenAlex`
+- **Search Query:** `organic farming biodiversity Europe soil health`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/w18050637](https://doi.org/10.3390/w18050637)
+
+> Rivers are dynamic systems that flow from higher elevations to lowlands, eventually discharging into lakes, seas, or oceans, and play a key role in sustaining ecosystems and supporting human activities. River basin characterisation extends beyond the watercourse itself, encompassing land uses, tributaries and hydromorphological features that influence ecological processes. This review analyses three river basins in northern Portugal, Ave, Douro, and Vouga, using a holistic characterisation approach. These basins represent contrasting river systems in terms of size, hydrological regulation and 
+
+---
+
+### 📄 Exploring lactic acid bacteria from fresh fruits, vegetables, and edible flowers: from biodiversity valorisation to food applications
+- **Authors:** Ester Presutto, Vittorio Capozzi, Maria Chiara, Djamel Drider
+- **Year:** 2026  |  **Venue:** World Journal of Microbiology and Biotechnology  |  **Source:** `OpenAlex`
+- **Search Query:** `organic farming biodiversity Europe soil health`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1007/s11274-026-04872-7](https://doi.org/10.1007/s11274-026-04872-7)
+
+> Fresh plant matrices of food interest host complex microbial communities. Within these microbial ecosystems, biochemical and ecological interactions are relevant in contributing to food quality and safety. In particular, lactic acid bacteria (LAB) play key roles in fermentative processes, bioprotection, and bioactivity. Despite their well-recognised importance in food biotechnology, the ecological dynamics and metabolic versatility of LAB in plant-based environments are still poorly explored. Understanding their diversity and how they adapt to matrix-specific stressors is crucial for identifyi
+
+---
+
+### 📄 Optimizing phosphorus management in wheat-based intercropping systems for enhanced productivity, profitability, energy efficiency, and soil health in Indian Inceptisols
+- **Authors:** SHYAM KARAN, Y. V. Singh, Anchal Dass, Amit Kumar
+- **Year:** 2026  |  **Venue:** Frontiers in Sustainable Food Systems  |  **Source:** `OpenAlex`
+- **Search Query:** `organic farming biodiversity Europe soil health`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3389/fsufs.2026.1761977](https://doi.org/10.3389/fsufs.2026.1761977)
+
+> Phosphorus deficiency in Indian Inceptisols limits crop production due to high fixation, low availability and poor fertilizer use efficiency. Even with recommended fertilizer dose, much of the applied P becomes unavailable, make strategies that enhance its solubility, recycling and plant uptakes are essential. Wheat-mustard intercropping systems improves P use efficiency through complementary root distribution and enhanced biological activity while phosphorus solubilizing bacteria (PSB), rock phosphate and organic manure further increase P availability and soil health. Therefore, a two-year fa
+
+---
+
+### 📄 Effect of Different Set-Aside Management Systems on Soil Biological Fertility and Biodiversity of Bacterial and Microarthropod Communities
+- **Authors:** Arturo Fabiani, Stefano Mocali, PAOLO TOCCAFONDI, Sara Del Duca
+- **Year:** 2026  |  **Venue:** Sustainability  |  **Source:** `OpenAlex`
+- **Search Query:** `organic farming biodiversity Europe soil health`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.3390/su18052575](https://doi.org/10.3390/su18052575)
+
+> Soil health and agricultural sustainability are primarily threatened by organic matter depletion and a decline in biodiversity. To mitigate these processes, managing set-aside systems remains a simple practice to preserve biodiversity and functions essential to soil fertility. The objective of this study was to evaluate the effectiveness of medium-term set-aside management in preventing soil degradation using changes in microbial and microarthropod communities, both of which are involved in organic matter degradation. Three different set-aside managements, with mowing (May or July) and without
+
+---
+
+### 📄 The use of humanure for cereal production under conventional and regenerative farming models - findings from a three-year grassland-to-arable transition
+- **Authors:** Katie Allen, Effie Papargyropoulou, Ruth N. Wade, Barbara Evans
+- **Year:** 2026  |  **Venue:** PLoS ONE  |  **Source:** `OpenAlex`
+- **Search Query:** `organic farming biodiversity Europe soil health`
+- **Fetched:** 2026-03-10
+- **Link:** [https://doi.org/10.1371/journal.pone.0335625](https://doi.org/10.1371/journal.pone.0335625)
+
+> Humanure (human excrement recycled for agricultural use) offers a low-cost, simple treatment option for dry sanitation systems, and a promising organic amendment for crop production. However, no long-term studies have evaluated its impacts under different land management approaches. This study presents findings from a three-year field trial (2021-2024) in West Yorkshire, UK, assessing the effects of humanure on cereal crop yield and soil properties under conventional and regenerative farming practices of a former grassland. The experiment used a semi-randomised block design with two management
+
+---
+
 
 ## 📅 2025
 
@@ -6427,6 +6878,62 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 
 ---
 
+### 📄 Precision agriculture for improving crop yield predictions: a literature review
+- **Authors:** Sarmistha Saha, Olga D. Kucher, Aleksandra O Utkina, N. Rebouh
+- **Year:** 2025  |  **Venue:** Frontiers in Agronomy  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/576f8e772cff43adc5fe42e9040df769431cf736](https://www.semanticscholar.org/paper/576f8e772cff43adc5fe42e9040df769431cf736)
+
+> Precision agriculture (PA) is a data-driven, technology-enabled farming management strategy that monitors, quantifies, and examines the requirements of specific crops and fields. A key aim of precision agricultural technologies is to optimize crop yield and quality, while also working to lower operating costs and minimize environmental impact. This approach not only enhances productivity but also promotes sustainable farming practices. In PA, it is essential to leverage effective monitoring through sensing technologies, implement robust management information systems, and proactively address b
+
+---
+
+### 📄 Enhancing precision agriculture through cloud based transformative crop recommendation model
+- **Authors:** Gurpreet Singh, Sandeep Sharma
+- **Year:** 2025  |  **Venue:** Scientific Reports  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/1908f101a1936bc428a9825679aa313d7b5d0bc0](https://www.semanticscholar.org/paper/1908f101a1936bc428a9825679aa313d7b5d0bc0)
+
+> Modern agriculture relies more on technology to boost food production. It aims to improve both the quality and quantity of food. This paper introduces a novel TCRM (Transformative Crop Recommendation Model). It uses advanced machine learning and cloud platforms to give personalized crop recommendations. Unlike traditional methods, TCRM uses real-time data. It includes environmental and agronomic factors to optimize recommendations. The system has SMS alerts for remote farmers. It outperforms baseline algorithms like Logistic Regression, KNN(k-nearest neighbor), and AdaBoost. TCRM empowers farm
+
+---
+
+### 📄 Deep learning and computer vision in plant disease detection: a comprehensive review of techniques, models, and trends in precision agriculture
+- **Authors:** Abhishek Upadhyay, N. Chandel, Krishna Pratap Singh, S. Chakraborty
+- **Year:** 2025  |  **Venue:** Artificial Intelligence Review  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/5596e27d38f47e80b76ae133a0e5768840e1f249](https://www.semanticscholar.org/paper/5596e27d38f47e80b76ae133a0e5768840e1f249)
+
+> No abstract available.
+
+---
+
+### 📄 AI for Smart Farming: Machine Learning Models for Precision Crop Yield Prediction
+- **Authors:** R. Praveen, Meenakshi Maindola, Munugapati Bhavana, Ginni Nijhawan
+- **Year:** 2025  |  **Venue:** 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/63a8423b6957849a7da9cd16622eab820416d1fb](https://www.semanticscholar.org/paper/63a8423b6957849a7da9cd16622eab820416d1fb)
+
+> AI and other advanced technologies are gradually beginning to invade the agriculture sector to serve the increasing demand of the consumers for better methods of food production. A key component of precision agriculture, this work focuses on how to use machine learning models to predict crop yields with high accuracy. Specifically, the nature and volatility of the environmental context – such as the nature and quality of soils, as well as the climatic and water conditions – present a major challenge to the application of the conventional modeling approaches aimed at forecasting productive capa
+
+---
+
+### 📄 Optimizing Phosphorus Use in Tropical Soils for Sustainable Farming
+- **Authors:** P. Pavinato, P. E. Cipriano
+- **Year:** 2025  |  **Venue:** Soil Science Cases  |  **Source:** `SemanticScholar`
+- **Search Query:** `agroecology sustainable farming Latin America`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/bb2107f5f296469515f1ea24cdaa27814e4a98a9](https://www.semanticscholar.org/paper/bb2107f5f296469515f1ea24cdaa27814e4a98a9)
+
+> 
+ In tropical soils, P stands out as one of the most limiting nutrients for crop productivity, primarily due to its scarce availability by its rapid transformation in non-labile forms. Furthermore, the application of P-based fertilizers may not yield effective results, as this nutrient may quickly combine with soil minerals, making it difficult for plant roots to access. Strategies that maximize P utilization, including the use of solubilizing microorganisms, integrated soil management, and efficient fertilizer application, are crucial for promoting a sustainable use of nutrients in agricultur
+
+---
+
 
 ## 📅 2024
 
@@ -7090,6 +7597,116 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 
 ---
 
+### 📄 Enhancing Crop Yield Prediction with IoT and Machine Learning in Precision Agriculture
+- **Authors:** C. S. Manikandababu, V. Preethi, M.Yogesh Kanna, K. Vedhathiri
+- **Year:** 2024  |  **Venue:** 2024 International Conference on Advances in Computing, Communication and Applied Informatics (ACCAI)  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/f8ae18279858618b24bbbb8e9baef151bd5d0eac](https://www.semanticscholar.org/paper/f8ae18279858618b24bbbb8e9baef151bd5d0eac)
+
+> To improve agricultural production prediction in the context of precision agriculture, this research investigates the combination of machine learning algorithms with IoT technologies. Using cutting-edge technology, precision agriculture provides creative ways to meet the rising need for food production to feed a growing global population. IoT devices, such as sensors and drones, gather large volumes of data on crop health, temperature, humidity, and soil moisture. Accurate crop production projections are produced by processing this data using machine learning techniques. These algorithms can f
+
+---
+
+### 📄 A Review of Precision Irrigation Water-Saving Technology under Changing Climate for Enhancing Water Use Efficiency, Crop Yield, and Environmental Footprints
+- **Authors:** Imran Ali Lakhiar, Haofang Yan, Chuan Zhang, Guoqing Wang
+- **Year:** 2024  |  **Venue:** Agriculture  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/19abad76f905843a307276c098f4a0c1e750abe8](https://www.semanticscholar.org/paper/19abad76f905843a307276c098f4a0c1e750abe8)
+
+> Water is considered one of the vital natural resources and factors for performing short- and long-term agricultural practices on Earth. Meanwhile, globally, most of the available freshwater resources are utilized for irrigation purposes in agriculture. Currently, many world regions are facing extreme water shortage problems, which can worsen if not managed properly. In the literature, numerous methods and remedies are used to cope with the increasing global water crises. The use of precision irrigation water-saving systems (PISs) for efficient water management under climate change is one of th
+
+---
+
+### 📄 Machine Learning for Enhanced Crop Management and Optimization of Yield in Precision Agriculture
+- **Authors:** Lahari Bachu, Ashish Kandibanda, Nithin Grandhi, Durga Prasad Athina
+- **Year:** 2024  |  **Venue:** 2024 8th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/e812509a52e67f64e02d325fbc9aa6b2f9cda5cd](https://www.semanticscholar.org/paper/e812509a52e67f64e02d325fbc9aa6b2f9cda5cd)
+
+> Precision agriculture, utilizing technology to monitor and control crop growth and resource intake, is revolutionizing the agricultural sector. This research focuses on applying machine learning techniques to enhance decision-making in precision agriculture. By combining data from weather forecasts, soil sensors, and satellite imagery, the study aims to estimate crop health, soil characteristics, and yield results. Various machine learning models, including ensemble approaches, regression, classification, and clustering, were employed to analyze these complex datasets. Support vector regressio
+
+---
+
+### 📄 A Comprehensive Review of LiDAR Applications in Crop Management for Precision Agriculture
+- **Authors:** Sheikh Muhammad Farhan, Jianjun Yin, Zhijian Chen, Muhammad Sohail Memon
+- **Year:** 2024  |  **Venue:** Italian National Conference on Sensors  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/df4313429417b2e24db6b3f5ad150345ed6c317a](https://www.semanticscholar.org/paper/df4313429417b2e24db6b3f5ad150345ed6c317a)
+
+> Precision agriculture has revolutionized crop management and agricultural production, with LiDAR technology attracting significant interest among various technological advancements. This extensive review examines the various applications of LiDAR in precision agriculture, with a particular emphasis on its function in crop cultivation and harvests. The introduction provides an overview of precision agriculture, highlighting the need for effective agricultural management and the growing significance of LiDAR technology. The prospective advantages of LiDAR for increasing productivity, optimizing 
+
+---
+
+### 📄 XAI‐driven model for crop recommender system for use in precision agriculture
+- **Authors:** P. Srinivasu, Muhammad Fazal Ijaz, Marcin Woźniak
+- **Year:** 2024  |  **Venue:** International Conference on Climate Informatics  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/1b5e31cdaad616f42227578254cf74cbf3bdf245](https://www.semanticscholar.org/paper/1b5e31cdaad616f42227578254cf74cbf3bdf245)
+
+> Agriculture serves as the predominant driver of a country's economy, constituting the largest share of the nation's manpower. Most farmers are facing a problem in choosing the most appropriate crop that can yield better based on the environmental conditions and make profits for them. As a consequence of this, there will be a notable decline in their overall productivity. Precision agriculture has effectively resolved the issues encountered by farmers. Today's farmers may benefit from what's known as precision agriculture. This method takes into account local climate, soil type, and past crop y
+
+---
+
+### 📄 Exploring Artificial Intelligence and Machine Learning in Precision Agriculture: A Pathway to Improved Efficiency and Economic Outcomes in Crop Production
+- **Authors:** K. Polwaththa, S. Amarasinghe, A. Amarasinghe, A. Amarasinghe
+- **Year:** 2024  |  **Venue:** American Journal of Agricultural Science, Engineering and Technology  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/b1a10dacf474190910ccbe7092e8d3c81b3f1ec7](https://www.semanticscholar.org/paper/b1a10dacf474190910ccbe7092e8d3c81b3f1ec7)
+
+> This review analyzes secondary data from academic databases, research articles, and case studies to explore the role of new technologies for precision agriculture (PA) and investigates the value addition that Artificial Intelligence (AI) and Machine Learning (ML) provide to resource use, crop yield, and economic performance. Accordingly, the most of the key applications of AI in PA were related to crop yield prediction, disease detection, and effective water usage. Operating models through AI will analyze much data in real time, thus providing insight into informed decision making by farmers f
+
+---
+
+### 📄 Leveraging Cloud and Distributed Computing for Enhanced Precision Agriculture: A Yield Mapping Perspective
+- **Authors:** Raghavendra Sirigade
+- **Year:** 2024  |  **Venue:** International Journal for Research in Applied Science and Engineering Technology  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/55273d26819003289323a89fcf2d572b5944fc64](https://www.semanticscholar.org/paper/55273d26819003289323a89fcf2d572b5944fc64)
+
+> Abstract: This article explores the transformative impact of cloud and distributed computing technologies on precision agriculture, with a specific focus on enhancing yield mapping capabilities. Yield mapping, a critical component of modern farming, faces challenges such as data accuracy issues, data loss, edge effects, and temporal variability. The integration of cloud-based solutions and distributed computing addresses these challenges by facilitating the storage, processing, and analysis of large-scale agricultural datasets. Real-time processing and advanced analytics, powered by machine le
+
+---
+
+### 📄 Advancements in Utilizing Image-Analysis Technology for Crop-Yield Estimation
+- **Authors:** Feng Yu, Ming Wang, Jun Xiao, Qian Zhang
+- **Year:** 2024  |  **Venue:** Remote Sensing  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/a939d5fa32e657cf04c626f0a2daa387355cb1b2](https://www.semanticscholar.org/paper/a939d5fa32e657cf04c626f0a2daa387355cb1b2)
+
+> Yield calculation is an important link in modern precision agriculture that is an effective means to improve breeding efficiency and to adjust planting and marketing plans. With the continuous progress of artificial intelligence and sensing technology, yield-calculation schemes based on image-processing technology have many advantages such as high accuracy, low cost, and non-destructive calculation, and they have been favored by a large number of researchers. This article reviews the research progress of crop-yield calculation based on remote sensing images and visible light images, describes 
+
+---
+
+### 📄 Advancements in Precision Agriculture: Integrating Computer Vision for Intelligent Soil and Crop Monitoring in the Era of Artificial Intelligence
+- **Authors:** Jeffrey Obiri Boahen
+- **Year:** 2024  |  **Venue:** INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/513072c577d374b734a3bb0a4829d01b42bf2d81](https://www.semanticscholar.org/paper/513072c577d374b734a3bb0a4829d01b42bf2d81)
+
+> Precision Agriculture has witnessed significant advancements with the integration of computer vision and artificial intelligence (AI) technologies, marking a transformative era in modern farming practices. This research explores the synergies between computer vision and intelligent soil and crop monitoring in the context of precision agriculture. The study aims to contribute insights into the application of advanced technologies for optimizing agricultural processes, enhancing resource efficiency, and improving overall crop yield. Keywords— Precision Agriculture, Computer Vision, Artificial In
+
+---
+
+### 📄 DigiFarmer: Precision Agriculture Empowered by Machine Learning for Sustainable Crop Management
+- **Authors:** K. Patra, Arya Adesh Bhosle, Deepali Kothari, Tatwadarshi P. Nagarhalli
+- **Year:** 2024  |  **Venue:** 2024 2nd International Conference on Networking and Communications (ICNWC)  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/318e00320a92f674411ae876bb6f2cb39d9af22e](https://www.semanticscholar.org/paper/318e00320a92f674411ae876bb6f2cb39d9af22e)
+
+> In agriculture, the sector grapples with pressing challenges arising from climate change, water shortages, and pest infestations. Particularly affecting farmers in developing nations, these challenges amplify issues of food insecurity and poverty, necessitating innovative solutions for sustainable global agricultural progress. Addressing the complexities of climate variability, water scarcity, and pest outbreaks requires comprehensive tools and information. The absence of predictive insights intensifies crop losses and hampers overall profitability. In response, this research introduces DigiFa
+
+---
+
 
 ## 📅 2023
 
@@ -7478,6 +8095,83 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 
 ---
 
+### 📄 Crop yield prediction algorithm (CYPA) in precision agriculture based on IoT techniques and climate changes
+- **Authors:** Fatma M. Talaat
+- **Year:** 2023  |  **Venue:** Neural computing & applications (Print)  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/00fec7edf909505a95339a60f03a9977667bcf64](https://www.semanticscholar.org/paper/00fec7edf909505a95339a60f03a9977667bcf64)
+
+> Agriculture faces a significant challenge in predicting crop yields, a critical aspect of decision-making at international, regional, and local levels. Crop yield prediction utilizes soil, climatic, environmental, and crop traits extracted via decision support algorithms. This paper presents a novel approach, the Crop Yield Prediction Algorithm (CYPA), utilizing IoT techniques in precision agriculture. Crop yield simulations simplify the comprehension of cumulative impacts of field variables such as water and nutrient deficits, pests, and illnesses during the growing season. Big data databases
+
+---
+
+### 📄 Crop Yield Prediction: A Fusion of IoT and Machine Learning for Precision Agriculture
+- **Authors:** Arfanul Islam, Rashedul Arefin Ifty, Mohammad Abu Huraira Saim, Junaid Al Mahin
+- **Year:** 2023  |  **Venue:** 2023 26th International Conference on Computer and Information Technology (ICCIT)  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/6d28b9299421af4f5f4b874ec078206fb41516ca](https://www.semanticscholar.org/paper/6d28b9299421af4f5f4b874ec078206fb41516ca)
+
+> The countries of the Indian subcontinent are indeed very reliant on agriculture for their daily necessities. Among that country, the majority of agricultural production in Bangladesh is categorized as traditional subsistence farming. Rice, wheat, corn, legumes, fruits, vegetables, meat, fish, seafood, and dairy products are among the agricultural products manufactured in Bangladesh. The main staple food of Bangladesh is rice. The scarcity of arable land and natural resources emphasizes the significance of creating innovative agricultural technologies to improve productivity and satisfy future 
+
+---
+
+### 📄 Crop Yield Prediction: Robust Machine Learning Approaches for Precision Agriculture
+- **Authors:** Sarowar Morshed Shawon, Falguny Barua Ema, Asura Khanom Mahi, Md. Mohsin Sarker Raihan
+- **Year:** 2023  |  **Venue:** 2023 26th International Conference on Computer and Information Technology (ICCIT)  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/8f9be6650c5d7eb5b465e6748d4ddc014c792869](https://www.semanticscholar.org/paper/8f9be6650c5d7eb5b465e6748d4ddc014c792869)
+
+> Accurate crop yield predictions have become crucial for agriculture industries and governments to make intelligent crop management decisions and to guarantee food security. In today’s data driven world, machine learning has been successfully applied in crop yield prediction, helping to determine the appropriate crops to grow in a particular area and how to maximize their production during the crop's growing and reaping seasons. Despite progress in crop yield forecasting, further research is necessary. This work represents a significant advance for the field of Precision Agriculture (PA) and ha
+
+---
+
+### 📄 Advancing Crop Improvement Through CRISPR Technology in Precision Agriculture Trends-A Review
+- **Authors:** V. Sampath, N. Rangarajan, Sharanappa C. H., Mamoni Deori
+- **Year:** 2023  |  **Venue:** International Journal of Environment and Climate Change  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/d576cbea4bc1a89648f7e53e4c474d15cb40095f](https://www.semanticscholar.org/paper/d576cbea4bc1a89648f7e53e4c474d15cb40095f)
+
+> The advent of CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) technology has ushered in a new era in agricultural biotechnology, offering unprecedented opportunities for targeted genome editing and crop improvement. This review article presents a comprehensive examination of the advancements, applications, challenges, and future prospects of CRISPR technology within the context of precision agriculture. The integration of CRISPR with precision agriculture technologies signifies a major shift towards more efficient and sustainable farming practices, emphasizing the precise mo
+
+---
+
+### 📄 A Roadmap for Sustainable Disease, Pest, and Weed Management
+- **Authors:** F. Adusei, M. A. Adusei, B. Lartey
+- **Year:** 2023  |  **Venue:** IECAG 2023  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/34b6c3851787a7bbbd2b24ac9435fc47b5f40f2c](https://www.semanticscholar.org/paper/34b6c3851787a7bbbd2b24ac9435fc47b5f40f2c)
+
+> : Effective disease, pest, and weed control are essential for achieving sustainable agricultural practices. The ever-growing global population, coupled with the increasing demand for food, poses a signiﬁcant challenge to agriculture systems globally. To address this challenge sustainably, farmers must employ effective disease, pest, and weed control measures that minimize the negative impacts on the environment, human health, and biodiversity. This study investigates the impact of innovative control methods on agricultural productivity, focusing on 30 farmers (21 male and 9 female) in the Boso
+
+---
+
+### 📄 Bibliometric Analysis on the Impact of Climate Change on Crop Pest and Disease
+- **Authors:** Qiliang Yang, Tianmu Du, Na Li, Jiaping Liang
+- **Year:** 2023  |  **Venue:** Agronomy  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/55de623a5b6a704617a64a1bfd5ccc67da284963](https://www.semanticscholar.org/paper/55de623a5b6a704617a64a1bfd5ccc67da284963)
+
+> Affected by global warming, the frequency of crop pests and diseases have increased, causing huge losses to agricultural production. To better grasp the development and trends of research on the effects of climate change on crop pests and diseases, the literature on the impact of climate change on crop pests and diseases published from 1990 to 2021 in the Web of Science (WOS) core collection database was used. This study explores the literature characteristics and hotspot evolution through the bibliometric visualization analysis software COOC, VOSviewer, and CiteSpace, with a view to identifyi
+
+---
+
+### 📄 Unveiling the Genetic Symphony: Harnessing CRISPR-Cas Genome Editing for Effective Insect Pest Management
+- **Authors:** J. Komal, H. Desai, I. Samal, A. Mastinu
+- **Year:** 2023  |  **Venue:** Plants  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/a15c9698a5d0a6cb16ca39b2c3da749cef66ab13](https://www.semanticscholar.org/paper/a15c9698a5d0a6cb16ca39b2c3da749cef66ab13)
+
+> Phytophagous insects pose a significant threat to global crop yield and food security. The need for increased agricultural output while reducing dependence on harmful synthetic insecticides necessitates the implementation of innovative methods. The utilization of CRISPR-Cas (Clustered regularly interspaced short palindromic repeats) technology to develop insect pest-resistant plants is believed to be a highly effective approach in reducing production expenses and enhancing the profitability of farms. Insect genome research provides vital insights into gene functions, allowing for a better know
+
+---
+
 
 ## 📅 2022
 
@@ -7626,6 +8320,17 @@ METHODS: An overview of the status of food insecurity in SSA and associated fact
 
 ---
 
+### 📄 Determinants of precision agriculture technology adoption in developing countries: a review
+- **Authors:** Long Le Hoang Nguyen, Alrence S. Halibas, Trung Quang Nguyen
+- **Year:** 2022  |  **Venue:** Journal of Crop Improvement  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/84c580ccfa050669b6b59089f46d31b75629eaff](https://www.semanticscholar.org/paper/84c580ccfa050669b6b59089f46d31b75629eaff)
+
+> ABSTRACT Precision agriculture (PA) technology has proven effective in optimizing yield with minimum inputs and in reducing environmental pollution. In this paper, we aim to investigate factors influencing PA adoption in developing countries at both the farmer (individual) and farm (organizational) levels. Findings from 59 high-ranking journal articles were reviewed to determine factors that facilitate or hinder PA adoption: 63% of studies reported factors at the farm level and 37% at the individual level. At the individual level, factors promoting PA adoption included the technology’s relativ
+
+---
+
 
 ## 📅 2021
 
@@ -7758,6 +8463,30 @@ METHODS: An overview of the status of food insecurity in SSA and associated fact
 - **Link:** [https://www.semanticscholar.org/paper/6c5ff8314bcc016c0374f8e30c8f20066c9f0b8c](https://www.semanticscholar.org/paper/6c5ff8314bcc016c0374f8e30c8f20066c9f0b8c)
 
 > Soybeans are an important crop for global food security. Every year, soybean yields are reduced by numerous soybean diseases, particularly the soybean cyst nematode (SCN). It is difficult to visually identify the presence of SCN in the field, let alone its population densities or numbers, as there are no obvious aboveground disease symptoms. The only definitive way to assess SCN population densities is to directly extract the SCN cysts from soil and then extract the eggs from cysts and count them. Extraction is typically conducted in commercial soil analysis laboratories and university plant d
+
+---
+
+### 📄 Deep Learning with Particle Swarm Based Hyper Parameter Tuning Based Crop Recommendation for Better Crop Yield for Precision Agriculture
+- **Authors:** K. Mythili, R. Rangaraj
+- **Year:** 2021  |  **Venue:** Indian Journal of Science and Technology  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/434c5b0a475bec978f75e5d23b9a5ccc62b7aa59](https://www.semanticscholar.org/paper/434c5b0a475bec978f75e5d23b9a5ccc62b7aa59)
+
+> The common diﬃculty present among the Indian farmers is that they don’t opt for the proper crop based on their soil necessities. Because of this productivity is aﬀected. This problem of the farmers has been solved through precision agriculture. This method is characterized by a crop database collected from the farm, crop provided by agricultural experts and given to recommendation system it will use the collect data and do deep learning model as learners to recommend a crop for site speciﬁc parameter with high accuracy and eﬃciency. Objectives : The comprehensive objective of the model is to d
+
+---
+
+### 📄 PREDICTION OF CROP YIELD IN PRECISION
+AGRICULTURE USING MACHINE LEARNING
+METHODS
+- **Authors:** Vikas Tripathi, Devvret Verma, Rajesh Upadhyay
+- **Year:** 2021  |  **Venue:** Webology  |  **Source:** `SemanticScholar`
+- **Search Query:** `precision agriculture technology crop yield`
+- **Fetched:** 2026-03-10
+- **Link:** [https://www.semanticscholar.org/paper/66328a5d5bfb2a171f9c6eb7a717899191b69b88](https://www.semanticscholar.org/paper/66328a5d5bfb2a171f9c6eb7a717899191b69b88)
+
+> Crop yield estimationis crucial in agriculture. Remote sensing (RS) methods are rapidly being employed in the creation of decision support systems for modern agricultural systems to boost crop output and nitrogen control while lowering operating expenses and environmental impact. However, because RS-based systems require the processing of large amounts of remote sensing - based data from a variety of platforms, machine learning (ML) techniques are gaining popularity. This is owing to the ability of ML algorithms to handle non-linear problems and a large number of data. Over the last 15 years, 
 
 ---
 
