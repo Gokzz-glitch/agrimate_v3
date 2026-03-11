@@ -102,12 +102,22 @@ Based on the latest 2026 research papers (e.g., focus on Edge AI and CRISPR), ou
 
 if __name__ == "__main__":
     # Run immediately on start
-    generate_report()
+    try:
+        generate_report()
+    except Exception as e:
+        print(f"[{datetime.now()}] ❌ Initial report generation failed: {e}")
     
     # Schedule hourly
     schedule.every(1).hours.do(generate_report)
     
     print(f"[{datetime.now()}] 🚀 ML Re-analyser scheduled for every 1 hour. Press Ctrl+C to stop.")
     while True:
-        schedule.run_pending()
-        time.sleep(60)
+        try:
+            schedule.run_pending()
+            time.sleep(60)
+        except KeyboardInterrupt:
+            print(f"[{datetime.now()}] 🛑 ML Re-analyser stopped by user.")
+            break
+        except Exception as e:
+            print(f"[{datetime.now()}] ❌ ML Re-analyser loop encountered an error: {e}")
+            time.sleep(60)

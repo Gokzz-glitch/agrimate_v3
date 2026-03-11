@@ -299,8 +299,12 @@ if __name__ == "__main__":
 
     try:
         while True:
-            schedule.run_pending()
-            time.sleep(10)
+            try:
+                schedule.run_pending()
+                time.sleep(10)
+            except Exception as e:
+                log(f"Unexpected error in polling loop: {e}", "ERR")
+                time.sleep(10)
     except KeyboardInterrupt:
         log("Poller stopped by user. Goodbye!", "WARN")
         print(f"\n{YELLOW}Poller stopped. Your findings are saved in:{RESET}")
