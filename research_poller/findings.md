@@ -1,6 +1,6 @@
 # 🌾 AGRIMATE — Live Farming Research Findings
 
-> **Last Updated:** `2026-03-11T01:34:05.650656+00:00`  |  **Total Papers:** `838`
+> **Last Updated:** `2026-03-11T03:34:56.595158+00:00`  |  **Total Papers:** `840`
 
 ---
 
@@ -7057,6 +7057,17 @@ Findings: Frequent droughts in Australia accelerate desertifica
 
 ---
 
+### 📄 Assessing Global Agricultural Greenhouse Gas Emissions: Key Drivers and Mitigation Strategies
+- **Authors:** Shuo Zhou, Boyu Liu, Jianquan Wang, Dian Jin
+- **Year:** 2025  |  **Venue:** Agronomy  |  **Source:** `SemanticScholar`
+- **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/d1cd8579a81d7c297ecc382d0cc41bba38bb4c8c](https://www.semanticscholar.org/paper/d1cd8579a81d7c297ecc382d0cc41bba38bb4c8c)
+
+> Climate change has emerged as one of the most pressing global challenges in recent decades. Agricultural activities significantly influence climate dynamics, necessitating thorough investigation of their emission patterns. Using the FAO datasets, the objectives of this study were to assess agricultural GHG emissions, identify influencing factors, and explore potential mitigation strategies. The results show that emissions related to crop production are strongly correlated with the yields of predominant crops. Maize production had the largest impact on crop emissions (0.023), followed by potato
+
+---
+
 
 ## 📅 2024
 
@@ -9119,6 +9130,17 @@ sites in West Africa” (see [1]). This research actio
 - **Search Query:** `pastoral farming drought climate Australia`
 - **Fetched:** 2026-03-11
 - **Link:** [https://www.semanticscholar.org/paper/5284cbe93ae3990347b39ff8bc7bfa4b1615833c](https://www.semanticscholar.org/paper/5284cbe93ae3990347b39ff8bc7bfa4b1615833c)
+
+> No abstract available.
+
+---
+
+### 📄 Neoformation of pedogenic carbonates by irrigation and fertilization and their contribution to carbon sequestration in soil
+- **Authors:** M. A. Bughio, Panlei Wang, F. Meng, C. Qing
+- **Year:** 2016  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `natural farming soil carbon sequestration`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/d173bc922746c0f115c14dbffa15ba0a09188764](https://www.semanticscholar.org/paper/d173bc922746c0f115c14dbffa15ba0a09188764)
 
 > No abstract available.
 

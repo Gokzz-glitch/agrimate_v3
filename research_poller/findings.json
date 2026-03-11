@@ -10055,10 +10055,34 @@
       "url": "https://www.semanticscholar.org/paper/61ee8e59eb267c8cd7817d424c6018eb51312ed4",
       "query": "pastoral farming drought climate Australia",
       "fetched_at": "2026-03-11T00:59:30.376778+00:00"
+    },
+    "57a86ad2afbb1ed4f9e4bfe91d8b9b53204d14b0": {
+      "source": "SemanticScholar",
+      "title": "Neoformation of pedogenic carbonates by irrigation and fertilization and their contribution to carbon sequestration in soil",
+      "year": 2016,
+      "abstract": "No abstract available.",
+      "authors": "M. A. Bughio, Panlei Wang, F. Meng, C. Qing",
+      "venue": "",
+      "doi": "10.1016/J.GEODERMA.2015.08.003",
+      "url": "https://www.semanticscholar.org/paper/d173bc922746c0f115c14dbffa15ba0a09188764",
+      "query": "natural farming soil carbon sequestration",
+      "fetched_at": "2026-03-11T02:57:51.902239+00:00"
+    },
+    "0c117491ca6b2aab8e16c5f33f01d08c635ae5f5": {
+      "source": "SemanticScholar",
+      "title": "Assessing Global Agricultural Greenhouse Gas Emissions: Key Drivers and Mitigation Strategies",
+      "year": 2025,
+      "abstract": "Climate change has emerged as one of the most pressing global challenges in recent decades. Agricultural activities significantly influence climate dynamics, necessitating thorough investigation of their emission patterns. Using the FAO datasets, the objectives of this study were to assess agricultural GHG emissions, identify influencing factors, and explore potential mitigation strategies. The results show that emissions related to crop production are strongly correlated with the yields of predominant crops. Maize production had the largest impact on crop emissions (0.023), followed by potato",
+      "authors": "Shuo Zhou, Boyu Liu, Jianquan Wang, Dian Jin",
+      "venue": "Agronomy",
+      "doi": "10.3390/agronomy15061336",
+      "url": "https://www.semanticscholar.org/paper/d1cd8579a81d7c297ecc382d0cc41bba38bb4c8c",
+      "query": "livestock greenhouse gas mitigation silvopastoral",
+      "fetched_at": "2026-03-11T03:01:24.360987+00:00"
     }
   },
   "meta": {
-    "last_updated": "2026-03-11T01:34:05.650656+00:00",
-    "total": 838
+    "last_updated": "2026-03-11T03:34:56.595158+00:00",
+    "total": 840
   }
 }
