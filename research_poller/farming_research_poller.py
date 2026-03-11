@@ -247,7 +247,7 @@ cycle_count = [0]
 def run_poll():
     """Core polling function — called every POLL_INTERVAL_MINUTES."""
     cycle_count[0] += 1
-    log(f"{BOLD}─── Poll Cycle #{cycle_count[0]} Starting ───{RESET}", "INFO")
+    log(f"{BOLD}--- Poll Cycle #{cycle_count[0]} Starting ---{RESET}", "INFO")
 
     db = load_db()
     new_count = 0
@@ -281,14 +281,14 @@ def run_poll():
 
 if __name__ == "__main__":
     print(f"\n{BOLD}{GREEN}")
-    print("╔══════════════════════════════════════════════════════════════╗")
-    print("║       AGRIMATE — Farming Research Auto-Poller v1.0           ║")
-    print("╠══════════════════════════════════════════════════════════════╣")
-    print(f"║  Poll Interval  : Every {POLL_INTERVAL_MINUTES} minutes                             ║")
-    print(f"║  Queries/Cycle  : {len(SEARCH_QUERIES)} topic queries                          ║")
-    print(f"║  APIs           : Semantic Scholar + OpenAlex (both FREE)   ║")
-    print(f"║  Output         : findings.json + findings.md               ║")
-    print("╚══════════════════════════════════════════════════════════════╝")
+    print("+--------------------------------------------------------------+")
+    print("|       AGRIMATE - Farming Research Auto-Poller v1.0           |")
+    print("+--------------------------------------------------------------+")
+    print(f"|  Poll Interval  : Every {POLL_INTERVAL_MINUTES} minutes                             |")
+    print(f"|  Queries/Cycle  : {len(SEARCH_QUERIES)} topic queries                          |")
+    print(f"|  APIs           : Semantic Scholar + OpenAlex (both FREE)   |")
+    print(f"|  Output         : findings.json + findings.md               |")
+    print("+--------------------------------------------------------------+")
     print(f"{RESET}\n")
 
     log("Poller initialised. Running first poll immediately...", "INFO")

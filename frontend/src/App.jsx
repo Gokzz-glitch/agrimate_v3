@@ -31,6 +31,14 @@ const IconUser = () => (
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
+  const [sysStatus, setSysStatus] = useState({ gateway: 'offline' });
+
+  useState(() => {
+    fetch('http://127.0.0.1:8080/api/v1/system_status')
+      .then(res => res.json())
+      .then(data => setSysStatus(data))
+      .catch(() => setSysStatus({ gateway: 'offline' }));
+  }, []);
 
   return (
     <div className="app-container">
@@ -70,12 +78,18 @@ export default function App() {
 
       <main className="main-content">
         <header className="header animate-fade-in">
-          <h1 className="page-title">
-            {activeTab === 'dashboard' && 'Farm Overview'}
-            {activeTab === 'monitoring' && 'NDVI Analysis'}
-            {activeTab === 'assistant' && 'Agrimate Assistant'}
-            {activeTab === 'market' && 'Agmarknet Prices'}
-          </h1>
+          <div className="flex-col">
+            <h1 className="page-title">
+              {activeTab === 'dashboard' && 'Farm Overview'}
+              {activeTab === 'monitoring' && 'NDVI Analysis'}
+              {activeTab === 'assistant' && 'Agrimate Assistant'}
+              {activeTab === 'market' && 'Agmarknet Prices'}
+            </h1>
+            <div className="flex gap-2" style={{ marginTop: '0.25rem' }}>
+              <span className={`badge ${sysStatus.gateway === 'online' ? 'badge-success' : 'badge-warning'}`}>Gateway: {sysStatus.gateway}</span>
+              <span className={`badge ${sysStatus.throttler === 'enabled' ? 'badge-success' : 'badge-warning'}`}>Throttler: {sysStatus.throttler}</span>
+            </div>
+          </div>
           <div className="user-profile">
             <button className="btn-primary">Connect Synapse</button>
             <div className="avatar">
@@ -84,7 +98,7 @@ export default function App() {
           </div>
         </header>
 
-        {activeTab === 'dashboard' && <Dashboard />}
+        {activeTab === 'dashboard' && <Dashboard sysStatus={sysStatus} />}
         {activeTab === 'monitoring' && <Monitoring />}
         {activeTab === 'assistant' && <AIAssistant />}
         {activeTab === 'market' && <MarketIntelligence />}
@@ -93,7 +107,16 @@ export default function App() {
   );
 }
 
-function Dashboard() {
+function Dashboard({ sysStatus }) {
+  const [summary, setSummary] = useState(null);
+
+  useState(() => {
+    fetch('http://127.0.0.1:8080/api/v1/data_summary')
+      .then(res => res.json())
+      .then(data => setSummary(data))
+      .catch(() => {});
+  }, []);
+
   return (
     <div className="dashboard-grid animate-fade-in delay-1">
       <div className="stat-card glass-panel widget-small">
@@ -109,22 +132,20 @@ function Dashboard() {
       </div>
       <div className="stat-card glass-panel widget-small">
         <div className="stat-header">
-          <span>Avg. NDVI Score</span>
+          <span>Records Ingested</span>
           <IconDashboard />
         </div>
-        <div className="stat-value">0.74</div>
-        <div className="stat-change positive">Healthy coverage</div>
+        <div className="stat-value">{summary?.total_rows || 0}</div>
+        <div className="stat-change positive">From {Object.keys(summary?.sources || {}).length} sources</div>
       </div>
       <div className="stat-card glass-panel widget-small">
         <div className="stat-header">
-          <span>System Status</span>
+          <span>Process Status</span>
           <IconChat />
         </div>
-        <div className="flex gap-2 items-center" style={{ marginTop: '0.5rem' }}>
-          <div className="badge badge-success">ML Models Online</div>
-        </div>
-        <div className="flex gap-2 items-center" style={{ marginTop: '0.5rem' }}>
-          <div className="badge badge-success">Database Syncing</div>
+        <div className="flex-col gap-1" style={{ marginTop: '0.5rem' }}>
+          <div className={`badge ${sysStatus.research_poller === 'active' ? 'badge-success' : 'badge-warning'}`}>Poller: {sysStatus.research_poller}</div>
+          <div className={`badge ${sysStatus.ml_reanalyser === 'active' ? 'badge-success' : 'badge-warning'}`}>Re-analyser: {sysStatus.ml_reanalyser}</div>
         </div>
       </div>
 
@@ -140,22 +161,17 @@ function Dashboard() {
       </div>
 
       <div className="glass-panel widget-small">
-        <div className="widget-title">Alerts</div>
+        <div className="widget-title">Project Context</div>
         <div className="flex-col gap-4">
-          <div style={{ borderLeft: '2px solid var(--warning-color)', paddingLeft: '1rem' }}>
-            <div className="flex justify-between">
-              <span style={{ fontWeight: 600 }}>Irregular Moisture</span>
-              <span style={{ color: 'var(--text-secondary)', fontSize: '0.8rem' }}>2h ago</span>
+          {summary?.sources && Object.entries(summary.sources).map(([name, count]) => (
+            <div key={name} style={{ borderLeft: '2px solid var(--accent-primary)', paddingLeft: '1rem' }}>
+              <div className="flex justify-between">
+                <span style={{ fontWeight: 600 }}>{name} Data</span>
+                <span className="badge badge-success" style={{ fontSize: '0.7rem' }}>SYNCED</span>
+              </div>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', marginTop: '0.25rem' }}>{count} master records processed.</p>
             </div>
-            <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', marginTop: '0.25rem' }}>Sector B4 showing -15% moisture than baseline.</p>
-          </div>
-          <div style={{ borderLeft: '2px solid var(--success-color)', paddingLeft: '1rem' }}>
-            <div className="flex justify-between">
-              <span style={{ fontWeight: 600 }}>Model Retrained</span>
-              <span style={{ color: 'var(--text-secondary)', fontSize: '0.8rem' }}>5h ago</span>
-            </div>
-            <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', marginTop: '0.25rem' }}>YOLOv8 NDVI evaluation complete. AP 0.94.</p>
-          </div>
+          ))}
         </div>
       </div>
     </div>
@@ -177,12 +193,39 @@ function Monitoring() {
 }
 
 function MarketIntelligence() {
+  const [summary, setSummary] = useState(null);
+
+  useState(() => {
+    fetch('http://127.0.0.1:8080/api/v1/data_summary')
+      .then(res => res.json())
+      .then(data => setSummary(data))
+      .catch(() => {});
+  }, []);
+
   return (
     <div className="dashboard-grid animate-fade-in delay-1">
       <div className="glass-panel" style={{ gridColumn: 'span 12', padding: '1.5rem' }}>
-        <div className="widget-title">Live API Price Feed</div>
-        <div style={{ color: 'var(--text-secondary)', zIndex: 2, padding: '2rem', textAlign: 'center' }}>
-          Agmarknet API Integration Pending
+        <div className="widget-title">Agmarknet Price Feed Strategy</div>
+        <div className="flex-col gap-4">
+          <div className="glass-panel" style={{ padding: '1.5rem', background: 'rgba(255,255,255,0.02)' }}>
+            <h3 style={{ marginBottom: '1rem' }}>Data Sources Integrated</h3>
+            <div className="flex gap-4">
+              {summary?.sources && Object.entries(summary.sources).map(([name, count]) => (
+                <div key={name} className="stat-card glass-panel" style={{ flex: 1, padding: '1rem' }}>
+                   <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>{name}</div>
+                   <div style={{ fontSize: '1.5rem', fontWeight: 700 }}>{count}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+          
+          <div className="glass-panel" style={{ padding: '1.5rem', background: 'rgba(255,255,255,0.02)' }}>
+            <h3 style={{ marginBottom: '1rem' }}>Automated APY/Agmarknet Pipeline (T-101)</h3>
+            <p style={{ color: 'var(--text-secondary)', lineHeight: 1.6 }}>
+              The current pipeline handles standardization of {summary?.columns?.length || 0} features across state-wise datasets. 
+              The Master Panel in Google Drive is updated hourly by the ML Re-analyser.
+            </p>
+          </div>
         </div>
       </div>
     </div>

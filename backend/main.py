@@ -3,6 +3,8 @@ from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import httpx
+import time
+import json
 from dotenv import load_dotenv
 
 # T-005: Initialize API Gateway for local operations
@@ -25,6 +27,30 @@ COLAB_API_URL = os.getenv("COLAB_NGROK_URL", "")
 @app.get("/")
 async def health_check():
     return {"status": "online", "message": "Agrimate V3 Local Gateway Running. Resource usage capped to <85% system limits as mandated."}
+
+@app.get("/api/v1/system_status")
+async def system_status():
+    """Returns the status of background automation processes."""
+    # Check if files were updated recently
+    poller_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "research_poller", "findings.json")
+    reanalyser_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "artifacts", "agrimate_model_recommendation.md")
+    
+    status = {
+        "gateway": "online",
+        "research_poller": "active" if os.path.exists(poller_path) and (time.time() - os.path.getmtime(poller_path)) < 3600 else "dormant",
+        "ml_reanalyser": "active" if os.path.exists(reanalyser_path) and (time.time() - os.path.getmtime(reanalyser_path)) < 7200 else "dormant",
+        "throttler": "enabled"
+    }
+    return status
+
+@app.get("/api/v1/data_summary")
+async def data_summary():
+    """Returns a summary of ingested agricultural data."""
+    summary_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data_processed", "master_panel_summary.json")
+    if os.path.exists(summary_path):
+        with open(summary_path, "r") as f:
+            return json.load(f)
+    return {"total_rows": 0, "sources": {}}
 
 @app.post("/api/v1/trigger_training")
 async def proxy_training_to_cloud(script_path: str):
