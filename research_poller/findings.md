@@ -1,6 +1,6 @@
 # 🌾 AGRIMATE — Live Farming Research Findings
 
-> **Last Updated:** `2026-03-10T23:07:57.148837+00:00`  |  **Total Papers:** `814`
+> **Last Updated:** `2026-03-11T00:18:39.706853+00:00`  |  **Total Papers:** `818`
 
 ---
 
@@ -6934,6 +6934,39 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 
 ---
 
+### 📄 Advancing Crop Resilience Through High-Throughput Phenotyping for Crop Improvement in the Face of Climate Change
+- **Authors:** Hoa Thi Nguyen, Md. Arifur Rahman Khan, Thu Thi Bich Nguyen, N. Pham
+- **Year:** 2025  |  **Venue:** Plants  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/d6f1efff9dd304e643b8b8593ceaaaa0d42b063b](https://www.semanticscholar.org/paper/d6f1efff9dd304e643b8b8593ceaaaa0d42b063b)
+
+> Climate change intensifies biotic and abiotic stresses, threatening global crop productivity. High-throughput phenotyping (HTP) technologies provide a non-destructive approach to monitor plant responses to environmental stresses, offering new opportunities for both crop stress resilience and breeding research. Innovations, such as hyperspectral imaging, unmanned aerial vehicles, and machine learning, enhance our ability to assess plant traits under various environmental stresses, including drought, salinity, extreme temperatures, and pest and disease infestations. These tools facilitate the id
+
+---
+
+### 📄 Intelligent Detection and Control of Crop Pests and Diseases: Current Status and Future Prospects
+- **Authors:** Jiaxing Xie, Meiyi Lu, Qunpeng Gao, Liye Chen
+- **Year:** 2025  |  **Venue:** Agronomy  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/6a755047c3a92099e26603cca9a7cfb7a11d648e](https://www.semanticscholar.org/paper/6a755047c3a92099e26603cca9a7cfb7a11d648e)
+
+> Against the backdrop of a growing global population and intensifying climate change, crop pests and diseases have become significant challenges affecting agricultural production and food security. Efficient and precise detection and control of crop pests and diseases are crucial for ensuring yield and quality, reducing agricultural losses, and promoting sustainable agriculture. In recent years, intelligent diagnostic methods based on machine learning and deep learning have advanced rapidly, providing new technological means for the early detection and management of crop pests and diseases. Mea
+
+---
+
+### 📄 Nanotechnology in Agriculture: A Review of Innovations in Crop Protection and Food Security
+- **Authors:** Dipak Raj Bist, Pawan Chapagaee, Adhiraj Kunwar, Bishnu Datta Pant
+- **Year:** 2025  |  **Venue:** Advances in Agriculture  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/ada48c0e59d304e768170f50ff9a871c58f7629b](https://www.semanticscholar.org/paper/ada48c0e59d304e768170f50ff9a871c58f7629b)
+
+> Nanotechnology is a crucial tool in the agricultural industry that offers innovative solutions to crop production, food security, and sustainability. This review highlights the role of nanotechnology in improves pesticide efficiency by enabling precise targeting, minimizing environmental contamination, and enhancing pest and disease control. Recent advances in nanotechnology have positively impacted sustainable farming practices, making crops more resilient to biotic and abiotic challenges. We discuss key advancements, such as nanosensors for monitor soil and plant conditions in real time and 
+
+---
+
 
 ## 📅 2024
 
@@ -7704,6 +7737,17 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 - **Link:** [https://www.semanticscholar.org/paper/318e00320a92f674411ae876bb6f2cb39d9af22e](https://www.semanticscholar.org/paper/318e00320a92f674411ae876bb6f2cb39d9af22e)
 
 > In agriculture, the sector grapples with pressing challenges arising from climate change, water shortages, and pest infestations. Particularly affecting farmers in developing nations, these challenges amplify issues of food insecurity and poverty, necessitating innovative solutions for sustainable global agricultural progress. Addressing the complexities of climate variability, water scarcity, and pest outbreaks requires comprehensive tools and information. The absence of predictive insights intensifies crop losses and hampers overall profitability. In response, this research introduces DigiFa
+
+---
+
+### 📄 Advancing Disease Management in Agriculture: A Review of Plant Pathology Techniques
+- **Authors:** Chada Anu Reddy, Sourav Oraon, Shankar Dayal Bharti, Abhishek Kumar Yadav
+- **Year:** 2024  |  **Venue:** Plant Science Archives  |  **Source:** `SemanticScholar`
+- **Search Query:** `crop disease pest management global`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/5af991bb2f4ef39fd119927b6eea2f0e757a7fd3](https://www.semanticscholar.org/paper/5af991bb2f4ef39fd119927b6eea2f0e757a7fd3)
+
+> Plant diseases pose significant challenges to global food security and agricultural sustainability. Effective disease management strategies are essential to mitigate the impact of pathogens on crop yields and quality. This review explores the role of plant pathology techniques in disease management, focusing on advancements in diagnostics, pathogen detection, disease surveillance, and integrated pest management (IPM). We discuss the application of molecular techniques, such as polymerase chain reaction (PCR) and next-generation sequencing (NGS), for rapid and accurate identification of plant p
 
 ---
 
