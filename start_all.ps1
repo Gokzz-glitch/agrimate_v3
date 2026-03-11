@@ -11,7 +11,7 @@ Start-Sleep -Seconds 1
 
 # 1. Local Backend Gateway
 Write-Host "[1/4] Starting Local API Gateway (Port 8080)..."
-Start-Process python -ArgumentList "backend/start.py" -NoNewWindow
+Start-Process python -ArgumentList "start.py" -WorkingDirectory "backend" -NoNewWindow
 
 # 2. System Throttler (Protection)
 Write-Host "[2/4] Starting System Throttler (Hardware Protection)..."
@@ -19,10 +19,10 @@ Start-Process python -ArgumentList "system_throttler.py" -NoNewWindow
 
 # 3. Research Poller
 Write-Host "[3/4] Starting Research Poller (Semantic Scholar/OpenAlex)..."
-Start-Process python -ArgumentList "research_poller/farming_research_poller.py" -NoNewWindow
+Start-Process python -ArgumentList "farming_research_poller.py" -WorkingDirectory "research_poller" -NoNewWindow
 
 # 4. ML Re-analyser
 Write-Host "[4/4] Starting ML Re-analyser (Hourly Reporting)..."
-Start-Process python -ArgumentList "ml/ml_reanalyser.py" -NoNewWindow
+Start-Process python -ArgumentList "ml_reanalyser.py" -WorkingDirectory "ml" -NoNewWindow
 
 Write-Host "Done. Use 'tasklist /FI `"IMAGENAME eq python3.12.exe`"' to monitor." -ForegroundColor Green
