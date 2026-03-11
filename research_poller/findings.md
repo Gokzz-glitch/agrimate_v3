@@ -1,6 +1,6 @@
 # 🌾 AGRIMATE — Live Farming Research Findings
 
-> **Last Updated:** `2026-03-11T00:18:39.706853+00:00`  |  **Total Papers:** `818`
+> **Last Updated:** `2026-03-11T01:34:05.650656+00:00`  |  **Total Papers:** `838`
 
 ---
 
@@ -6967,6 +6967,96 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 
 ---
 
+### 📄 Twenty-Year Variability in Water Use Efficiency over the Farming–Pastoral Ecotone of Northern China: Driving Force and Resilience to Drought
+- **Authors:** Xiaonan Guo, Meng Wu, Zhijun Shen, Guofei Shang
+- **Year:** 2025  |  **Venue:** Agriculture  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/2634cd53ce21328197085c24ba1622383eb393a9](https://www.semanticscholar.org/paper/2634cd53ce21328197085c24ba1622383eb393a9)
+
+> Water use efficiency (WUE), as an important metric for ecosystem resilience, has been identified to play a significant role in the coupling of carbon and water cycles. The farming–pastoral ecotone of Northern China (FPENC), which is highly susceptible to drought due to water scarcity, has long been recognized as an ecologically fragile zone. The ecological restoration projects in China have mitigated land degradation and maintain the sustainability of dryland. However, the process of greening in drylands has the potential to impact water availability. A comprehensive analysis of the WUE in the
+
+---
+
+### 📄 From drought to displacement: Assessing the impacts of climate change on conflict and forced migration in West Africa's Sahel Region
+- **Authors:** E. Eboreime, Omolayo Anjorin, C. Obi-Jeff, Tunde M Ojo
+- **Year:** 2025  |  **Venue:** The Journal of Climate Change and Health  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/ec0b3bbcc3966ecc0b4c16769688d316db1c44ca](https://www.semanticscholar.org/paper/ec0b3bbcc3966ecc0b4c16769688d316db1c44ca)
+
+> Across Africa's semiarid Sahel region, temperatures have risen faster than the global average, resulting in severe threats to water access, food security, and human health. Key climate factors such as desertification interact with ethnic and economic tensions, exacerbating violence between pastoral and farming groups competing over degraded productive land and water resources. Mounting climate pressures act as threat multipliers for both violent conflict and internal displacement across countries spanning Senegal to Sudan. This perspective examines intersections of climate change, violent clas
+
+---
+
+### 📄 The adaptation of loyalists and nomads to drought and climate change in the Southwestern Algerian Sahara - Naama
+- **Authors:** Abdelkader Bouarfa, Said Bouarfa, Okkacha Youb, A. Derdour
+- **Year:** 2025  |  **Venue:** Theoretical and Applied Climatology  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/8042edf6708cc20d182f3686a4980ed7df906db1](https://www.semanticscholar.org/paper/8042edf6708cc20d182f3686a4980ed7df906db1)
+
+> No abstract available.
+
+---
+
+### 📄 Determinants of Livelihood Choices in Response to Climate Variability among the Pastoral and Agro-Pastoral Communities in Northern Kenya
+- **Authors:** A. M. Galwab, O. K. Koech, O. Wasonga
+- **Year:** 2025  |  **Venue:** Pastures &amp; Pastoralism  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/814a5993df84ec952b03b2d125c11767bc35e3a5](https://www.semanticscholar.org/paper/814a5993df84ec952b03b2d125c11767bc35e3a5)
+
+> Climate variability causes pulsed livestock and crop production, and in severe cases, production failure. It is, thus, an important predictor of household livelihood choice in pastoral and agro-pastoral communities that rely on rain-fed pastures and crops. The objective of this study was to investigate the factors that influence household livelihood choices and determine the repercussions that will help northern Kenya’s pastoral and agro-pastoral production and adaptation policies. The historical self-calibrating Palmer Drought Severity Index (PDSI) was calculated every month using the 40-year
+
+---
+
+### 📄 Relationship between Drought Frequency and Desertification Progress in Australia
+- **Authors:** Zoe Morgan
+- **Year:** 2025  |  **Venue:** International Journal of Natural Sciences  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/aee49f7fdc5f01544b78c2e913e8f16987d60d82](https://www.semanticscholar.org/paper/aee49f7fdc5f01544b78c2e913e8f16987d60d82)
+
+> Purpose: The aim of the study was to analyze the relationship between drought frequency and desertification progress in Australia. 
+Methodology: This study adopted a desk methodology. A desk study research design is commonly known as secondary data collection. This is basically collecting data from existing resources preferably because of its low cost advantage as compared to a field research. Our current study looked into already published studies and reports as the data was easily accessed through online journals and libraries. 
+Findings: Frequent droughts in Australia accelerate desertifica
+
+---
+
+### 📄 Pastoral hazardscapes in Aotearoa New Zealand: gender, land dispossession, and dairying in a warming climate
+- **Authors:** C. Griffin, Anita Wreford, Nicholas A. Cradock-Henry
+- **Year:** 2025  |  **Venue:** Agriculture and Human Values  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/84fbdaa8069f9466ef3f508a9404ddbbbfef8854](https://www.semanticscholar.org/paper/84fbdaa8069f9466ef3f508a9404ddbbbfef8854)
+
+> The impacts of climate change are exposing vast stretches of dairy farms in the Waikato region of Aotearoa New Zealand to floods, droughts, and seawater inundation. This article describes how the Waikato ‘hazardscape’—co-created through processes of land dispossession, dairy intensification, and climate change—shapes the vulnerabilities and capacities of different dairy farming groups, specifically women, intergenerational, and Indigenous Māori farmers. Our findings show that while contemporary Māori owned dairy farms are sometimes situated on sub-optimal land as a result of decades of land di
+
+---
+
+### 📄 Biofilm biofertilizer for climate-resilient rice cultivation: A strategic review of emerging Indonesia–Australia collaboration
+- **Authors:** W. S. Dewi, Riris S.T. Tinuntun, B. Hanafi, A. Andriani
+- **Year:** 2025  |  **Venue:** E3S Web of Conferences  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/c21754ab06f7446685f16862a561dd3a09080a52](https://www.semanticscholar.org/paper/c21754ab06f7446685f16862a561dd3a09080a52)
+
+> Rice farming in Asia is under mounting pressure from drought, salinity, and declining soil health, all of which are intensified by climate change. Biofilm biofertilizer (BB), a microbial technology that embeds beneficial bacteria within biofilm structures, offers a promising solution to enhance plant growth and resilience in paddy fields. This literature review is based on references accessed through Science Direct, Google Scholar, Scopus, and other academic sources. Findings reveal that biofilm biofertilizers can increase rice yields while improving crop performance under water-limited condit
+
+---
+
+### 📄 Are climate change adaptation strategies interrelated? Evidence from Borana pastoral communities, southern Ethiopia
+- **Authors:** A. Feyissa, A. Angassa, Menfese Tadesse
+- **Year:** 2025  |  **Venue:** Frontiers in Climate  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/61ee8e59eb267c8cd7817d424c6018eb51312ed4](https://www.semanticscholar.org/paper/61ee8e59eb267c8cd7817d424c6018eb51312ed4)
+
+> Climate change manifests itself in recurrent droughts and erratic rainfall, resulting in diminished local water and animal feed resources. This has led to the death of large numbers of livestock, which are the basis of pastoral livelihoods in the Borana Zone, southern Ethiopia. In response to climate change impacts, the Borana pastoral community adopted various adaptation strategies to sustain their livelihoods. The present study examined the factors that determine pastoralists’ adaptation strategies and the intensities of their adoption and identified barriers to their implementation. A multi
+
+---
+
 
 ## 📅 2024
 
@@ -7751,6 +7841,19 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 
 ---
 
+### 📄 Influence of Climate Change Adaptation Policies on Sheep Farming Viability in Australia
+- **Authors:** Ethan Roberts
+- **Year:** 2024  |  **Venue:** Journal of Livestock Policy  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/a7c0cb3772d230108f126ca9a66870ed6792e385](https://www.semanticscholar.org/paper/a7c0cb3772d230108f126ca9a66870ed6792e385)
+
+> Purpose: The aim of the study was to analyze the influence of climate change adaptation policies on sheep farming viability in Australia. 
+Methodology: This study adopted a desk methodology. A desk study research design is commonly known as secondary data collection. This is basically collecting data from existing resources preferably because of its low cost advantage as compared to a field research. Our current study looked into already published studies and reports as the data was easily accessed through online journals and libraries. 
+Findings: Climate change adaptation policies in Australi
+
+---
+
 
 ## 📅 2023
 
@@ -8216,6 +8319,17 @@ Methodology: Comprehensive literature review of peer-reviewed articles (2014–2
 
 ---
 
+### 📄 Analysis on crop-livestock and agro-pastoral farming system
+- **Authors:** Asmera Adicha
+- **Year:** 2023  |  **Venue:** Journal of innovative agriculture  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/880872f5d03256c539e363f5ea9bc89f74dc894b](https://www.semanticscholar.org/paper/880872f5d03256c539e363f5ea9bc89f74dc894b)
+
+> Identifying the current farming system is important for different agricultural policy implementation as climate variability changed the farming system in the study area. Hence, this study aimed to analyze the current farming system of crop-livestock and agro-pastoral areas in the south omo zone. A multistage sampling method was used to select 240 sample respondents from the study districts. Descriptive statistics and narrative approaches were used to analyze data. The result indicated that there was a dominance of crop production (63.3%) and supportive livestock production (36.7%) in crop-live
+
+---
+
 
 ## 📅 2022
 
@@ -8534,6 +8648,39 @@ METHODS
 
 ---
 
+### 📄 Drought and flood characteristics in the farming-pastoral ecotone of northern China based on the Standardized Precipitation Index
+- **Authors:** Huicong Cao, Dandan Yan, Yuelin Ju
+- **Year:** 2021  |  **Venue:** Journal of Arid Land  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/2333bb385a67a33a1dc2cc359f94b085de7b6c60](https://www.semanticscholar.org/paper/2333bb385a67a33a1dc2cc359f94b085de7b6c60)
+
+> No abstract available.
+
+---
+
+### 📄 Aridification in a farming-pastoral ecotone of northern China from 2 perspectives: Climate and soil.
+- **Authors:** Guoliang Zhang, Xin Chen, Yi Zhou, Li Jiang
+- **Year:** 2021  |  **Venue:** Journal of Environmental Management  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/3cb93a6c9f783f831cf8e111a9637a8306fc3083](https://www.semanticscholar.org/paper/3cb93a6c9f783f831cf8e111a9637a8306fc3083)
+
+> Understanding the impact of climate change on terrestrial wet and dry changes and the relationship between the two is of great significance to the sustainable development of terrestrial ecosystems. The farming-pastoral ecotone of northern China (FPENC) is an area that is sensitive to climate change, suffering from perennial drought and a clear aridification trend. Unlike previous single-factor, single-timescale studies, we identified aridification in the region based on a dataset established by remote sensing and ground-based monitoring stations from a combination of two perspectives: climate 
+
+---
+
+### 📄 Northern Australia Climate Program: supporting adaptation in rangeland grazing systems through more targeted climate forecasts, improved drought information and an innovative extension program
+- **Authors:** D. Cobon, C. Jarvis, K. Reardon-Smith, Laura Guillory
+- **Year:** 2021  |  **Venue:** The Rangeland journal  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/2d39125ad1e38f0a83aa6a5d223cab83d3aedde1](https://www.semanticscholar.org/paper/2d39125ad1e38f0a83aa6a5d223cab83d3aedde1)
+
+> The Northern Australia Climate Program (NACP) is a fully integrated research, development and extension (RDandE) program operating across extensive pastoral regions of northern Australia. The NACP aims to improve existing climate models and forecast tools, develop new products to meet user needs and build the capacity of rangeland producers to manage the challenges posed by droughts (or failed wet seasons) and climate variability. Climate information gaps identified through earlier surveys of graziers and communities in rural and remote Australia informed the design of the research component o
+
+---
+
 
 ## 📅 2020
 
@@ -8600,6 +8747,17 @@ METHODS
 - **Link:** [https://www.semanticscholar.org/paper/cf7ed38eeae4e18624efcf402c8e768ea4c3acf2](https://www.semanticscholar.org/paper/cf7ed38eeae4e18624efcf402c8e768ea4c3acf2)
 
 > No abstract available.
+
+---
+
+### 📄 Coping with Climate Extremes: Railways and Pastoralism During Australia’s Federation Drought
+- **Authors:** André Brett, S. Ville
+- **Year:** 2020  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/b79f196f72b56e19bcdc2f05840cb1b61112ba70](https://www.semanticscholar.org/paper/b79f196f72b56e19bcdc2f05840cb1b61112ba70)
+
+> Transport networks can play an important role in responses to extreme climate events, especially when governments own the network and intervene directly. Railways occupied a central place in Australian rural development by the late nineteenth century, a topic that has been discussed widely by scholars of economic history. Much less is known about their contribution during the severe drought crises faced by rural communities. We investigate the role railways played during the Federation Drought of 1895–1903 in sustaining Australia’s largest export industry, pastoralism. Government ownership of 
 
 ---
 
@@ -8702,6 +8860,28 @@ METHODS
 - **Link:** [https://www.semanticscholar.org/paper/08c996d515f8754b4d58e2ea346f1c5d7adfb08a](https://www.semanticscholar.org/paper/08c996d515f8754b4d58e2ea346f1c5d7adfb08a)
 
 > Infected areas and damage levels due to pest and disease have been growing seriously according to the global climate changes. The government department of plant protection normally collects the crop pest and disease information by manual inspection, which is unable to provide timely and spatially continuous crop growth status and pest/ disease development over large areas. The manuscript aims to bring together and produce cutting edge research to provide crop pest and disease monitoring and forecasting information, integrating multi-source (Earth Observation-EO, meteorological, entomological a
+
+---
+
+### 📄 Assessing resilience to underpin implementation of Land Degradation Neutrality: A case study in the rangelands of western New South Wales, Australia
+- **Authors:** A. Cowie, C. Waters, F. Garland, S. Orgill
+- **Year:** 2019  |  **Venue:** Environmental Science and Policy  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/25de52ccca2ee84bbf3cfbd50de3c616a1113515](https://www.semanticscholar.org/paper/25de52ccca2ee84bbf3cfbd50de3c616a1113515)
+
+> Abstract Land degradation through loss of ground cover, wind erosion and woody scrub encroachment affects rangelands globally, threatening the resilience of communities and ecosystems. Climate change is anticipated to exacerbate land degradation in the rangelands, through increased incidence of drought. In the semi-arid rangelands of Australia, land managers have limited capacity to manage land degradation. Recent Australian climate policy initiatives could provide opportunities to improve land management, and increase resilience of rangeland pastoral systems. The Australian government’s Emiss
+
+---
+
+### 📄 Climate change adaptation case studies: Impacts of drought and floods on local farming
+- **Authors:** P. Davey, E. Kabir, Y. Tjoe
+- **Year:** 2019  |  **Venue:** IOP Conference Series: Earth and Environment  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/cdc78e2f1eaa54492b65d1f40eb3977128baf570](https://www.semanticscholar.org/paper/cdc78e2f1eaa54492b65d1f40eb3977128baf570)
+
+> It’s not easy; the current local community really is that climate change and associated disasters are becoming more intense, unpredictable, frequent and costly impacting on rural and urban areas. How can we help communities? Many rural communities, particularly in low income countries and their local governments, residents and small to medium business enterprises (SMEs), find in the context of climate change adaptation that shifting towards Disaster Risk Reduction (DRR) difficult. Local governments in rural areas particularly in developing countries and SMEs are often exposed and cannot better
 
 ---
 
@@ -8922,6 +9102,28 @@ sites in West Africa” (see [1]). This research actio
 
 ---
 
+### 📄 The drought risk of maize in the farming–pastoral ecotone in Northern China based on physical vulnerability assessment
+- **Authors:** Zhiqiang Wang, Jingyi Jiang, Qing Ma
+- **Year:** 2016  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/0e3c89450cc8bfee61efe4eddbe68262a95a1247](https://www.semanticscholar.org/paper/0e3c89450cc8bfee61efe4eddbe68262a95a1247)
+
+> Abstract. Climate change is affecting every aspect of human activities, especially the agriculture. In China, extreme drought events caused by climate change have posed a great threat to food safety. In this work we aimed to study the drought risk of maize in the farming–pastoral ecotone in Northern China based on physical vulnerability assessment. The physical vulnerability curve was constructed from the relationship between drought hazard intensity index and yield loss rate. The risk assessment of agricultural drought was conducted from the drought hazard intensity index and physical vulnera
+
+---
+
+### 📄 Increase of drought stress negatively affects the sustainability of extensive sheep farming in sub-Mediterranean climate
+- **Authors:** P. Scocco, Karina Piermarteri, A. Malfatti, F. Tardella
+- **Year:** 2016  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/5284cbe93ae3990347b39ff8bc7bfa4b1615833c](https://www.semanticscholar.org/paper/5284cbe93ae3990347b39ff8bc7bfa4b1615833c)
+
+> No abstract available.
+
+---
+
 
 ## 📅 2015
 
@@ -8931,6 +9133,28 @@ sites in West Africa” (see [1]). This research actio
 - **Search Query:** `livestock greenhouse gas mitigation silvopastoral`
 - **Fetched:** 2026-03-10
 - **Link:** [https://www.semanticscholar.org/paper/106ec918fd97022b769ccfb4977fd671c586db58](https://www.semanticscholar.org/paper/106ec918fd97022b769ccfb4977fd671c586db58)
+
+> No abstract available.
+
+---
+
+### 📄 The drought disaster and its response to the warming-drying climate in the farming-pastoral ecotones in northern China
+- **Authors:** Du Huamin
+- **Year:** 2015  |  **Venue:**   |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/e264723f90f673b70551c6da4b1a93846a60bdd5](https://www.semanticscholar.org/paper/e264723f90f673b70551c6da4b1a93846a60bdd5)
+
+> No abstract available.
+
+---
+
+### 📄 Risk assessment of maize drought hazard in the middle region of farming-pastoral ecotone in Northern China
+- **Authors:** Zhiqiang Wang, Jingyi Jiang, Yongfeng Liao, Lan Deng
+- **Year:** 2015  |  **Venue:** Natural Hazards  |  **Source:** `SemanticScholar`
+- **Search Query:** `pastoral farming drought climate Australia`
+- **Fetched:** 2026-03-11
+- **Link:** [https://www.semanticscholar.org/paper/2f821ff4b418224679fc7e0b38ca38263b3e7c03](https://www.semanticscholar.org/paper/2f821ff4b418224679fc7e0b38ca38263b3e7c03)
 
 > No abstract available.
 
