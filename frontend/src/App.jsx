@@ -195,20 +195,26 @@ function AIAssistant() {
   ]);
   const [input, setInput] = useState('');
 
-  const handleSend = (e) => {
+  const handleSend = async (e) => {
     e.preventDefault();
     if (!input.trim()) return;
 
-    setMessages([...messages, { role: 'user', text: input }]);
+    const userMessage = { role: 'user', text: input };
+    setMessages(prev => [...prev, userMessage]);
     setInput('');
 
-    // Simulate thinking delay
-    setTimeout(() => {
-      setMessages(prev => [...prev, {
-        role: 'bot',
-        text: 'I am simulating a response to your query regarding the latest datasets. In the production app, this will route to our Colab offloaded API via Ngrok.'
+    try {
+      const response = await fetch(`http://127.0.0.1:8080/api/v1/chat?query=${encodeURIComponent(input)}`, {
+        method: 'POST',
+      });
+      const data = await response.json();
+      setMessages(prev => [...prev, data]);
+    } catch (error) {
+      setMessages(prev => [...prev, { 
+        role: 'bot', 
+        text: 'Connection failed. Please ensure the local backend gateway is running on port 8080.' 
       }]);
-    }, 1500);
+    }
   };
 
   return (

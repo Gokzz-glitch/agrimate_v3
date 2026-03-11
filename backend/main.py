@@ -54,7 +54,19 @@ async def proxy_rag_inference(query: str):
     """
     Proxies RAG inference to the Colab GPU (Llama 3 execution).
     """
-    return {"role": "bot", "text": f"Simulation: Received query '{query}'."}
+    if not COLAB_API_URL:
+        return {"role": "bot", "text": "Gateway Error: COLAB_NGROK_URL not set in .env"}
+    
+    try:
+        async with httpx.AsyncClient() as client:
+            # We assume the Colab side has /chat or we'll fallback to simulation if fails
+            response = await client.post(f"{COLAB_API_URL}/chat?query={query}", timeout=15.0)
+            if response.status_code == 404:
+                return {"role": "bot", "text": f"Simulation: Colab /chat endpoint not found. Input: {query}"}
+            response.raise_for_status()
+            return response.json()
+    except Exception as e:
+        return {"role": "bot", "text": f"Gateway Proxy Error: {str(e)}"}
 
 if __name__ == "__main__":
     import uvicorn
