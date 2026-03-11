@@ -21,9 +21,17 @@ async def trigger_and_wait(script_path):
         "requirements_path": "ml/training/requirements.txt"
     }
     
+    headers = {
+        "ngrok-skip-browser-warning": "1",
+        "User-Agent": "Agrimate-Pipeline"
+    }
+    
     async with httpx.AsyncClient(timeout=30.0) as client:
         try:
-            resp = await client.post(f"{COLAB_URL}/run_notebook", json=payload)
+            resp = await client.post(f"{COLAB_URL}/run_notebook", json=payload, headers=headers)
+            print(f"Status Code: {resp.status_code}")
+            if resp.status_code == 404:
+                 print(f"Response: {resp.text}")
             resp.raise_for_status()
             data = resp.json()
             job_id = data["job_id"]
@@ -31,7 +39,7 @@ async def trigger_and_wait(script_path):
             
             while True:
                 await asyncio.sleep(5)
-                status_resp = await client.get(f"{COLAB_URL}/job_status/{job_id}")
+                status_resp = await client.get(f"{COLAB_URL}/job_status/{job_id}", headers=headers)
                 status_data = status_resp.json()
                 status = status_data["status"]
                 
